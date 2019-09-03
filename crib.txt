@@ -1,0 +1,5 @@
+abcm2ps eastneuk.abc --topmargin 300 -e 126 -s 1 --transpose 2
+
+   Above sets the top margin at 300 points = 4.something inches,  so
+that it could be printed as the second tune on a page.  --transpose 2
+went up two semitones from G to A.

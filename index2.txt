@@ -1,0 +1,62 @@
+80,88,98,132,133 (blanks)                  119      Full Moon Jig
+91               (can replace)             108      Galen's Arrival
+150      All the Way to Galway             41,43    Gavotte (Becker)
+136      Amazing Grace                     123      Grasshopper Sitting...
+83       Amazing Grace                     23,53    Greenfields of America (in A)
+84,148   Angeline the Baker                28       Greenfields of America (in G)
+ 1,70    Angeline the Baker                27,53    Halting March
+13,81    The Ash Grove                     131      Hapavaasti
+ 1,84    Ashokan Farewell                  127,129  Hapavaasti
+130      Back Again (FDR)                  22       Haste to the Wedding
+ 2,15    Barlow Knife                      134      High Road to Linton
+81       Barlow Knife                      135      In the Garden
+82       Battle of Aughrim                 11,137   Jerusalem Ridge
+24,46    Battle of Aughrim                 120      John Bowes
+ 2,15    Bee's Wing Hornpipe                5,37    John Ryan's Polka
+85       Bee's Wing Hornpipe                7       June Apple
+87       Bee's Wing Hornpipe (2 keys)      37,55    Kesh Jig
+25       Before I Met You                  33       L'Internationale
+107      Belle Catherine (A & G)           13,74    Leaving Lismore
+158      Bile Them Cabbage Down            14       Liberty
+ 3,15    Bill Cheatham                     38,58    Mason's Apron
+89       Bill Cheatham                     36,56,63 Minstrel Boy
+ 3,89    Billy in the Lowground            72       Moon and Seven Stars
+ 5,8     Blackberry Blossom                27,54    Morgan Magan
+90       Blind Man's Reel (C & F)          29,52,65 Morrison's Jig
+91,102   Blind Man's Reel (C & G)          142,143  Mouth of Tobique
+94,96    Bonaparte Crossing the Rhine      79       My Home (Mo Dhachaidh)
+ 4,99    Bonaparte's Retreat               14,73    My Home (Mo Dhachaidh)
+97       Bonnie Charlie (in C)             118,139  The Old Mill
+95       Bonnie Charlie (in F)             47,103   Oh, the Britches
+99       Bonnie Kate                       93       Old Joe Clark
+26,46    Bonnie Kate                       152      pi (3.14159...)
+125      Bonnie Tammie                     152      pi=4(1-1/3+1/5-1/7...)
+101      Boy's Lament for His Dragon       154      pi^2/6=1/1^2++1/2^2+1/3^2+...
+140      The Brown Cow (Ms McCleod's Reel) 17       Planxty Fanny Power
+101      Bus Stop Reel                     145      Planxty Irwin
+ 7,103   Cattle in the Corn                147      Rakes of Mallow
+35,104   Chicken Reel                      20,72    Red-Haired Boy (in G)
+10,104   Coilsfield House                  149      Redwing
+134,140  Cold Frosty Morning               61,67    Reel des Accordeonistes
+ 4,105   Colored Aristocracy               93       Road to Boston
+105      Cooley's Reel                     61,66    Round the Horn
+39,47    Cooley's Reel                     30,50    Roxborough Castle
+49,106   Cripple Creek                     59,151   Sally's Waltz
+34,49    Cripple Creek                     34       Salt Creek
+125      Da Mirrie Boys o Greenland        164      Shove That Pig's Foot...
+12       Devil's Dream                     69       Silver Spear
+121      Don Gato                          64       Skye Boat Song
+112      Dover Pier (in G & Bb)            31,50    Smash the Windows ("normal")
+109      Drowsy Maggie                     28       Smash the Windows (simplified)
+24,49    Drowsy Maggie                     8,18,150 Soldier's Joy
+ 9,109   East Neuk of Fife                 155,157  Spootiskerry
+ 9,110   Eighth of January                 71,153   Spootiskerry
+110      Fairy Dance                       18       St Anne's Reel
+26,51    Fairy Dance                       48,156   Swallowtail Jig
+23,51    Farewell to Whiskey               68,159   Teetotaller's Reel
+19       Finn Jenta (in F)                 20       Temperance Reel
+60       Finn Jenta (in G)                 161      Wachet Auf
+114      Finnegan's Wake (Bill)             6,163   Whiskey Before Breakfast
+113      Finnegan's Wake (Kate)            59       Whistling Thief
+35       Fisher's Hornpipe                 156,158  White Cockade
+10       Flowers of Edinburgh               6,16    Why Does the Sun Shine?

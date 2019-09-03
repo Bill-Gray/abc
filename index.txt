@@ -1,0 +1,135 @@
+80,88,98,132,133 (blanks)
+91               (can replace)
+150      All the Way to Galway
+136,83   Amazing Grace
+84,148   Angeline the Baker
+ 1,70    Angeline the Baker
+13,81    The Ash Grove
+ 1,84    Ashokan Farewell
+130      Back Again (FDR)
+ 2,15,81 Barlow Knife
+24,46,82 Battle of Aughrim
+ 2,15,85 Bee's Wing Hornpipe
+87       Bee's Wing Hornpipe (2 keys)
+25       Before I Met You
+107      Belle Catherine (A & G)
+158      Bile Them Cabbage Down
+ 3,15,89 Bill Cheatham
+ 3,89    Billy in the Lowground
+ 5,8     Blackberry Blossom
+90       Blind Man's Reel (C & F)
+91,102   Blind Man's Reel (C & G)
+94,96    Bonaparte Crossing the Rhine
+ 4,99    Bonaparte's Retreat
+95,97    Bonnie Charlie (in F, C)
+99       Bonnie Kate
+26,46    Bonnie Kate
+125      Bonnie Tammie
+101      Boy's Lament for His Dragon
+140      The Brown Cow (Ms McCleod's Reel)
+101      Bus Stop Reel
+ 7,103   Cattle in the Corn
+35,104   Chicken Reel
+10,104   Coilsfield House
+134,140  Cold Frosty Morning
+ 4,105   Colored Aristocracy
+105      Cooley's Reel
+39,47    Cooley's Reel
+49,106   Cripple Creek
+34,49    Cripple Creek
+125      Da Mirrie Boys o Greenland
+12       Devil's Dream
+121      Don Gato
+112      Dover Pier (in G & Bb)
+109      Drowsy Maggie
+24,49    Drowsy Maggie
+ 9,109   East Neuk of Fife
+ 9,110   Eighth of January
+110      Fairy Dance
+26,51    Fairy Dance
+23,51    Farewell to Whiskey
+19,60    Finn Jenta (in F, G)
+113,114  Finnegan's Wake (K,B)
+35       Fisher's Hornpipe
+10       Flowers of Edinburgh
+119      Full Moon Jig
+108      Galen's Arrival
+41,43    Gavotte (Becker)
+123      Grasshopper Sitting...
+23,53    Greenfields of America (in A)
+28       Greenfields of America (in G)
+27,53    Halting March
+131      Hapavaasti
+127,129  Hapavaasti
+22       Haste to the Wedding
+134      High Road to Linton
+135      In the Garden
+11,137   Jerusalem Ridge
+120      John Bowes
+ 5,37    John Ryan's Polka
+ 7       June Apple
+37,55    Kesh Jig
+33       L'Internationale
+13,74    Leaving Lismore
+14       Liberty
+38,58    Mason's Apron
+36,56,63 Minstrel Boy
+72       Moon and Seven Stars
+27,54    Morgan Magan
+29,52,65 Morrison's Jig
+142,143  Mouth of Tobique
+14,73,79 My Home (Mo Dhachaidh)
+118,139  The Old Mill
+47,103   Oh, the Britches
+93       Old Joe Clark
+152      pi (3.14159...)
+152      pi=4(1-1/3+1/5-1/7...)
+154      pi^2/6=1/1^2++1/2^2+1/3^2+...
+17       Planxty Fanny Power
+145      Planxty Irwin
+147      Rakes of Mallow
+20,72    Red-Haired Boy (in G)
+149      Redwing
+61,67    Reel des Accordeonistes
+93       Road to Boston
+61,66    Round the Horn
+30,50    Roxborough Castle
+59,151   Sally's Waltz
+34       Salt Creek
+164      Shove That Pig's Foot...
+69       Silver Spear
+64       Skye Boat Song
+31,50    Smash the Windows ("normal")
+28       Smash the Windows (simplified)
+8,18,150 Soldier's Joy
+155,157  Spootiskerry
+71,153   Spootiskerry
+18       St Anne's Reel
+48,156   Swallowtail Jig
+68,159   Teetotaller's Reel
+20       Temperance Reel
+161      Wachet Auf
+ 6,163   Whiskey Before Breakfast
+59       Whistling Thief
+156,158  White Cockade
+ 6,16    Why Does the Sun Shine?
+
+174      Arkansas Traveller
+170      Brown Cow (Ms McCleod's Reel)
+173,179  Carolan's Concerto
+170      Cold Frosty Morning
+181      Daleigh
+167      Dashing White Sergeant
+169      High Road to Linton
+183      Leaving Lismore
+182      Minstrel Boy
+187      Monsters & Men
+166,169  Mouth of Tobique
+177      La Paloma
+168      Red-Haired Boy (in G & A)
+165      Reel des Accordeonistes (in C)
+180      Scotland the Brave (needs fix)
+175      Star of the County Down
+167      Temperance Reel
+172      Wachet Auf
+171      Whiskey Before Breakfast
