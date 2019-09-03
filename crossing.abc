@@ -1,0 +1,32 @@
+X: 1
+%%topspace 2cm
+T: Crossing the Bar
+M:4/4
+C:M: Rani Arbo; W: Al, Lord Tennyson
+L:1/8
+Q:1/4=100
+K:Dmaj
+V: 1 name="Vln I" snm="" clef=treble
+| "D" [A4F4] "G" [B3G3] [AF] | "A" [G2E2] [A2F2] "D" [A3F3] [GE] | "G" [F2D2] [G2D2] "A" [G3E3] [AF] | "D" [A6F6] z [GE] |
+w: Sun-set and eve-ning star,  and one clear call for me;  and
+w: Twi-light and eve-ning bell,  and af-ter that,  the dark;  and
+| "D" [FD][FD] [GE]([AF] "G" [AF]) [B2G2] [AF] | "A" [G3E3] [AF] "D" [F3A3] [DF] | "G" [G3D3] [GE] "A" [G3E3] [FD] | "D" [F6D6] z A |
+w: may there be no - moan-ing of the bar when I put out to sea.  When
+w: may there be no - sad-ness of fare-well - when - I em-bark.  -
+| [d3A3] [dA] "G" [d3B3] [dB] | "D" [d3A3] [BG] [A3F3] [AD] | "G" [B3D3] [BD] "A" [c3E3] [AF] | "D" [A6F6] z2 |
+w: I put out to sea. - - When I put out to sea.
+w: When - I em-bark. - - -  when - I em-bark.
+| "D" [FD][FD] [GE]([AF] "G" [AF]) [B2G2] [AF] | "A" [G3E3] [AF] "D" [F3A3] [DF] | "G" [G3D3] [GE] "A" [G3E3] [FD] | "D" [F6D6] z2 |
+w: may there be no - moan-ing of the bar when I put out to sea.
+w: may there be no - sad-ness of fare-well - when - I em-bark.
+V: 2 name="Cello" snm="" clef=bass
+| D,4 B,,4 | A,,4  D,3 C, | B,,4 A,,4 | D,6 z F,, |
+| F,,4 G,,4  | A,,4 D,3 C, | B,,3 B,, A,,3 A,, | D,,6 z D, |
+| D,3 D, D,3 D, | D,4 D,3 F,, | G,,3 G,, A,,3 A,, | D,,4 D,,3 F,, |
+| F,,4 G,,4  | A,,4 D,3 C, | B,,3 B,, A,,3 A,, | D,,6 z2 |
+W: But such a tide as moving seems asleep,  too full for sound and foam,
+W: When that which drew from out the boundless deep turns again home.
+W: (CHO) Turns again home, turns again home.
+W: For though from out our bourne of time and place the flood may bear me far,
+W: I hope to meet my pilot face to face, when I have crossed the bar.
+W: (CHO) When I have crossed the bar, When I have crossed the bar.

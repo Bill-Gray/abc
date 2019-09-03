@@ -1,0 +1,912 @@
+% (2014 Mar 21) I think 'zw.abc' is the 'current' version,
+% with 'zwiefach.abc' being an earlier version with fewer
+% tunes and some errors.  Wish I'd made notes of all that
+% at the time... I'm leaving 'zwiefach.abc' around in case
+% it turns out I'm wrong about this.  Confirming this is that
+% 'zwiefach' is dated 2005 Dec 2,  and 'zw' 2012 Apr 4.
+
+X:1
+T:1. Bohmischer Wind
+M:3/4
+K:Eb
+L:1/8
+|: E2 EFGA | B4 B2 | \
+M:4/4
+L:1/4
+cc B2 | cc B2 | \
+M:3/4
+L:1/8
+A3 A F2 | G4 E2 |
+M:4/4
+L:1/4
+FF E2 | FF E2 :: \
+M:3/4
+L:1/8
+B3 A F2 | G4 B2 | \
+M:4/4
+L:1/4
+ce B2 | ce B2 |
+M:3/4
+L:1/8
+B3 A F2 | G4 E2 | \
+M:4/4
+L:1/4
+FF E2 |1 FF E2 :|2 Bd e2 ||
+K:Ab
+M:3/4
+L:1/8
+|: A2 ABcd | e4 e2 | \
+M:4/4
+L:1/4
+ff e2 | ff e2 | \
+M:3/4
+L:1/8
+d3 d B2 | c4 A2 |
+M:4/4
+L:1/4
+BB A2 | BB A2 :: \
+M:3/4
+L:1/8
+e3 d B2 | c4 E2 | \
+M:4/4
+L:1/4
+FA E2 | FA E2 |
+M:3/4
+L:1/8
+e3 d B2 | c4 A2 | \
+M:4/4
+L:1/4
+BB A2 | BB A2 :|
+
+X:2
+T:2. Saulocker
+M:3/4
+K:Bb
+L:1/8
+F2 |: \
+M:4/4
+L:1/4
+BFFF | FFFF | \
+M:3/4
+L:1/8
+F2 (ED)EF | G2 F=E F2 | \
+M:4/4
+L:1/4
+BFFF | FFFF |
+M:3/4
+L:1/8
+F2 (FG)FE |1 D2 z2 F2 :|2 D2 z2 B,D |: \
+M:4/4
+L:1/4
+(DC) C2 | (ED) D2 | \
+M:3/4
+L:1/8
+F2 (ED)EF | (G2 F2) F2 |
+M:4/4
+L:1/4
+BFFF | FFFF |1 \
+M:3/4
+L:1/8
+F2 (FG)FE | D2 z B,D :|2 \
+M:3/4
+L:1/8
+(GF)=EFGA | B2 z2 B2 ||
+K:Eb
+M:4/4
+L:1/4
+|: eBBB | BBBB | \
+M:3/4
+L:1/8
+B2 (AG)AB | c2 B=A B2 | \
+M:4/4
+L:1/4
+eBBB | BBBB |
+M:3/4
+L:1/8
+B2 (Bc)BA |1 G2 z2 B2 :|2 G2 z2 EG |: \
+M:4/4
+L:1/4
+(GF) F2 | (AG) G2 | \
+M:3/4
+L:1/8
+B2 (AG) AB | (c2 B2) B2 |
+M:4/4
+L:1/4
+eBBB | BBBB |1 \
+M:3/4
+L:1/8
+B2 (Ac)BA | G2 z2 EG :|2 \
+M:3/4
+L:1/8
+(cB)=ABcd | e2 z2 |]
+
+X:3
+T:3. Seidas Fuata
+K:Eb
+M:3/4
+L:1/8
+B,D |: \
+M:4/4
+L:1/4
+E2 G>A | \
+M:3/4
+L:1/8
+(G2 F2) F2 | E2 EDEF | \
+M:4/4
+L:1/4
+G2 B>c | \
+M:3/4
+L:1/8
+(B2 A2) A2 |1 G2 z2 B,D :|2
+G2 z2 BA |: G2 B2 G2 | A2 (cB) (AG) | F2 A2 F2 | G2 (BA) (GF) | \
+M:4/4
+L:1/4
+E2 G>A |
+M:3/4
+L:1/8
+(G2 F2) F2 | E2 EDEF | \
+M:4/4
+L:1/4
+G2 B>c |1 \
+M:3/4
+L:1/8
+(B2 A2) A2 | G2 z2 BA :|2 \
+M:3/4
+L:1/8
+(B2 c2) d2 | e2 z2 EG ||
+% End part A, Seidas Fuata
+K:Ab
+M:4/4
+L:1/4
+|: A2 c>d | \
+M:3/4
+L:1/8
+(c2 B2) B2 | A2 (AG)AB | \
+M:4/4
+L:1/4
+c2 e>f | \
+M:3/4
+L:1/8
+(e2 d2) d2 |1 c2 z2 EG :|2
+c2 z2 ed |: c2 e2 c2 | d2 fe dc | B2 d2 B2 | c2 (ed) cB | \
+M:4/4
+L:1/4
+A2 c>d |
+M:3/4
+L:1/8
+(c2 B2) B2 | A2 (AG)AB | \
+M:4/4
+L:1/4
+c2 e>f |1 \
+M:3/4
+L:1/8
+(e2 d2) d2 | c2 z2 ed :|2 (e2 d2) d2 | c2 z2 z2 |]
+
+X:4
+T:4. Eisenkeilnest
+K: Eb
+M:3/4
+L:1/8
+B,2 || \
+M:4/4
+L:1/4
+G,B,EF | \
+M:3/4
+L:1/8
+E2 GGGG | G2 z2 G2 | \
+M:4/4
+L:1/4
+GGFE | \
+M:3/4
+L:1/8
+E2 DDDD | D2 z2 B,2 | \
+M:4/4
+L:1/4
+G,B,B,F | \
+M:3/4
+L:1/8
+G2 GGGG |
+% End first line/beginning second of A part, Eisenkeilnest
+G2 z2 G2 | \
+M:4/4
+L:1/4
+GGFE | \
+M:3/4
+L:1/8
+E2 DDDD | D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) | \
+M:3/4
+L:1/8
+D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) | \
+M:3/4
+L:1/8
+D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) | \
+M:3/4
+L:1/8
+D2 DDDD |
+% End second line/beginning third of A part, Eisenkeilnest
+D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) | \
+M:3/4
+L:1/8
+D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) | \
+M:3/4
+L:1/8
+D2 z2 D2 | \
+M:2/4
+L:1/4
+(EC) |1 \
+M:3/4
+L:1/8
+D2 DDDD | D2 z2 B,2 :|2 \
+M:3/4
+L:1/8
+D2 DFAB | G2 z2 E2 ||
+% End of A part/beginning of B part, Eisenkeilnest
+K:Ab
+M:4/4
+L:1/4
+|| CEAB | \
+M:3/4
+L:1/8
+c2 cccc | c2 z2 c2 | \
+M:4/4
+L:1/4
+dcBA | \
+M:3/4
+L:1/8
+A2 EEEE | E2 z2 E2 | \
+M:4/4
+L:1/4
+CEAB | \
+M:3/4
+L:1/8
+c2 cccc |
+% End first line/start second of B part, Eisenkeilnest
+c2 z2 c2 | \
+M:4/4
+L:1/4
+dcBA | \
+M:3/4
+L:1/8
+A2 GGGG | G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) | \
+M:3/4
+L:1/8
+G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) | \
+M:3/4
+L:1/8
+G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) | \
+M:3/4
+L:1/8
+G2 GGGG |
+% End second line/start third, B part, Eisenkeilnest
+G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) | \
+M:3/4
+L:1/8
+G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) | \
+M:3/4
+L:1/8
+G2 z2 G2 | \
+M:2/4
+L:1/4
+(AF) |1 \
+M:3/4
+L:1/8
+G2 GGGG | G2 z2 E2 :|2 \
+M:3/4
+L:1/8
+G2 FEDG | A2 z2 |]
+N:Written with second voice, 2012 Mar 30
+
+X:5
+T:5. Habervogl
+K:F
+M:3/4
+L:1/8
+C2 |: A2 AAAA | A2 G2 F2 | \
+M:4/4
+L:1/4
+(FD) D2 | (FD) D2 | \
+M:3/4
+L:1/8
+G2 GGGG | G2 F2 D2 | \
+M:4/4
+L:1/4
+(D C) C2 | (D C) C2 |
+M:3/4
+L:1/8
+F2 FFFF | F2 E2 D2 | \
+M:4/4
+L:1/4
+EE/F/ G2 | EE/F/ G2 | \
+M:3/4
+L:1/8
+c2 cccc | c2 B2 E2 |1 F2 z2 C2 :|2 F2 z2 C2 ||
+|: D2 (C=B,CF) | \
+M:4/4
+L:1/4
+(EB) (EB) | \
+M:3/4
+L:1/8
+D2 (C=B,CE) | \
+M:4/4
+L:1/4
+(FA) (FA) | \
+M:3/4
+L:1/8
+D2 (C=B,CF) | \
+M:4/4
+L:1/4
+(EB) (EB) | \
+M:3/4
+L:1/8
+C2 (EG)BE |1 F2 z2 C2 :|2 F2 z2 F2 ||
+K:Bb
+|: d2 dddd | d2 c2 B2 | \
+M:4/4
+L:1/4
+(BG) G2 | (BG) G2 | \
+M:3/4
+L:1/8
+c2 cccc | c2 B2 G2 | \
+M:4/4
+L:1/4
+(GF) F2 | (GF) F2 |
+M:3/4
+L:1/8
+B2 BBBB | B2 A2 G2 | \
+M:4/4
+L:1/4
+AA/B/ c2 | AA/B/ c2 | \
+M:3/4
+L:1/8
+f2 ffff | f2 e2 A2 |1 B2 z2 F2 :|2 B2 z2 F2 ||
+|:G2 (F=EFB) | \
+M:4/4
+L:1/4
+(Ae) (Ae) | \
+M:3/4
+L:1/8
+G2 (F=EFA) | \
+M:4/4
+L:1/4
+(Bd) (Bd) | \
+M:3/4
+L:1/8
+G2 (F=EFB) | \
+M:4/4
+L:1/4
+(Ae) (Ae) | \
+M:3/4
+L:1/8
+F2 (Ac)eA |1 B2 z2 F2 :|2 B2 z2 |]
+
+X:6
+T:6. Der Finker
+K:F
+M:3/4
+L:1/8
+|: c2 cd cB | \
+M:4/4
+L:1/4
+(Ac) (FA) | \
+M:3/4
+L:1/8
+(G2 B2) E2 | (FE)FGAB | c2 cdcB | \
+M:4/4
+L:1/4
+(Ac) (FA) |
+M:3/4
+L:1/8
+G2 GFEG | F2 z2 z2 :| G3 ABc | \
+M:4/4
+L:1/4
+(BG) (BG) | \
+M:3/4
+L:1/8
+A3 Bcd | \
+M:4/4
+L:1/4
+(cA) (cA) |
+M:3/4
+L:1/8
+G3 ABc | B2 (BA) G2 | (ABc=Bcd) | c2 z2 FA ||
+K:Bb
+M:3/4
+L:1/8
+|: F2 FG FE | \
+M:4/4
+L:1/4
+(DF) (Bd) | \
+M:3/4
+L:1/8
+(c2e2) A2 | (BA)BGFE | F2 FGFE | \
+M:4/4
+L:1/4
+(DF) (Bd) |
+M:3/4
+L:1/8
+c2 (cB)Ac | B2 z2 z2 :| c3 def | \
+M:4/4
+L:1/4
+(ec) (ec) | \
+M:3/4
+L:1/8
+d3 efg | \
+M:4/4
+L:1/4
+(fd) (fd) |
+M:3/4
+L:1/8
+c3 def | e2 ed c2 | (def=efg) | f2 z2 B,D |]
+N:Written with second voice, 2012 Mar 30
+N: Within each half, AABA
+
+X: 7
+T:7. 's Bachmuehlerl
+K: Eb
+M:3/4
+L:1/8
+N:Written with second voice, 2012 Mar 30
+|: ED CD EF | \
+M:4/4
+L:1/4
+EG G2 | \
+M:3/4
+L:1/8
+D2 F=E FD | \
+M:4/4
+L:1/4
+EE G2 | \
+M:3/4
+L:1/8
+ED CD EF | \
+M:4/4
+L:1/4
+EG G2 |
+% End 1st line part A, 's Bachmuehlerl
+M:3/4
+L:1/8
+D2 FE FD |1 E2 z2 z2 :|2 E2 z2 GA |: D2 DDDD | D2 z2 DA | G2 EEEE | E2 z2 GA |
+% End 2nd line part A, 's Bachmuehlerl
+M:4/4
+L:1/4
+DD D2 | EE E2 |1 \
+M:3/4
+L:1/8
+D2 FE DF | E2 z2 GA :|2 \
+M:3/4
+L:1/8
+AG ^FG AB | G2 z2 z2 ||
+% End A part, 's Bachmuehlerl
+K:Ab
+M:3/4
+L:1/8
+|: AG FG AB | \
+M:4/4
+L:1/4
+Ac c2 | \
+M:3/4
+L:1/8
+G2 B=A BG | \
+M:4/4
+L:1/4
+AF E2 | \
+M:3/4
+L:1/8
+AG FG AB | \
+M:4/4
+L:1/4
+Ac c2 |
+% Following is entire second line, part B, of 's Bachmuehlerl:
+M:3/4
+L:1/8
+G2 B=A BG |1 A2 z2 z2 :|2 A2 z2 EF |: E2 GGGG | G2 z2 EF | E2 AAAA | A2 z2 EF |
+%  ...and now the third and last line:
+M:4/4
+L:1/4
+EG G2 | EA A2 |1 \
+M:3/4
+L:1/8
+G2 BA GB | A2 z2 EF :|2 \
+M:3/4
+L:1/8
+dc =Bc _BG | A2 z2 z2 |]
+N:Written with second voice, 2012 Mar 30
+
+X:8
+T:8. Eichelober
+K: Eb
+M:3/4
+L:1/8
+B,2 |: \
+M:4/4
+L:1/4
+(G,E) (GE) | \
+M:3/4
+L:1/8
+D2 F2 B,2 | E2 D2 B,2 | \
+M:4/4
+L:1/4
+(G,E) (GE) | \
+M:3/4
+L:1/8
+(D2 F2) B,2 |1
+% End 1st line part A Eichelober
+G,2 z2 B,2 :|2 G,2 z2 G2 |: (A2 A2) c2 | (G2 E2) G2 | (A2 A2) c2 | (G2 E2) B,2 |
+% End 2nd line part A Eichelober
+M:4/4
+L:1/4
+(G,2 E2) (G2 E2) |1 \
+M:3/4
+L:1/8
+(D2 F2) B,2 | G,2 z2 G2 :|2 \
+M:3/4
+L:1/8
+(D2 F2) A2 | G2 z2 E2 ||
+% End part A Eichelober, start part B
+K:Ab
+M:4/4
+L:1/4
+(CE) (AE) | \
+M:3/4
+L:1/8
+D2 G2 D2 | B,2 E2 E2 | \
+M:4/4
+L:1/4
+(CE) (AE) | \
+M:3/4
+L:1/8
+(D2 G2) D2 |1
+% End 1st line part B Eichelober
+C2 z2 E2 :|2 C2 z2 C2 |: (F2 D2) A2 | (E2 C2) A2 | (F2 D2) A2 | (E2 C2) E2 |
+M:4/4
+L:1/4
+(CE) (AE) |1 \
+M:3/4
+L:1/8
+(D2 G2) D2 | C2 z2 C2 :|2 \
+M:3/4
+L:1/8
+(D2 G2) D2 | C2 z2 z2 |]
+N:Written with second voice, 2012 Mar 30
+% End Eichelober
+
+X:9
+T:9. Schellen-Neuener
+K: Eb
+M:3/4
+L:1/8
+G,B, |: \
+M:4/4
+L:1/4
+EE E2 | GE G2 | \
+M:3/4
+L:1/8
+F2 DA GF | (DF) ED CD | \
+M:4/4
+L:1/4
+EE E2 | GE G2 |
+% End 1st line Schellen-Neuener
+M:3/4
+L:1/8
+FEDAGF |1 E2 z2 EF :|2 E2 z2 EF |: \
+M:4/4
+L:1/4
+GE G2 | FD F2 | EE E2 | DB, D2 |
+EE E2 | GE G2 |1 \
+M:3/4
+L:1/8
+FEDAGF | E2 z2 EF :|2 \
+M:3/4
+L:1/8
+AG^FG=AB | G2 z2 AB ||
+% End part A of Schellen-Neuener
+K:Ab
+M:4/4
+L:1/4
+AA A2 | cA c2 | \
+M:3/4
+L:1/8
+B2 Gd cA | (AB) AG FG | \
+M:4/4
+L:1/4
+AA A2 | cA A2 |
+% End 1st line part B of Schellen-Neuner
+M:3/4
+L:1/8
+BAGFEG |1 A2 z2 AB :|2 A2 z2 Ac |: \
+M:4/4
+L:1/4
+cA c2 | BG B2 | AF A2 | GE G2 |
+% end 2nd line part B of Schellen-Neuner
+AA A2 | cA c2 |1 \
+M:3/4
+L:1/8
+BAGFEG | A2 z2 Ac :|2 \
+M:3/4
+L:1/8
+dc=Bc_BG | A2 z2 |]
+N:Written with second voice, 2012 Mar 30
+
+X:10
+T:10. A?anzigs Hendl
+K: Eb
+M:3/4
+L:1/8
+N:Written with second voice, 2012 Mar 30
+E2 |: \
+M:2/4
+L:1/4
+(DF) | \
+M:3/4
+L:1/8
+(E2 G) z E2 | \
+M:2/4
+L:1/4
+(DF) | \
+M:3/4
+L:1/8
+E2 z2 E2 \
+M:2/4
+L:1/4
+(DF) | \
+M:3/4
+L:1/8
+(E2 G) z F2
+% End 1st line part A A?anzigs Hendl
+M:2/4
+L:1/4
+(FB,) |1 \
+M:3/4
+L:1/8
+E2 z2 E2 :|2 \
+M:3/4
+L:1/8
+E2 z2 B,2 |: \
+M:2/4
+L:1/4
+(FD) | \
+M:3/4
+L:1/8
+(E2 E) z G2 | \
+M:2/4
+L:1/4
+(FD) |
+% End 2nd line part A A?anzigs Hendl
+M:3/4
+L:1/8
+E2 z2 G2 | \
+M:2/4
+L:1/4
+(FD) | \
+M:3/4
+L:1/8
+(E2 E) z E2 | \
+M:2/4
+L:1/4
+(DB,) |1 \
+M:3/4
+L:1/8
+G,2 z2 G2 :|2 \
+M:3/4
+L:1/8
+G,2 z2 C2 |
+% End part A of A?anzigs Hendl
+K:Ab
+M:2/4
+L:1/4
+|: (B,D) | \
+M:3/4
+L:1/8
+(C2E) z C2 | \
+M:2/4
+L:1/4
+(B,D) | \
+M:3/4
+L:1/8
+E2 z2 C2 | \
+M:2/4
+L:1/4
+(B,D) | \
+M:3/4
+L:1/8
+(B2 E) z A2 |
+% End 1st line part B of A?anzigs Hendl
+M:2/4
+L:1/4
+(GD) |1 \
+M:3/4
+L:1/8
+C2 z2 C2 :|2 \
+M:3/4
+L:1/8
+C2 z2 A2 |: \
+M:2/4
+L:1/4
+(GD) | \
+M:3/4
+L:1/8
+(E2 C) z A2 | \
+M:2/4
+L:1/4
+(GD) |
+% End 2nd line part B of A?anzigs Hendl
+M:3/4
+L:1/8
+E2 z A2 | \
+M:2/4
+L:1/4
+(GD) | \
+M:3/4
+L:1/8
+(E2 C) z E2 | \
+M:2/4
+L:1/4
+(DB,) |1 \
+M:3/4
+L:1/8
+C2 z2 A2 :|2 \
+M:3/4
+L:1/8
+C2 z2 |]
+N:Written with second voice, 2012 Mar 30
+
+X:11
+T:11. Neuen Doerfer
+K: Eb
+M:3/4
+L:1/8
+N:Written with second voice, 2012 Mar 30
+|: G3 G G2 | G2 E2 B,2 | \
+M:2/4
+L:1/4
+(B,D) | (AD) | (B,D) | \
+M:3/4
+L:1/8
+D3 D D2 | D2 D2 D2 |
+% End first line Neun Dorfer part A
+M:2/4
+L:1/4
+(G,E) | (GE) | (B,G,) | \
+M:3/4
+L:1/8
+G3 G G2 | G2 E2 B,2 | \
+M:2/4
+L:1/4
+(B,D) | (AD) | (B,D) |
+% End second line Neun Dorfer part A
+M:3/4
+L:1/8
+D3 D D2 | D2 D2 B,2 | \
+M:2/4
+L:1/4
+(G,E) | (DB,) | \
+M:3/4
+L:1/8
+E2 z2 z2 :|
+% End A part Neun Dorfer
+K:Ab
+M:3/4
+L:1/8
+|: c3 c c2 | c2 A2 A2 | \
+M:2/4
+L:1/4
+(EG) | (dG) | (EG) | \
+M:3/4
+L:1/8
+ G3 G G2  | (G2 G2 E2)
+% End 1st line B part Neun Dorfer
+M:2/4
+L:1/4
+ AA  | (cA) | (Ac) | \
+M:3/4
+L:1/8
+c3 c c2 | c2 A2 A2 | \
+M:2/4
+L:1/4
+(EG) | (dG) | (EG) |
+% End 2nd line B part Neun Dorfer
+M:3/4
+L:1/8
+G3 G G2 | G2 G2 D2 | \
+M:2/4
+L:1/4
+(CE) | (GD) | \
+M:3/4
+L:1/8
+C2 z2 z2 :|
+% End Neun Dorfer
+
+X:12
+T:12. Wintergruen
+K: Bb
+M:3/4
+L:1/8
+N:Written with second voice, 2012 Apr 5
+|: D3 C B,2 | D4 D2 | F2 (GF) (ED) | (G2F2) F2 | \
+M:4/4
+L:1/4
+E2 E2 | \
+M:3/4
+L:1/8
+(EG) (GF) (FE) |  D2 z2 z2  :|
+% End first (and only) line part A Wintergruen
+K:Eb
+|: G3 F E2 |  G2 G2  G2 | E2 (FE) (DC) | (C2 B,2) B,2 | \
+M:4/4
+L:1/4
+A2 G2 |1 \
+M:3/4
+L:1/8
+(DF) (FB,) (B,D) | E2 z2 z2 :| \
+M:3/4
+L:1/8
+(DF) (FD) (EF) | G2 z2 z2 |]
+
+X:13
+T:13. Schuebkarren
+K:Eb
+M:3/4
+L:1/8
+|: ([EG,][FD])[GEB,][AF] [B2G2E2] | ([EG,][FD])[GEB,][AF] [B2G2E2] | \
+M:4/4
+L:1/4
+([AFD][FDB,]) ([GE]E) | \
+M:3/4
+L:1/8
+([EG,][FD])[GEB,][AF] [B2G2E2] | ([EG,][FD])[GEB,][AF] [B2G2E2] | \
+M:4/4
+L:1/4
+([AFD][FDB,]) [EE] z :|
+% End first line part A Schuebkarren
+M:4/4
+L:1/4
+|: ([cAC2][c/A/][A/F/] [BGB,2])[B/G/][G/E/] | ([AFA,2][A/F/][F/D/] [GEG,2])[G/E]E/ | \
+   ([cAC2][c/A/][A/F/] [BGB,2])[B/G/][G/E/] |1 ([AFA,2][A/F/][F/D/] [EG,] z :|2 \
+([BDB,][dAF] [eGE] z ||
+M:3/4
+L:1/8
+K:Ab
+|([ACA,][BEB,])[cAC][dBD] [e2c2E2] | ([ACA,][BEB,])[cAC][dBD] [e2c2E2] | \
+M:4/4
+L:1/4
+([dBB,][BGD]) ([cAA,][AC]) | \
+M:3/4
+L:1/8
+|([ACA,][BEB,])[cAC][dBD] [e2c2E2] | ([ACA,][BEB,])[cAC][dBD] [e2c2E2] | \
+M:4/4
+L:1/4
+([dBB,][BGD]) [AC] z :|
+M:3/4
+L:1/8
+|: ([fdD2][f/d/][d/B/] [ecC2])[e/c/][c/A/] |  ([dBB,2][d/B/][B/G/] [cAA,])[c/A/][A/F/] | \
+   ([fdD2][f/d/][d/B/] [ecC2])[e/c/][c/A/] |1 ([dBB,2][d/B/][B/G/] [AC] z :|2 [eGB,][GE] [ACA,] z |]

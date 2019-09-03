@@ -1,0 +1,48 @@
+%   %% transpose 7
+
+X:1
+T:Good King Wenceslas
+C:Christmas
+M:4/4
+K:G
+L: 1/4
+ G G  G  A |  G  G  D2 |  E  D  E  F |  G2 G2 |
+ G G  G  A |  G  G  D2 |  E  D  E  F |  G2 G2 |
+ d c B  A | B  A  G2 |  E  D  E  F |  G2 G2 |
+ D D  E  F |  G G  A2 | d  c  B  A |  (G2  c2) |  G2 z2 |]
+
+% from music provided by S Ciembroniewicz & D Jones;
+X: 19
+T: Bonnie Tammie
+M:C|
+K:A
+L:1/8
+C: No repeats; play ABAB
+"A" A3 B c2 e2 | "D" f2 e2 "A" c4 | "E" B2 A2 B2 c2 | B2 A2 B2 c2 |
+"A" A3 B c2 e2 | "D" f2 e2 "A" c4 | "E" e3 c B2 c2 | "A" A4 A4 ||
+"D" a3 g f2 e2 | f2 e2 "A" c4 | "E" B2 A2 B2 c2 | B2 A2 B2 c2 |
+"D" a3 g f2 e2 | f2 e2 "A" c4 | "E" e3 c B2 c2 | "A" A4 A4 |]
+
+X: 5
+T: Daleigh
+M: C|
+C: Irish Polka
+K: G
+L: 1/4
+Q: 1/4=180
+|: "Am" e A B A | e A B A | e A B A | "G" G2 u(B d) |
+"Am" e A B A | e A B A  | "G" B e d B | "Am" A2 A2 :|
+|: "Am" e d e f | g a g g | e d e f | a2 "G" g2 |
+"Am" e d e f | g a g e | "G" d B g B | "Am" A2 A2 :|
+
+X: 100
+T: Peg O'Brian
+C: Irish Polka
+L: 1/4
+M: C|
+K: D
+Q: 1/4=116
+|: "D" f A B A | f A B A | vd2 ue>uf | e d B A |
+f A B A | f A B A | d2 ue>uf | "A" (e d) "D" d2 :|
+|: "D" f a f e | e d B A | d2 ue>uf | e d B A |
+f a f e | e d A B | d2 ue>uf | "A" (e d) "D" d2 :|

@@ -1,0 +1,43 @@
+X: 1
+T: Country Gardens
+C: English folk song/P. Grainger
+M: 4/4
+K: D
+L:1/8
+Q:1/4=220
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI channel 1
+%%MIDI program 40
+"D" vd2 (dc) "G" B2 B2 | "A" A2 (AG) "Bm" F2 (FG) | "D" !4!A2 D2 "Em" E2 G2 | "A" (!tenuto!F3 !tenuto!E) "D" D4 | "D" "^pizz." z2 F2 "G" z2 G2 |
+"A" z2 c2 "D" z2 d2 | "D" z2 F2 "Em" z2 G2 | "A" z2 G2 "D" F2 "^arco" z2 ||: "D" !mp!vd!4!edB "A" cB A2 | "D" d!4!edB "A" cB A2 |
+"D" d2 (dc) "E" B2 !4!e2 | "A" (!tenuto!c3 !tenuto!B) A2 Bc | "D" vd2 (dc) "G" B2 B2 | "A" ABAG "Bm" F2 (FG) | "D" !4!A2 D2 "Em" E2 G2 | "A" (!tenuto!F3 !tenuto!E) "D" D4 :|
+V: 2 name="Vln II" snm="" clef=treble
+%%MIDI channel 2
+%%MIDI program 40
+vF2 F2 G2 G2 | E2 E2 D2 D2 | D2 D2 E2 E2 | D2 A2 D4 | "^pizz." z2 D2 z2 D2 |
+z2 E2 z2 D2 | z2 D2 z2 E2 | z2 A2 A2 "^arco" z2 |: !mp!vF2 F2 E2 E2 | F2 F2 E2 E2 |
+F2 A2 D2 D2 | A2 E2 A2 G2 | vF2 D2 G2 G2 | A2 E2 D2 D2 | F2 D2 E4 | D2 D2 D4 :|
+
+
+%% transpose -2
+%% header
+X: 1
+T: Country Gardens
+C: English folk song/P. Grainger
+M: 4/4
+K: D
+L:1/8
+Q:1/4=220
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI channel 1
+%%MIDI program 40
+"D" vd2 (dc) "G" B2 B2 | "A" A2 (AG) "Bm" F2 (FG) | "D" !4!A2 D2 "Em" E2 G2 | "A" (!tenuto!F3 !tenuto!E) "D" D4 | "D" "^pizz." z2 F2 "G" z2 G2 |
+"A" z2 c2 "D" z2 d2 | "D" z2 F2 "Em" z2 G2 | "A" z2 G2 "D" F2 "^arco" z2 ||: "D" !mp!vd!4!edB "A" cB A2 | "D" d!4!edB "A" cB A2 |
+"D" d2 (dc) "E" B2 !4!e2 | "A" (!tenuto!c3 !tenuto!B) A2 Bc | "D" vd2 (dc) "G" B2 B2 | "A" ABAG "Bm" F2 (FG) | "D" !4!A2 D2 "Em" E2 G2 | "A" (!tenuto!F3 !tenuto!E) "D" D4 :|
+V: 2 name="Vln II" snm="" clef=treble
+%%MIDI channel 2
+%%MIDI program 40
+vF2 F2 G2 G2 | E2 E2 D2 D2 | D2 D2 E2 E2 | D2 A2 D4 | "^pizz." z2 D2 z2 D2 |
+z2 E2 z2 D2 | z2 D2 z2 E2 | z2 A2 A2 "^arco" z2 |: !mp!vF2 F2 E2 E2 | F2 F2 E2 E2 |
+F2 A2 D2 D2 | A2 E2 A2 G2 | vF2 D2 G2 G2 | A2 E2 D2 D2 | F2 D2 E4 | D2 D2 D4 :|
+

@@ -1,0 +1,192 @@
+X:1
+T:Whistling Thief
+C:Northumbrian Jig
+M:6/8
+K:G
+L: 1/8
+Q:1/4=180
+e3 |: "G" d2 B B2 A | B3 B2 e | d2 B Bcd | "C" e2 e efg | "G" d2 B B2 A | B3 B2 d |
+"C" e2 e "D" fef |1 "G" g3 gfe :|2 "G" g3 gag |: "D" fgf "C" efe | "G" def g2 g |
+"D" fgf "C" efe | "G" ded "D7" cBA | "G" G2 G BAG | "Em" (g3 g2) e | "G" d2 B BAG |
+"C" (g3 g2) e | "G" d2 B "D" ABA |1 "G" (G3 G2) g :|2 "G" G3 e3 |]
+
+X:2
+T:Morrison's Jig
+M:6/8
+K:D
+L:1/8
+|: "Em" E3 BEB | EBE "D" AFD | "Em" E3 uB2 uc | "D" dcB AFD |
+   "Em" E3 BEB | EBE "D" AFD | "G" G2 vG "D" FGA | dAG FED :|
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" va2 vg "D" fed |
+"Em" Bee fee | bee "D" uf2 uf | "G" gfe "D" d2 (A | "G" B)AG "D" FED |
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" (f/g/a)f def |
+"G" vg2 vg gfe | def ug2 ud | "C "edc "G" ud2 uA | "G" BAG "D" FED |] "Em" E6 |]
+
+X:3
+T:Sally's Waltz
+C:Emile Benoit
+M:3/4
+K:G
+L:1/8
+cBA | "G" G3 EDB, | G,3 B,DG | "C" E3 CEG | "D" D3 FGA |1 "G" B2 d2 e | d3 BAG | "Am" A3 GAB | "D7" A3 :|2
+"G" B2 d3 B | "D7" c2 B2 A2 | "G" G3 FGA | G3 || fga | "G" b3 agf | "D" a3 gfe | "C" g4 fg | "G" d3 def | g2 d2 BG |
+"C" e3 dcB | "Em" B2 A3 G | "D" A3 cBA | "G" G3 EDB, | G,3 B,DG | "C" E3 CEG | "D" D3 FGA | "G" B2 d3 B | "D7" c2 B2 A2 | "G" G3 FGA | G3 |]
+
+X: 4
+T: Skye Boat Song
+M: 3/4
+L: 1/4
+R: waltz
+K: Gmaj
+C: Sir Harold Boulton
+"G"D>E D | G2 G/G/ | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "G"D2 E | D>E D|
+w: Speed, bon-nie boat, like a bird on the wing, On-ward, the sail-ors cry
+"G"D>E D | G2 G | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "G"D2 E | D>E D|
+w: Car-ry the lad that's born to be King, O-ver the sea to Skye;
+   "Em" B>G B| "G" B3 | "Am"A>E A | A3 | "Em"G>E G | "C"G2 F | "Em"E3 | E3 |
+w: Loud the winds howl, loud the waves roar, thun-der-clouds rend the air;
+    "G" B>G B|     B3 | "Am"A>E A | A3 | "C" G>E G |    G2 F | "Em"E3 | "G" D>E D |
+w: Baff-led our foes stand on the shore, fol-low they will not dare
+W:Though the waves leap, soft shall ye sleep
+W:Ocean's a royal bed
+W:Rocked in the deep, Flora will keep
+W:Watch by your weary head
+W:
+W:Many's the lad fought on that day
+W:Well the claymore could wield
+W:When the night came, silently lay
+W:Dead on Culloden's field
+W:
+W:Burned are our homes, exile and death
+W:Scatter the loyal men
+W:Yet, e'er the sword cool in the sheath,
+W:Charlie will come again.
+
+X:5
+T:Planxty Irwin
+C:O'Carolan
+M:3/4
+K:D
+L:1/8
+A2 | "D" d4 c2 | "G" B3 c d2 | "A" A4 G2 | "D" F3 E D2 |
+"G" G4 E2 | "D" F3 G A2 | "A" C4 D2 | E4 c2 | "D" d4 c2 |
+"G" B3 c d2 | "A" A4 G2 | "D" F3 E D2 | "G" G3 F E2 |
+"D" F3 G A2 | "A" D2 E2 C2 |1 "D" D4 A2 :|2 "D" D4 A2 ||
+"D" d4 d2 | "G" d3 c d2 | "A" e4 e2 | e3 c A2 |
+"D" f4 f2 | "E" e3 f d2 | "A" c2 d2 B2 | A2 B2 c2 |
+"D" d4 c2 | "G" B3 c d2 | "A" A4 G2 | "D" F3 E D2 |
+"G" G3 F E2 | "D" F2 G2 A2 | "A" D3 E C2 | "D" D4 ||
+
+X:6
+T:Round the Horn
+C:Jay Ungar
+M:C|
+K:G
+L:1/8
+(3DEF |: "G" G2 G2 BAGA | B(d d)e d4 | "C" cdef e2 g2 | "D" a6 ga |
+"Em" b2 g2 "D" a2 f2 | "C" gfed BAGB | "Am" A2 d2 BA G2 |1 "Em" (E4 E)DEF :|2 "Em" E8 ||
+"C" e3 f e2 d2 | "G" B6 B2 | "Am" A3 A G2 A2 | "Bm" B2 d2 d4 |
+"C" g3 a g2 e2 | "G" dedc BAGB | "D" A2 d2 BA G2 |1 "Em" (E4 E)GBd :|2 "Em" E6 |]
+N:Second time faster
+
+X:7
+T:Reel des Accordeonistes
+C:Marcel Messervier
+M:C|
+K:D
+L:1/8
+(FG) |: "D" A2 (df) "G" edcB | "D" ABAG F2 (EF) | "A7" GAGF EuBBuB | "D" ABA(G FD)FG |
+"D" A2 (df) "G" edcB | "D" ABAG F2 (EF) | "Em" GFEF "A7" GABc | "D" dfec d2 :|
+|: A2 | "G" (3BcB GB d2 (cB) | "D" (3ABA FA dAFA | "A" GECE A,ECE | "D" DEFG A2 FA |
+"G" ((3vBcB) (GB) vd2 (cB) | "D" (3ABA FA d2 (cd) | "A" efe(ud cB)AG | FABc "D" d2 :|
+|: vdud | "G" dBGd BGdA | "D" FdAF d2 (cd) | "A7" e2 d2 (3cdc (3BcB | "D" ABAG Fuddud |
+"G" dBGd BGdA | "D" FdAF d2 (cd) | "A" efe(d cB)AG | "D" FAB(c d2) :|
+N: Possibly better in C w/capo2
+
+X:8
+T:The Teetotaller's Reel
+M:C|
+K:G
+L:1/8
+(3vDuE(vF | "G" G2) (GF) GAB(uc | dB) ge dBAc | "Em" uB(E{G}ED)     EFGA | "G" BG"D"A(uF GF)ED |
+            "G" uG2 (GF) GAB(uc | dB) ge dBAc | "Em"  B(E{G}ED) "C" EFGA | "G" BG"D"A(uF "G" G2) :|
+vGuA | "Em" B2 [e2B2] [e3e3] (f | {a}ge)af gfed | "D" vB2 d2 ~d3 (e | ~f3) (a "(Bm)" g)ufed |
+            "Em" vB2 e2 [e3e3] (f | {a}ge)af gfed |      uB(E{G}ED) "C" EFGA | "G" BG"D"A(F "G" G2) :|
+
+X:9
+T:The Silver Spear
+M:C|
+K:D
+L:1/8
+"D"  FuA (3v.Au.Av.A {d}BAFA | vdfe(d "G" Bc)dA | "D" (FA) (3.A.A.A {d}BAFA | dfed "G" {Bd}B2 "A" AG |
+"D" vFuA (3v.Au.Av.A {d}BAFA |  dfe(d "G" Bd)ef | "Em" (v~g3 e) "D" (~f3 e) | dfed "G" {Bd}B2 "A" AG :|
+|: "D" vf2 uaf    bfaf | "G" gfe(d "A?" Bcde) | "D" vf2 (3v.au.av.a baaf | "Em" gfed "G" {Bd}B2 "A" A2 |
+   "D" vf2 uaf    bfaf | "G" gfe(d "A?" Bdef) | "Em" (~g3 e) "D" (~f3 e) | dfed "G" {Bd}B2 "A" A2 :|
+
+X:10
+T:Angeline the Baker
+C:Old-Time
+M:4/4
+K:D
+L: 1/8
+(dB) |: "D" A2 B2 d3 A | "Bm" B2 d4 dB | "D" A2 B2 dB A2 | "G" B6 dB |
+"D" A2 B2 d3 e | "Bm" f2 e2 d3 e | "G" f2 e2 d2 B2 |1 "A" A3 B A2 (dB) :|2 "A" A3 B A2 (fg) ||
+|: "D" a2 f2 e2 de | "Em" f2 e2 d2 fg | a2 f2 "Em" e2 d2 | "Bm" B3 B B2 (fg) |
+"D" a2 f2 "Em" e2 de | "Bm" f2 e2 d2 de | f2 e2 "G" d2 B2 |1 "A" A3 B A2 (fg) :|2 "A" A3 B A2 z2 |]
+
+X:11
+T:Spootiskerry
+M:C|
+K:G
+L:1/8
+uDE | "G" vG2 (DE) GDEG | DEGA "D6" B2 (AB) | "G" G2 (DE) "Em" GABd | "Am7" eged "D6" Bd AB |
+"G" G2 (DE) GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 :|
+ef | "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 ef |
+"Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G/D" GABd "D" eged | "G" B2 "C" G2 "G" G2 ef ||
+     "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 DE |
+"G" G2  DE GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 |]
+
+X:12
+T:The Moon and Seven Stars
+M:6/8
+K:D
+L:1/8
+A | "D" d2 A AGF | "G" GAB "D" A2 A | "G" Bcd efg | "A" fed cBA | "D" d2 A AGF | "G" GAB "D" A2 A |
+"G" Bcd efg |1 "A" Adc "D" d2 :|2 "A" Adc "D" d2 f || "A" e2 A ABA | efg "D" f3 | "A" efg "D" fed | "E" cdB "A" A2 A |
+"G" BGB "D" A2 A | "G" BGB "D" A2 A | "G" Bcd efg |1 "A" Adc "D" d2 :|2 "A" Adc "D" d2 |]
+
+X:13
+T:Red-Haired Boy
+M:4/4
+K:G
+L:1/8
+G2 |: "G" D2 GG (GA)Bc | dedB "C" c2 (Bc) | "G" d2 G2 GA B2 | "F" AG =F2 F2 z2 |
+"G" uD2 GG GABc | dedB "C" c2 (Bc) | "G" d2 g2 "G7" g=fdc | "D" B2 G2 "G" G2 z2 :|
+|: "F" (=fe)fg fedf | ed c2 "C" c2 Bc | "G" d2 G2 GA B2 | "F" AGDE =F2 z2 |
+"G" D2 G2 GABc | dedB "C" c2 (Bc) | "G" d2 g2 g=fdc | "D" B2 G2 "G" G2 z2 :|
+
+X:14
+T:My Cape Breton Home
+C:Jerry Holland
+M:3/4
+K:G
+L:1/8
+g || "G" g3 g fg | "D" a2 f2 d2 | "C" c3 c Bc | "G" d2 B2 G2 |
+"G" g3 g fg | "D" a2 f2 d2 | "Am7" c3 c Bc | "D7" d3 f2 [Bg] |
+"G" [g3B3] g fg | "D" a2 f2 d2 | "C" c3 c Bc | "G" d2 B2 G2 |
+"Am7" E c3 cB | "D" A3 G F2 | "G" G6 | G4 G :|
+"G" D3 G B2 | "C" c3 c Bc | "G" d3 B G2 | "Am" A2 G2 "D7" E2 |
+"G" D3 G B2 | "C" c3 c Bc | "G" d g3 gf | "D7" d2 c2 A2 |
+"G" D3 G B2 | "C" c3 c Bc | "G" d2 B G2 | "Am" A2 G2 "D7" E2 |
+"G" D g3 fg | "Am7" d2 c2 "D7" A2 | "G" G6 | G4 G |]
+
+X:15
+T:The Silver Spear (alt)
+M:C|
+K:D
+L:1/8
+"D" FA (3.A.A.A BA (3.A.A.A | dfed "G" BcdA | "D" FA (3.A.A.A BA (3.A.A.A | dfed "G" B2 AG |
+"D" FA (3.A.A.A BA (3.A.A.A | dfed "G" Bdef | g3 e "D" f3 e | "A" dfed B2 A2 :|
+|: "D" fa (3.a.a.a bfaf | "G" gfed "A" Bcde | "D" fa (3.a.a.a bfaf | "G" gfed "A" B2 A2 |
+   "D" fa (3.a.a.a bfaf | "G" gfed "A" Bdef | "G" g3 e "D" f3 e | "A" dfed B2 A2 :|
+

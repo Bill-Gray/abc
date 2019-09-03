@@ -1,0 +1,54 @@
+X:1
+T:Bohemian Folk Song (violin)
+M:4/4
+K:D
+L: 1/4
+D E F G | A B c A | d2 d2 | c4 | B2 B2 | A4 |
+G G G G | F F F F | E2 E2 | D4 :|
+
+X:2
+M:4/4
+K:D
+L: 1/4
+T:Bohemian Folk Song (viola)
+V: 1 clef=alto
+d e f g | a b c' a | d'2 d'2 | c'4 | b2 b2 | a4 |
+g g g g | f f f f | e2 e2 | d4 :|
+
+X:3
+M:4/4
+K:D
+L: 1/4
+T:Bohemian Folk Song (cello)
+V: 1 clef=bass
+d e f g | a b c' a |  d'2 d'2 | c'4 | b2 b2 | a4 |
+g g g g | f f f f | e2 e2 | d4 :|
+
+X:4
+M:4/4
+K:A
+L: 1/8
+T:Folk Song (violin)
+vA2 AB c2 A2 | B2 G2 A4 | vc2 cd e2 c2 |
+d2 e2 c4 | vee ee e2 fe | d2 ed c4 | ucc cc c2 dc |
+B2 cB A4 | AA AA AA AA | E2 EE A4 |]
+
+X:5
+M:4/4
+K:A
+L: 1/8
+T:Folk Song (viola)
+V: 1 clef=alto
+vA2 AB c2 A2 | B2 G2 A4 | vc2 cd e2 c2 |
+d2 e2 c4 | vee ee e2 fe | d2 ed c4 | ucc cc c2 dc |
+B2 cB A4 | AA AA AA AA | E2 EE A4 |]
+
+X:6
+M:4/4
+K:A
+L: 1/8
+T:Folk Song (cello)
+V: 1 clef=bass
+vA2 AB c2 A2 | B2 G2 A4 | vc2 cd e2 c2 |
+d2 e2 c4 | vee ee e2 fe | d2 ed c4 | ucc cc c2 dc |
+B2 cB A4 | AA AA AA AA | E2 EE A4 |]

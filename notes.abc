@@ -1,0 +1,51 @@
+X:1
+T:Sample notes
+M:4/4
+K:G
+L: 1/8
+F2 B4 GABc F4
+
+X:2
+T:Range of notes
+M:4/4
+K:G
+L: 1/4
+G, A, B, C D E F G A B c d e f g a b
+w: G A B C D E F G A B C D E F G A B
+
+X:3
+T:Range of notes (violin fingering)
+M:4/4
+K:G
+L: 1/4
+G, A, B, C D E F G A B c d e f g a
+w: 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3
+
+X:4
+T:Cabbage
+M:4/4
+K:C
+L: 1/4
+C A B B, a G, e | C A B B, a G, e | C A B B, a G, e
+
+X:5
+T:Mary Had a Little Lamb
+M:4/4
+K:G
+L:1/4
+F E D E F F F2 E E E2 F A A2 | z z z z | z z z z
+
+X:6
+T:Symphony in Whole Notes
+M:4/4
+K:G
+L:1/4
+E4 G4 B4 d4 f4 | F4 A4 c4 e4 | B B G, b
+w: E G B D F F A C E
+
+X:7
+T:Appearance of Notes
+M:4/4
+K:G
+L:1/4
+E4 G B A2 c3 G | z z z z | z z z z

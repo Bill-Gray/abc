@@ -1,0 +1,71 @@
+X: 3
+T: La Bastringue
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:"G"d2 dd d2 g2| d3 c B2 A2| G3 A B2 d2|dcBc "D7"A2 D2|
+"G"d2 dd d2 g2| d3 c B2 G2| "C"A2 Bc "D7"B2 A2 |1"G"GBdG BDGB|2"G"G4 "A7"A4|
+K: Dmaj
+|: "D"[fA]2 ff f2 gf | "A7"e2 c2 "D"d4 | "A7"c2 d2 e2 c2 | "D"d2 e2 f2 A2 |
+"D"[fA]2 ff f2 gf | "A7"e2 c2 "D"d4 |"G"g3 f e2 A2 | "A7"B2 c2 "D"d4 :|
+|: "D"d2 fd adfd | "C"=c2 ec gcec | "D"d2 fd adfa | "G"gbag "A7"fdec |
+"D"d2 fd ad f2 | "C"=c2 ec gc e2 | "D"d2 fd ad fa | "A7"bgec "D"d4 :|
+K: Gmaj
+"Final time through ends with a version of Part A"|"G"d2 dd d2 g2| d3 c B2 A2| G3 A B2 d2|dcBc "D7"A2 D2|
+"G"d2 dd d2 g2| d3 c B2 G2| "C"A2 Bc "D7"B2 A2 |"G"GBdG BDGB|
+"G"d2 dd d2 g2| d3 c B2 A2| G3 A B2 d2|dcBc "D7"A2 D2|
+"G"d2 dd d2 g2| d3 c B2 d2| "C"e4 "D7"f4 |"G"g2 d2 G4||
+
+X: 1
+T: La Bastringue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"D" f2 ff f2gf| "A" e2c2 "D" d3 d| "A" c2d2 efec| "D" d2e2 f2 d2 |
+f2 ff f2 gf| "A" e2c2 "D" d3d | "G" g2 (3fgf e2d2 |1 "A" B2c2 "D" d2A2 :|2 "A" B2c2 "D" d2 (3ABc ||
+|: "D" (3ddd fd adfd|(3=ccc ec gcec|(3ddd fd adfd|bgec dcBA|(3ddd fd adfd|
+(3=ccc ec gcec|1(3ddd fd adfa|bgec dcBA:|2Adfa bgec|dfec d4||
+
+X: 2
+T: La Bastringue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: f2 ff f2 gf | e2 c2 d4 | c2 d2 e2 c2 | dcde f2 d2 |
+f2 ff f2 gf | e2 c2 d4 |g2 f2 efed | B2 c2 d4 :|
+|: d2 fd adfd | =c2 ec gcec | d2 fd adfa | bgec dcBA |
+d2 fd ad f2 | =c2 ec gc e2 | d2 fd ad f/g/a |[1 bgec d2 A/B/c :|[2 bgec d4 |]
+
+
+% Following is Fiddler's Fake Book,  based on 'A' part of X1 and 'B' part of X2,
+% with chords from FFB and some changes near the end;  part B wasn't quite the way
+% X2 had it.
+X: 4
+T: La Bastringue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Q: 1/4=200
+|:"D" f2 ff f2gf| "A" e2c2 "D" d3 d| "A" c2d2 (ef)ec| "D" ud2ue2 f2 d2 |
+f2 ff f2 gf| "A" e2c2 "D" d3d | "G" g2 ((3fgf e2)d2 |1 "A" (B2c2) "D" d2A2 :|2 "A" (B2c2) "D" d2 ((3ABc ||
+|: "D" d2)(fd) adfd | "C" ((3=cdc) ec gcec | "D" d2(fd) adfa | "A" bge(c "D" dcBA) | d2(fd) adfd |
+"C" ((3=cdc) ec gcec |1 "D" d2(fd) adfa | "A" bge(c "D" dcBA) :|2 "D" Adfa "G" bgec | "A" dfec "D" d4 |]
+W: Guitar: strum on half notes
+W: From Fiddler's Fake Book,  with Kate's modifications
+
+X: 5
+T: Gallopede
+R: reel
+M: 4/4
+L: 1/8
+K: G
+dc |: "G" B2 Bc "D" A2 AB | "G" GAGF G2 AB | "Am" cBcd edcB | "D" A2 AB A2 dc |
+"G" B2 Bc "D" A2 AB | "Em" GAGF G2 AB | "Am" cBAG "D" FGAF | "G" G2 D2 G2 dc :| "G" B2 gf "C" e2 ed |
+"D" dcBc A2 dc | "G" B2 gd "C" edcB | "D" A2 AB A2 dc | "G" B2 gf "C" e2 ed | "D" dcBc A2 dc |
+"G" BdcB "D" AcBA | "G" G2 D2 G2 Bc || "G" d2 d2 d2 g2 | d2 d2 d2 g2 | d2 d2 "C" edcB |
+"D" A2 A2 A2 Bc | "G" d2 d2 d2 g2 | d2 d2 d2 g2 | "C" edcB "D" dcBA | "G" G6 |]
+W: Good harmonica/guitar tune.  From FFB,  some chords tweaked.

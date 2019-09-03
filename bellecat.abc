@@ -1,0 +1,85 @@
+X:1
+T: La Belle Catherine
+M:C|
+C: med. tempo, emphasis on beat (not back beat).  From Ptld Collect.
+L:1/8
+Q:1/4=140
+K:A
+|: "A" EAAc BA A2 | EAAc BA A2 | "E" GABc dcde | "A" fe^de cA A2 |
+"A" EAAc BA A2 | EAAc BA A2 | "E" GABc dcde | fedB "A" A4 :|
+|: "A" c2 e2 efed | ceee "F#m" f3 e | "E" e2 ^de gfe=d | fe^de "A" cA A2 |
+"A" c2 e2 efed | ceee "F#m" f3 e | "E" e2 ^de gfe=d | fedB "A" A4 :|
+
+
+X: 2
+T:La Belle Catherine
+M:C|
+L:1/8
+Q:1/4=140
+K:Gmaj
+|: "G" DGGB AG G2 | DGGB AG G2 | "D" FGAB cBcd | "G" ed^cd BG G2 |
+"G" DGGB AG G2 | DGGB AG G2 | "D" FGAB cBcd | edcA "G" G4 :|
+|: "G" B2 d2 dedc | Bddd "Em" e3 d | "D" d2 ^cd fed=c | ed^cd "G" BG G2 |
+"G" B2 d2 dedc | Bddd "Em" e3 d | "D" d2 ^cd fed=c | edcA "G" G4 :|
+
+X: 3
+T: Galen's Arrival
+M:C|
+C: Alasdair Fraser/Ptld Collect
+Q:1/4=140
+L: 1/8
+K:G
+GA |: "G" B3 A BGdB | "Am" c3 B cAec | "G" Bdgd "C" ecAG | "D" FGAB cDBG |
+"G" B3 A BGdB | "Am" c3 B cAec | "G" Bdgd "D" ecAF |1 "G" G2 GF G2 :|2 "G" G2 GF G |
+|: ABd | "Em" g2 gf gbag | "D" f2 fe fddB | "Am" c2 cB cedc | "G" Bdgd "D" fgaf |
+"Em" g2 gf gbag | "D" f2 fe fddB | "C" c2 cB cedc |1 "D" BGAF "G" G :|2 "D" BGAF "G" G2 |]
+
+X: 4
+T: Full Moon Jig
+M:6/8
+C: Gordon Euler
+Q:1/4=140?
+L: 1/8
+K: D
+A, | "D" A,DF Adf | "G" edc B2 d | "A" cAF EFG | "D" FDB, A,2 A, |
+"D" A,DF Adf | "G" edc B2 d | "A" cAF GEF | "D" D3 D2 :|
+|: (3A/B/c/ | "D" dcd def | "G" edc B2 d | "A" cdc cBc | "D" dAG F (3A/B/c/ |
+"D" dcd def | "G" edc B2 d | "A" cAF GEF | "D" D3 D2 :|
+
+X: 5
+T: John Bowes
+M:C|
+Q:1/4=140
+L: 1/8
+K: C
+"C" G,CEC "G" B,DGF | "C" EGcB cGEG | "Dm" FAdF "C" EGcE | "G" FEDC B,G,A,B, |
+"C" CCDC "G" B,DGF | "Am" EGcB "Em" cGEG | "F" FAdc "Dm" BGFD |1 "G" ECCB, "C" C4 :|2 "G" ECCB, "C" C2 ||
+|: ef | "C" ge (3.e.e.e "G" fdBd | "C" c2 Bd cGEG | "Dm" FAdF "C" EGce | "G" fedc defa |
+"C" ge (3.e.e.e "G" fdBd | "Am" c2 Bd "Em" cGEG | "F" FAdc "Dm" BGFD |1 "G" ECCB, "C" C2 :|2 "G" ECCB, "C" C4 |]
+
+X: 6
+T: Bonnie Charlie
+M: C
+Q: 1/4=160
+L: 1/8
+K: F
+A,2 | "Dm" D2 DE F2 FG | ABGA F2 (3GAB | A2 D2 D3 F | "C" EFGE C2 FE |
+"Dm" D2 DE F2 FG | ABGA F2 (3GAB | A2 D2 "Am" FEDC | "Dm" D4 D2 :|
+A2 | "Dm" dedc A2 A2 | dedc A3 f | "C" efge c2 c2 | efgf c2 fg |
+"F" a2 fa "C" g2 eg | "Dm" f2 df "C" fedc | "Dm" d3 e "Am" fedc | "Dm" A2 d2 d3 A ||
+"Dm" dedc A2 A2 | f2 f2 "Am" A3 B | "Gm" BAGF GFED | "C" EFGE C2 FG |
+"F" A2 FA "C" c2 Ac | "Dm" defg "C" fedc | "Dm" dcBA "Am" AGFE | "Dm" D4 D2 |]
+
+X: 7
+T: Bonnie Charlie
+M: C
+Q: 1/4=160
+L: 1/8
+K: F
+A,2 | "Dm/Am" D2 DE F2 FG | ABGA F2 (3GAB | A2 D2 D3 F | "C/G" EFGE C2 FE |
+"Dm/Am" D2 DE F2 FG | ABGA F2 (3GAB | A2 D2 "Am/Em" FEDC | "Dm/Am" D4 D2 :|
+A2 | "Dm/Am" dedc A2 A2 | dedc A3 f | "C/G" efge c2 c2 | efgf c2 fg |
+"F/C" a2 fa "C/G" g2 eg | "Dm/Am" f2 df "C/G" fedc | "Dm/Am" d3 e "Am/Em" fedc | "Dm/Am" A2 d2 d3 A ||
+"Dm/Am" dedc A2 A2 | f2 f2 "Am/Em" A3 B | "Gm/Dm" BAGF GFED | "C/G" EFGE C2 FG |
+"F/C" A2 FA "C/G" c2 Ac | "Dm/Am" defg "C/G" fedc | "Dm/Am" dcBA "Am/Em" AGFE | "Dm/Am" D4 D2 |]
+

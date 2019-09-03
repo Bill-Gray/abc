@@ -1,0 +1,13 @@
+X: 1
+T: Sheep may Safely Graze
+C: J. S. Bach / arr. Latham
+M: C
+K: G
+L:1/16
+Q: 1/8=120
+"G" d2(dB) "G" d2(dB) "G" (d2e2) "C" (e2g2) | "Am" c2(cA) "Am" c2(cA) "D" (c2f2) "D" (f2a2) |"G" ((g2g/)a/b) "G/D" (gb)(ad) "G" ((g2g/)a/b) "G/D" (gb)(ad) |
+"G" g2(b/c'/d') "G/D" (bg)(af) "G" g2(b/c'/d') "G/D" (bg)(af) | "G" (g2G2)"G"(B2A2) "D" A6 "D" B2 | "C" c4 "C" (e2d2) "G" B4 "D" (A2G2) | "G" (B2G2) "Em" (F2E2) "A" (A6 "A" B2) | "D" F4 "A" (E2D2) "D" D8 "D" |
+"Bdim" d2(dB) "Bdim" d2(dB) "Bdim" (d2e2) "C" (e2g2) | "C" e2(ec) "C" e2(ec) "C" (e2f2) "D" (f2a2) | "G" z2 (g/a/b) "G/D" (gb)(ad) "G" g2 z2 "G" z4 | "G" z2 (ug/a/b) "G/D" (gb)(ad) "G" g2G2"G"B2B2 |
+"D" A2A2"D"d2d2 "G"G2A2"G"B2c2 | "D"d2d2"D"D2D2 "G"d2(dB) "G" d2(dB) | "G" (d2e2) "C" (e2g2) "Am" c2(cA) "Am" c2(cA) | "D" (f2g2) "G?" (g2a2) "G" z2 (b/c'/d') "G/D" (bg)(df) | "G" g2(dB) "G" d2(dB) "G" (d2e2) "C" (e2g2) |
+"Am" c2(cA) "Am" c2(cA) "D" (c2f2) "D" (f2a2) | "G" ((g2g/)a/b) "G/D" (gb)(ad) "G" ((g2g/)a/b) "G/D" (gb)(ad) | "G" g2(b/c'/d') "G/D" (bg)(af) "G" g2(b/c'/d') "G/D" (bg)(af) | !fermata! "G"g4 z4 z8 |]
+

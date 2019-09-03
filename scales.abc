@@ -1,0 +1,108 @@
+X:1
+C: Unknown composer
+T: Scale in C
+M:C
+K:C
+L:1/4
+|: C D E F | G A B c | d e f g | a b c' b|
+  a g f e | d c B A | G F E D | C z z2 :|
+
+X:2
+T: Scale in G
+M:C
+K:G
+L:1/4
+|: G, A, B, C | D E ^F G | A B c d | e ^f g ^f|
+   e  d  c  B | A G ^F E | D C B, A, | G, z z2 :|
+
+X:3
+T: Scale in D
+M:C
+K:D
+L:1/4
+|: D E ^F G | A B ^c d | e ^f g a | b ^c' d' ^c' |
+ b a g ^f | e d ^c B | A G ^F E | D z z2 :|
+
+X:4
+T: Scale in A
+M:C
+K:A
+L:1/4
+|: A, B, ^C D | E ^F ^G A | B ^c d e | ^f ^g a ^g|
+  ^f e d ^c | B A ^G ^F | E D ^C B, | A, z z2 :|
+
+X:5
+T: Scale in E
+M:C
+K:E
+L:1/4
+|: E ^F ^G A | B ^c ^d e | ^f ^g a b | ^c' ^d' e' ^d' |
+  ^c' b a ^g | ^f e ^d ^c | B A ^G ^F | E z z2 :|
+
+X:6
+T: Scale in Ab
+M:C
+K:Ab
+L:1/4
+|: _A, _B, C _D | _E F G _A | _B c _d _e | f g _a g |
+  f _e _d c | _B _A G F | _E _D C _B, | _A, z z2 :|
+
+X:7
+T: Scale in Eb
+M:C
+K:Eb
+L:1/4
+|: _E F G _A | _B c d _e | f g _a _b | c' d' _e' d' |
+  c' _b _a g | f _e d c | _B _A G F | _E z z2 :|
+
+X:8
+T: Scale in Bb
+M:C
+K:Bb
+L:1/4
+|: _B, C D _E | F G A _B | c d _e f | g a _b a |
+g f _e d | c _B A G | F _E D C | _B, z z2 :|
+
+X: 9
+T: Scale in F
+M:C
+K:F
+L:1/4
+|: F G A _B | c d e f | g a _b c' | d' e' f' e' |
+   d' c' _b a | g f e d | c _B A G | F z z2 :|
+
+% Five sharps: f, c, g, d, a
+X: 10
+T: Scale in B
+M:C
+K:B
+L:1/4
+|: B, ^C ^D E | ^F ^G ^A B | ^c ^d e ^f | ^g ^a b ^a |
+ ^g ^f e ^d | ^c B ^A ^G | ^F E ^D ^C | B, z z2 :|
+
+% Five flats: b, e, a, d, g
+X: 11
+T: Scale in Db
+M:C
+K:Db
+L:1/4
+|: _D _E F _G | _A _B c _d | _e f _g _a | _b c' _d' c' |
+_b _a _g f | _e _d c _B | _A _G F _E | _D z z2 :|
+
+% Six sharps: f, c, g, d, a, e... everything except b
+X: 12
+T: Scale in F#
+M:C
+K:F#
+L:1/4
+|: ^F ^G ^A B | ^c ^d ^e ^f | ^g ^a b ^c' | ^d' ^e' ^f' ^e' |
+ ^d' ^c' b ^a | ^g ^f ^e ^d | ^c B ^A ^G | ^F z z2 :|
+
+% Six flats: b, e, a, d, g, c... everything except f
+X: 13
+T: Scale in Gb
+M:C
+K:Gb
+L:1/4
+|: _G _A _B _c | _d _e f _g | _a _b _c' _d' | _e' f' _g' f' |
+ _e' _d' _c' _b | _a _g f _e | _d _c _B _A | _G z z2 :|

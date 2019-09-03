@@ -1,0 +1,354 @@
+% Tunes for 2013 Mar 9 Bowdoinham Comm Sch contra dance.
+% Last revision: 2014 Jun 18: added slurs, comments,  corrected
+% chords to 'Bonaparte Crossing the Rhine Eastwards' (tune 700,
+% the "unsimplified" version)
+
+% From Portland Collection
+X: 3
+T: All the Way to Galway
+M: 4/4
+L: 1/4
+K: D
+|: "D" A > B A G | F A d2 | "Em" E F G (3F/G/F/ | "A" E F G ^G |
+   "D" A > B A G | F A d > d | "A" c A G E | "D" D2 D2 :|
+|: "D" d > e f d | "A" c A A > c | "G" B G G/A/ B | "A" B A A2 |
+   "D" d > e f d | "A" c a a > a | "G" b a "A" g e | "D" d2 d2 :|
+
+% 'Angeline' simplified at Kate's suggestion to better match
+% beginning fiddlers,  and capo chords added.  Not for general use.
+X:7
+T:Angeline the Baker
+C: Parenthesized chords are w/capo on second fret.
+M:4/4
+K:D
+L: 1/8
+|: "D(C)" A2 B2 d3 A | "Bm(Am)" B2 d6 | "D(C)" A2 B2 dB A2 | "G(F)" B8 |
+   "D(C)" A2 B2 d3 e | "Bm(Am)" f2 e2 d3 e | f2 e2 "G" d2 B2 | "A(G)" A4 A4 :|
+|: "D(C)" a2 f2 e2 de | f2 e2 d4 | a2 f2        e2 d2 | "Bm(Am)" B4 B4 |
+   "D(C)" a2 f2 e2 de | f2 e2 d4 | f2 e2 "G(F)" d2 B2 | "A(G)" A4 A4 :|
+
+X:11
+T: Bile Them Cabbage Down
+K: D
+M:4/4
+L:1/8
+|: "D" FF FF | "G" G2 G2 | "D" FF FD | "A7" E2 E>E |
+w: Bile them cab-bage down, down, Turn them hoe-cakes round, round. The
+"D" FF FF | "G" GG GG | "D" FF "A7" EE | "D" D4 :|
+w: on-ly song that I could sing was bile them cab-bage down.
+|: "D" AA AF | AA A>F | AA AF | "A7" E2 z A |
+w: Took my gal tothe black-smith shop, To have her mouth made small.  She
+"D" AA AF | "G" GG GG | "D" FF "A7" EE | "D" D4 :|
+w: turned a-round a time or two, And swal-lowed shop and all.
+
+% From Fiddler's Fake Book,  with some simplifications by Kate
+X: 700
+T: Bonaparte Crossing The Rhine (Eastwards)
+M: 4/4
+L: 1/8
+K: D
+(uF2 G2) |: "D" A3 BA2 F2 | A4 (d2 e2) | f3 "*" e f2 a2 | "D7!" d6 (dc |
+"G" B2) (Bc d2) B2 | "D" A2 F2 D2 F2 | "A" E4 (E3 F) | "A7" E4 (F2 G2) | "D" A3 B A2 F2 |
+A4 (d2 e2) | f3 "*" e f2 a2 | "D7!" d6 (dc | "G" B2) (Bc d2) B2 | "D" A2 F2 "A" E2 F2 |
+"D" D4 (D3 E) |1 D4 (F2 G2) :|2 D2 A2 d2 e2 |: "D" f3 "*" e f2 g2 | "D7!" a4 (a2 A2) |
+"G" B3 A B2 c2 | "D" d6 A2 | "G" B3 c d2 B2 | "D" A2 F2 D2 F2 | "A" E4 (E3 F) |
+"A7" E4 (F2 G2) | "D" A3 B A2 F2 | A4 (d2 e2) | f3 "*" e f2 a2 | "D7!" d6 (dc |
+"G" B2) (Bc d2) B2 | "D" A2 F2 "A" E2 F2 | "D" D4 (D3 E) |1 D2 A2 d2 e2 :|2 D4 |]
+W: For guitar: Asterisked high-Es can be high-Fs;
+W: D7! = "stretched" D7 fingering.
+
+% ...and a simplified version for contra dance.  Only change is that
+% there are no repeats;  first endings have been zapped.
+X: 15
+T: Bonaparte Crossing The Rhine
+M: 4/4
+L: 1/8
+K: D
+F2 G2 |  "D" A3 BA2 F2 | A4 d2 e2 | f3 e f2 a2 | d6 dc |
+"G" B2 Bc d2 B2 | "D" A2 F2 D2 F2 | "A" E4 E3 F | E4 F2 G2 | "D" A3 B A2 F2 |
+A4 d2 e2 | f3 e f2 a2 | d6 dc | "G" B2 Bc d2 B2 | "D" A2 F2 "A" E2 F2 |
+"D" D4 D3 E |               D2 A2 d2 e2 || "D" f3 e f2 g2 | a4 a2 A2 |
+"G" B3 A B2 c2 | "D" d6 A2 | "G" B3 c d2 B2 | "D" A2 F2 D2 F2 | "A" E4 E3 F |
+E4 F2 G2 | "D" A3 B A2 F2 | A4 d2 e2 | f3 e f2 a2 | d6 dc |
+"G" B2 Bc d2 B2 | "D" A2 F2 "A" E2 F2 | "D" D4 D3 E                 |  D4 |]
+
+% from music provided by S Ciembroniewicz & D Jones;
+X: 19
+T: Bonnie Tammie
+M:C|
+K:A
+L:1/8
+C: No repeats; play ABAB
+"A" A3 B c2 e2 | "D" f2 e2 "A" c4 | "E" B2 A2 B2 c2 | B2 A2 B2 c2 |
+"A" A3 B c2 e2 | "D" f2 e2 "A" c4 | "E" e3 c B2 c2 | "A" A4 A4 ||
+"D" a3 g f2 e2 | f2 e2 "A" c4 | "E" B2 A2 B2 c2 | B2 A2 B2 c2 |
+"D" a3 g f2 e2 | f2 e2 "A" c4 | "E" e3 c B2 c2 | "A" A4 A4 |]
+
+% Finnegan's Wake from Jones/Ciembroniewicz.  See 'eastneuk.abc' for Bill
+% and Kate versions.
+X: 23
+T: Finnegan's Wake
+M:C|
+K:D
+L:1/8
+|: "D" F3 F F2 E2 | F2 A2 B2 A2 | d3 d d2 A2 | B2 A2 "A" E4 |
+"D" F3 F F2 E2 | F2 A2 B2 A2 | "G" d3 d d2 A2 | "A" B2 c2 "D" d4 :|
+|: "D" d3 d d2 e2 | d2 c2 B2 A2 | d3 d d2 e2 | d2 e2 f2 e2 |
+d3 d d2 e2 | d2 c2 B2 A2 | "G" B3 B B2 A2 | "A" B2 c2 "D" d4 :|
+
+% from PLand Collection
+X: 27
+T: The High Road to Linton
+M:C|
+K:A
+L:1/8
+|: "A" ceef a2 ae | "D" f2 fe "A" a2 ae | ceef a2 ae | "E" faec "A" B2 A2 :|
+|: "A" cee=g "D" fddf | "A" ecce "E" fBBd | "A" cee=g "D" fddf | "E" ecac "A" B2 A2 :|
+|: "A" a2 a2 ef a2 | efae "D" faef | "A" a2 a2 efae | "E" faec "A" B2 A2 :|
+|: "A" cdec "D" defd "A" cdec "E" BcdB | "A" cdec "D" defg "E" afec "A" B2 A2 :|
+
+% Melody from music provided by S Ciembroniewicz & D Jones;
+% chords by Kate.  Here's the original, with slurs & some <>s...
+X:130
+T: Da Mirrie Boys o Greenland
+C: 'Original' version w/Kate's chords
+M:4/4
+K:D
+L:1/8
+|: "D" ABde fd f2 | "A" ue<e (ce) Aece | "D" ABde fd f2 | "A7" (uge)ce "D" d2 d2 :|
+|: "D" vfg vf<(e fg)af | "A7" gf e<c efge | "D" fg f<(ue fg)af | "A7" gece "D" d2 d2 :|
+
+% ...and here should be exact same,  minus slurs and all eighth-notes,
+% simplified for contra dance:
+X: 31
+T: Da Mirrie Boys o Greenland (simplified)
+C: Simplified for contra dancing
+M:4/4
+K:D
+L:1/8
+|: "D" ABde fd f2 | "A" uee ce Aece | "D" ABde fd f2 | "A7" ugece "D" d2 d2 :|
+|: "D" vfg vfe fgaf | "A7" gf ec efge | "D" fg fue fgaf | "A7" gece "D" d2 d2 :|
+
+% Kate wants transposed up five half-steps into G:
+X:200
+T:Old Joe Clark
+M:2/4
+K:D
+L:1/8
+ "A" EF GF | ED C2 | EF GF | E2 z2 |
+w: Old Joe Clark, the preach-er's son, Preached all over the plain. The -
+ EF GF | ED CC | A,C "G" B,G, | "A" A,4 ||
+w: on-ly text he ev-er knew was "high, low, jack, and game."
+ "A" A,A,/A,/ A,2 | ED C2 | A,A,/A,/ A,A, | "G" G,4 |
+w: Fare thee - well, Old Joe Clark, Fare thee - well I say.
+ "A" A,A, A,A, | ED C>C | A,C "G" B,G, | "A" A,4 |]
+w: fol-low you ten thou-sand miles to hear your ban-jo play.
+
+% ...and here's the auto-transposed version:
+X: 35
+T:Old Joe Clark
+M:2/4
+K:G
+L:1/8
+"D" AB cB | AG F2 | AB cB | A2 z2 |
+w:Old Joe Clark, the preach-er's son, Preached all over the plain. The -
+AB cB | AG FF | DF "C" EC | "D" D4 ||
+w:on-ly text he ev-er knew was "high, low, jack, and game."
+"D" DD/2D/2 D2 | AG F2 | DD/2D/2 DD | "C" C4 |
+w:Fare thee - well, Old Joe Clark, Fare thee - well I say.
+ "D" DD DD | AG F>F | DF "C" EC | "D" D4 |]
+w:fol-low you ten thou-sand miles to hear your ban-jo play.
+
+X: 39
+T: Rakes of Mallow
+M: 4/4
+K: G
+L: 1/4
+"G" G B G B | G B c/B/ A/G/ | "D" F A F A | F A d/c/ B/A/ |
+"G" G B G B | G B d3/2 B/ | "C" c/B/ A/G/ "D" F/G/ A/c/ | "G" B G G2 :|
+|: g f/e/ d c | B c d2 | g f/e/ d c | B d "D" A2 |
+"G" g f/e/ d c | B c d3/2 B/ | "C" c/B/ A/G/ "D" F/G/ A/c/ | "G" B G G2 :|
+
+% From _The American Fiddle Method Book_
+X: 43
+T: Redwing
+M: 4/4
+L:1/4
+K: G
+uD |: "G" vG > F G B | d3 B | "C" c e g e | "G" d3 B |
+"D7" c B A c | "G" B A G B |1 "A7" A E F G | "D7" A F E D :|2
+"A7" A E "D7" F D | "G" G2 (g f) |: "C" ve2 c2 | e g f e |
+"G" d2 B2 | z d e d | "D7" d2 A2 |1 z d e d |
+ "G" d2 B2 | z2 vg uf :|2 z c B A | "G" G4 | z2 z |]
+
+% From Fiddler's Philharmonic; many alterations by Kate
+X: 47
+T: Road to Boston
+M:4/4
+L:1/4
+K: G
+|: uA | "G" vB3 (A/B/) | "C" c B A G | "D" F G A B | "G" G D B, D |
+        "G"  B3 (A/B/) | "C" c B A G | "D" F G A B | "G" G3 :|
+|: (uB/c/) | "G" vd3 (^c/d/) | "C" e d =c B | "Am" c3 (B/c/) | "D" d c B A |
+         "G" B3 (A/B/) | "C" c B A G | "D" F G A B | "G" G3 :|
+
+% Various revisions by Kate
+X: 51
+T: Skye Boat Song
+M: 3/4
+L: 1/4
+R: waltz
+K: Gmaj
+C: Sir Harold Boulton
+"G"D>E D | G2 G/G/ | "D7"A>B A | d3 | "G" B>A B | "C"E2 E | "G" (D3 | "D" D3) |
+w: Speed, bon-nie boat, like a bird on the wing, On-ward, the sail-ors cry
+"G"D>E D | G2 G | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "D" D3 | D3 |
+w: Car-ry the lad that's born to be King, O-ver the sea to Skye;
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" G2 G | "Em" (E3 | E3) |
+w: Loud the winds howl, loud the waves roar, thun-der-clouds rend the air;
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" G2 G | "Em"E3 | "D" D3 |
+w: Baff-led our foes stand on the shore, fol-low they will not dare
+W: 2.5 times through
+
+% Mostly Bill's chords
+X: 53
+T: Skye Boat Song
+M: 3/4
+L: 1/4
+R: waltz
+K: Gmaj
+C: Sir Harold Boulton
+"G"D>E D | G2 G/G/ | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "D7" (D3 | D3) |
+w: Speed, bon-nie boat, like a bird on the wing, On-ward, the sail-ors cry
+"G"D>E D | G2 G | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "D" D3 | D3 |
+w: Car-ry the lad that's born to be King, O-ver the sea to Skye;
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" G2 G | "Em" (E3 | E3) |
+w: Loud the winds howl, loud the waves roar, thun-der-clouds rend the air;
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" G2 G | "Em"E3 | "D" D3 |
+w: Baff-led our foes stand on the shore, fol-low they will not dare
+W:Though the waves leap, soft shall ye sleep
+W:Ocean's a royal bed
+W:Rocked in the deep, Flora will keep
+W:Watch by your weary head
+W:
+W:Many's the lad fought on that day
+W:Well the claymore could wield
+W:When the night came, silently lay
+W:Dead on Culloden's field
+W:
+W:Burned are our homes, exile and death
+W:Scatter the loyal men
+W:Yet, e'er the sword cool in the sheath,
+W:Charlie will come again.
+
+X: 55
+T: Soldier's Joy
+K: D
+M: 2/4
+L: 1/16
+vFuG | "D" AFDF AFDF | A2d2 d2cB | AFDF AFDF | "A" G2E2 E2FG |
+"D" AFDF AFDF | A2d2 d2de | fafd "A" egec | "D" d2d2d2 :|
+|: vdue | "D" fdfd fagf | "A" ecec egfe | "D" fdfd fagf | "A" edcB A2de |
+          "D" fdfd fagf | "A" ecec egfe | "D" fafd "A" egec | "D" d2d2d2 H :|
+
+% Copied directly from eastneuk.abc
+X: 59
+T: Spootiskerry
+M:C|
+K:G
+L:1/8
+uDE | "G" vG2 (DE) GDEG | DEGA "D6" B2 (AB) | "G" G2 (DE) "Em" GABd | "Am7" eged "D6" Bd AB |
+"G" G2 (DE) GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 :|
+ef | "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 ef |
+"Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G/D" GABd "D" eged | "G" B2 "C" G2 "G" G2 ef ||
+     "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 DE |
+"G" G2  DE GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 |]
+
+% Copied from eastneuk.abc
+X: 63
+T:Swallow Tail Jig
+M:6/8
+K:E Dorian
+L:1/8
+Q:1/4=88
+uF |: "Em" (GE)E (BE)E | (GE)E (BA)G | "D" (FD)D (AD)D | (dcd) (AGF) |
+"Em" (GE)E (BE)E | (GE)E B2 c | "D" (dcd) (AGF) |1 "Em" (GE)E E2 F :|2 "Em" GEE E2 B ||
+|: "Em" (Bcd) (e2 f) | (e2 f) (edB) | (Bcd) (e2 f) | (edB) "D" d3 |
+"Em" (Bcd) (e2 f) | (e2 f) (edB) | "D" (dcd) (AGF) |1 "Em" GEE E2 B :|2 "Em" GEE E2 |]
+
+X: 203
+T:Wachet Auf
+C:J. S. Bach/arr. Latham
+K:G
+Q:60
+M:4/4
+L:1/8
+D | "G" (G/A/B) "G" (BA) "C" (cB) "G" (DC) | "Am" (B/G/A) "C" (CB,) "D/G" (FG) z D | "G" (G/A/B) "G" (BA) "C" (cB) "Bm" (DC) | "Am" (B/G/A) "C" (CB,) "D/G" (FG) z d |
+"G" d2 "C" (c/B/A/G/) "D" (A/G/F/E/ "D" D)E/F/ | "G" (G/A/)(B/A/) "C" (c/B/A/G/) "G/D" (BA) z2 | "G" B "A" ^c2 d "Em" (G/F/G) "Em" z E | "A" ^c "A" d2 e "Em" (G/F/G) "Em" z g |
+"D" f/e/d "D" d/^c/d "D" d/(c/B/A/) "D" (G/F/E/D/) | "Em" (E/F/G) "Em" G/F/(G "A" G/)(^c/d/e/ "A" d/c/B/A/) | "D" dA "D" F(E/D/) "Bm" (D/G/F/E/ "D" F)D |
+"G" B,>^C "A" (C3/2B,/4C/4) "D" D2 "D" z D | "G" (G/A/B) "G" (BA) "C" (cB) "G" (DC) | "Am" (B/G/)A "C" (CB,) "D/G" (FG) z D | "G" (G/A/B) "G" (BA) "C" (cB) "Bm" (CB,) |
+"Am" (B/G/A) "C" (CB,) "D/G" (FG) z A | "G" B "A" ^c2 d "Em" (G/F/G) "Em" z G | "A" ^c "A" d2 e "Em" (G/F/G) "A" z2 | "D" z2 "D" z d "G" d2 "C" (=c/B/A/G/) |
+"D" (A/G/F/E/ "D" D)E/F/ "G" (G/A/)(B/A/) "Am" (c/B/A/G/) | "G/D" (BA) "Em" Bc/d/ "Am" cB"D"AD | "G" (G/A/B) "G" (BA) "C" (cB) "G" (DC) | "Am" (B/G/)A "C" (CB,) "D/G" (FG) z D |
+"G" (G/A/B) "G" (BA) "C" (cB) "Bm" (DC) | "Am" (B/G/)A "C" (CB,) "D/G" (FG) z d | "G" d2 "C" (c/B/A/G/) "D" (A/G/F/E/ "D" D)E/F/ | "G" (G/A/)(B/A/) "C" (c/B/A/G/) "Bm/D" (BA) z A |
+"G" B "A" ^c2 d "Em" (G/F/G) "Em" z E | "A" (^c "A" d2) e "Em" (G/F/G) "A" z g | "D" f/e/(d "D" d/)^c/(d "D" d/)(c/B/A/ "D" G/F/E/D/) |
+"Em" (E/F/G) "Em" G/F/(G "A" G/)(^c/d/e/ "A" d/c/B/A/) "D" dA "D" FE/D/ "Bm" (D/G/F/E/ "F#m" F)D | "G" (B,>^C) "A" (C3/2B,/4C/4) "D" D4 |]
+N: On G/A, keep rhythm, even though it feels odd.  At measure 18-19, vn rests; keep
+N: going. At measure 21,  read notes carefully to maintain rhythm.
+
+% White Cockade & Soldier's Joy are from "Mellie" Dunham's Fiddlin' (sic) Dance Tunes
+% chords from Fiddler's Fake Book
+
+X: 67
+T: White Cockade
+K: G
+M: 2/4
+L: 1/16
+(uGA) | "G" vB2B2 B2(AG) | d2B2 B2g2 | .d2(Bd) cBAG | "D" FGAB A2(GA) | "G" B2B2 B2(AG) |
+B2d2 g3a | .b.a.g.f "C" .e.g.f.e | "G" d2B2B2 :][: uBc | vd2B2 g2B2 | d2B2 B2(Bc) |
+d2B2 g2fg | "D" a2A2 A2(GA) | "G" B2B2 B2(AG) | B2d2 g3a | bagf "C" egfe | "G" dBB H :|
+
+X: 68
+T: Arkansas Traveller
+M: 4/4
+K: D
+L: 1/8
+B,C | "D" DFED "G" B,2 B,2 | "D" A,2 A,2 D4 | "A" E2 E2 "(F#m)" F2 F2 | "A" DFED "G" B,2 "A" A,2 |
+"D" DFED "G" B,2 B,2 | "D" A,2 A,2 D4 | dcdB "G" BdAG |1 "D" FDEF D2 B,C :|2 "D" FDEF D2 fg ||
+"D" agfa "G" gfeg | "D" fedf "A" edcA | "D" dcdf "A" edeg | "D" fedf "A" e2 fg |
+"D" agfa "G" gfeg | "D" fedf "A" edcA | "D" dcdA "G" BdAG |1 "D" FDEF D2 fg :|2 "D" FDEF  D2 |]
+
+X: 69
+T: Star of the County Down
+M: 3/4
+K: C
+L: 1/8
+EG |: "Am" A4 AB | "F" A3 G A2 | "C" c3 d ec | "G" d4 cd | "Am" e3 d c2 |
+|1 A3 G E2 | "G" G6 | "(Em)" G4 cB :|2 "G(Em)!" A4 G2 | "Am" A6 | A4 e2 ||
+"C" g4 e2 | e3 d c2 | "G" d4 e2 | "Em" d4 cd | "Am" e3 d c2 |
+A3 G E2 | ("Em" G6 | G2) c2 B2 | "Am" A4 AB | "F" A3 G A2 |
+"C" c3 d ec | "G" d4 cd | "Am" e3 d c2 | "G(Em)!" A4 G2 | ("Am" A6 | A4) |]
+
+X: 70
+T: Scotland the Brave
+M: 4/4
+K: G
+L: 1/8
+|: "G" G2 G>A BGBd | g2 g>a gdBG | "C" c>d ec "G" BdBG | "A" A2 d>e "D" dcBA |
+   "G" G2 G>A BGBd | g2 g>a gdBG | "C" c>d ec "G" BdBG |1 "D" A2 GF "G" G2 D2 :|2 "D" A2 GF "G" G2 d/e/f/g/||
+|: "D" a2 a>b afdf | "G" g>ab>a ge d2 | g2 bg "D" f2 af | "A" egfe "D" dcBG |
+   "G" G2 G>A BGBd | g2 g>a gdBG | "C" c>d ec "G" BdBG |1 "D" A2 GF "G" G2 d/e/f/g/ :|2 "D" A2 GF "G" G4 |]
+
+X: 71
+T: Carolan's Concerto
+M: 4/4
+K: D
+L: 1/8
+((3ABc |: "D" d2) de d2 cB | "A" ((3ABA) GA "D" F2 AF | "A" E2 AE "D" D2 FA |
+"E" Bcd(e    "A" d)c{Bc}(BA) | "D" d2 a2 fga(f | "A" e)(fg)e "D" f(ga)f | "G" gabg "D" fdf(a |
+"Em" g)(fe)d "A" d)c{Bc}(BA) | "G" ((3BcB) ((3BcB) g2 g2 | "D" ((3ABA) ((3ABA) f2 f2 | "E" ^G2 B2 ((3efe) ((3dcB) |
+"A" ((3cdc) ((3BcB) ((3ABA) ((3=GFE) | "D" FGA(F "A" E)(FG)E | "D" FGAF "G" GABG | "D" ABde "A" fedc |
+|1 "D" d2 A2 D2 ((3ABc) :|2 "D" d6 ((3ABc |: "D" d2) b2 ag{fg}(fe) | d2 a2 "A" c2 a2 | "G" B2 g2 "A" A(Bcd) |
+eg{fg}(fe) "D" d3 f | "(A)" ecBA "A" c2 a2 | "G" B2 g2 "D" A2 f2 | "(A)" ecBA "A" c2 a2 | "G" B2 g2 bgbg |
+"D" afaf "A" e(cd)(B | c)(AB)(G A)(FG)(E | "D" D)AFA DAFA | "Em" GEBE dEBE |
+"D" FAd(c B)AG(F | "G" E)FGA "A" Bcde | "D" d2 e2 "A" {fg}fedc |1 "D" d2 A2 D2 ((3ABc :|2 "D" d6 z2 |]
+

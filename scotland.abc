@@ -1,0 +1,22 @@
+
+% Sample file for bagpipe mode (K:Hp)
+% adapted from PS file by Alan S. Watt
+
+
+X:1
+T:Scotland The Brave
+C:Trad.
+P:March
+E:7
+L:1/8
+M:4/4
+K:HP
+e|   A2       A>B  c A  ce|  a2 a2  ae  c A|\
+    d2  f>d  ce  c A| B2 e2 e>f  e/>d/ c/>B/|
+ A2 A>B  c A  ce|  a2 a2  ae  c A|\
+    d2  f>d  ce  c A| B2 A>B  A2  ce||
+||  a2  a2  ae  c A|  a2  a2  ae  ce|\
+    a2  a>g  f2 a>g| fa  gf  ed  cB|
+ A2 A>B  c A  ce| a2  a2  ae  c A|\
+    d2  f>d  ce  c A|B2  A>B  A3||
+

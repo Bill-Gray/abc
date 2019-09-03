@@ -1,0 +1,57 @@
+%% transpose 0
+%% header
+X: 1
+T: While shepherds watched their flocks at night
+C: Words by Nahum Tate & Nicholas Brody
+C: Music by George Frederick Handel
+M:4/4
+K:C
+L:1/4
+Q:1/4=120
+|: (E/F/) | "C" [EG] [Gc] "F" [BG][AF] | "C" [GE] (C/D/) [EC] ([E/C/][F/D/]) | "C" [EG] [EG] [EG] ([F/D/][E/C/]) |
+w: While - shep-herds watched their flocks by - night,  All - seat-ed on the -
+"G" [EC] [DB,] z ([B/G/][c/A/]) | "G" [dB] G "Dm" [FD] [FD] | "G7" [FB,] ([E/C/][D/B,/]) "C" [EC] ([c/A/][B/G/]) |
+w: ground, - The - an-gel of the lord came - down, and -
+"F" [AF] "C" [GE] "F" [FC] "C" [EC] | "F" [AF] "C" [GE] z [cG] | "C" [GE] [cC] "G7" [EC] ([D/B,/][C/C/]) | "C" C3 :|
+w:  glo-ry shone a-round, - And glo-ry shone a--round.
+W: "Fear not", he said, for mighty dread
+W: Had seized their troubled minds,
+W: "Glad tidings of great joy I bring
+W: To you and all mankind,  To you and all mankind."
+W:
+W: From _The Reader's Digest Merry Christmas Songbook_, p. 182.
+
+X: 2
+T: While shepherds watched their flocks at night (melody)
+M:4/4
+K:C
+L:1/4
+|: (E/F/) | G c BA | G (C/D/) E (E/F/) | G G G (F/E/) |
+E D z (B/c/) | d G F F | F (E/D/) E (c/B/) |
+A G F E | A G z c | G c E (D/C/) | C3 :|
+N: Derived from above using 'split.cpp'
+N: Chords removed w/search & replace
+
+X: 3
+T: While shepherds watched their flocks at night (harmony)
+M:4/4
+K:C
+L:1/4
+|: (E/F/) | E G GF | E (C/D/) C (C/D/) | E E E (D/C/) |
+C B, z (G/A/) | B G D D | B, (C/B,/) C (A/G/) |
+F E C C | F E z G | E (C/D/) C (B,/C/) | C3 :|
+N: Derived from above using 'split.cpp'
+N: Chords removed w/search & replace
+
+X: 4
+%% header Viola
+T: While shepherds watched (harmony)
+C: Words by Nahum Tate & Nicholas Brody
+C: Music by George Frederick Handel
+M:4/4
+K: C clef=alto middle=c
+L:1/4
+Q:1/4=120
+|: (ue/f/) | e g g f | e (c/"4"d/) c (c/"0"d/) | e e e "4"(d/c/) |
+(c B) z (g/a/) | b g d d | B (c/B/) c "4"(a/g/) |
+f e c c | f e z ug | e (c/"4"d/) c (B/c/) | c3 :|

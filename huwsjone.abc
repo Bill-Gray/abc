@@ -1,0 +1,76 @@
+%% transpose 0
+%% header
+X: 1
+T: Silent Night
+C: For violin, flute, and other C instruments
+M:3/4
+K:D
+L:1/4
+D3 | D3 | D3 | D3 | A3 | A3 | D3 | D3 |
+G,3 | G,3 | D3 | D3 | G,3 | G,3 | D3 | D3 |
+A3 | A3 | D3 | D3 | A3 | A3 | D3 | D3 |]
+
+X: 2
+T: Away In A Manger
+C: For violin, flute, and other C instruments
+M:3/4
+K:D
+L:1/4
+z | "_pizzicato" D D A | D D A | D D D | E z2 |
+E E E | D D D | E E E | A z2 | D D A | D D A |
+D D D | E z2 | E E E | D D D | E E A | D z |]
+
+%% transpose 2
+%% header
+X: 3
+T: Silent Night (for Bb)
+C: For clarinet, trumpet, and other Bb instruments
+M:3/4
+K:D
+L:1/4
+D3 | D3 | D3 | D3 | A3 | A3 | D3 | D3 |
+G3 | G3 | D3 | D3 | G3 | G3 | D3 | D3 |
+A3 | A3 | D3 | D3 | A3 | A3 | D3 | D3 |]
+
+X: 4
+T: Away In A Manger (for Bb)
+C: For clarinet, trumpet, and other Bb instruments
+M:3/4
+K:D
+L:1/4
+z | D D A | D D A | D D D | E z2 |
+E E E | D D D | E E E | A z2 | D D A | D D A |
+D D D | E z2 | E E E | D D D | E E A | D z |]
+
+%% transpose 9
+%% header
+X: 5
+T: Silent Night
+C: For alto sax & other Eb instruments
+M:3/4
+K:D
+L:1/4
+D3 | D3 | D3 | D3 | A,3 | A,3 | D3 | D3 |
+G3 | G3 | D3 | D3 | G3 | G3 | D3 | D3 |
+A,3 | A,3 | D3 | D3 | A,3 | A,3 | D3 | D3 |]
+
+X: 6
+T: Away In A Manger
+C: For alto sax & other Eb instruments
+M:3/4
+K:D
+L:1/4
+z | D D A, | D D A, | D D D | E z2 |
+E E E | D D D | E E E | A, z2 | D D A, | D D A, |
+D D D | E z2 | E E E | D D D | E E A, | D z |]
+
+%% transpose 0
+%% header
+X: 7
+T: Silent Night (melody)
+M:3/4
+K:D
+L:1/4
+!p!(A > B A) | F3 | (A > B A) | F3 | (e2 .e) | c3 | (d2 d) | A3 |
+!mp!(B2 B) | (d > c B) | (A > B A) | F3 | !mf!(B2 B) | (d > c B) |(A > B A) | F3 |
+(e2 e) | (g > e c) | d3 | f3 | (d A F) | (!mp!A > G E) | D3 | D3 |]

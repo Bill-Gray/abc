@@ -1,0 +1,50 @@
+% From _Right from the start: cello duet version_,  Sheila M Nelson
+X: 1
+T: Ann and Dan
+M:4/4
+K: D middle=b
+L:1/8
+Q:1/4=120
+| (fe) (fg) (fe) d2 | (de) eg aa a2 | (fe) (fg) (fe) d2 | (defe) d4 | (c'b) (c'd') (c'b) a2 | (c'b) ab c'd' c'2 |
+(c'b) (c'd') (e'd') (c'b) | (a^g ab) (a=g fe) | (fe) (fg) (fe) d2 | (bc') d'e' f'f' f'2 | (f'e') (f'g') (a'g') f'2 | (f'e') (d'c') d'4 |]
+
+X: 2
+T: G-String George
+M: 3/4
+K: G
+L: 1/8
+Q: 1/4=120
+| (bc')(bc')(bc') | (bc'd'c'bg) | (fg)(fg)(fg) | (fgagfd) |
+ (cd)(cd)(cd) | (cdedcA) | (FdcBAG) | (FGABcd) |
+ (Bc)(Bc)(Bc) | (BcdcBg) | (fg)(fg)(fg) | (fgagfa) |
+ (c'd')(c'd')(c'd') | (c'd'e'd'c'a) | (bagabc') | b2 G2 z2 |
+
+% From _First Duos for Cello_,  Steven De'ak (sic)
+X: 3
+T: America
+M: 3/4
+K: C middle=b
+L: 1/8
+Q: 1/4=120
+| d2 (d2 e2) | (^c3 d) e2 | ^f2 (f2 g2) | (^f3 e) d2 | (e2 d2 ^c2) | d6 | a'2 (a'2 a'2) |
+(a'3 g') ^f'2 | g'2 (g'2 g'2) | (g'3 ^f') e'2 | ^f'2 (g'f've'ud') | (^f'3 g') a'2 | b'g' ^f'2 e'2 | d'6 |]
+
+X: 4
+T: Au clair de la lune
+M: 4/4
+K: C
+L: 1/4
+Q: 1/4=120
+| !mf!vg ug (g a) | (ub2 a2) | (g b) a a | ug4 | !mp!g g (g a) |
+(b2 a2) | (g b) a a | g4 | !f!a a a a | e2 e2 | (a g ^f e) |
+!>(!d4 | !>)!!p!g g (g a) | (b2 a2) | (g b) (!tenuto!ua !tenuto!a) | g4 |
+
+X: 5
+T: Drink to Me Only With Thine Eyes
+M: 6/8
+K: C
+L: 1/8
+Q: 1/4=120
+| !p!(v!tenuto!B!tenuto!B!tenuto!B) (uc2 u!tenuto!c) | !<(!(dcB) (ABc!<)! | d)(vGc) (uB2 A) |1 G6 :|2 !>(!(G3 G)!>)! z !tenuto!ud ||
+(vdBd) (ug2 ud) | (dBd) (ud2 ud) | (e2 d) (dcB) | !>(! B3 A3 !>)! |
+(u!tenuto!B !tenuto!B !tenuto!B) (uc2 u!tenuto!c) | (dcB) (uABc | d)(vGc) (uB2 A) | !fermata!G6 |

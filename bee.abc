@@ -1,0 +1,44 @@
+X:13
+T:Bee's Wing Hornpipe
+C:Scottish
+M:4/4
+K:Bb
+L:1/8
+(3(FGA) |: "Bb" BfdB "F" AecA | "Gm" FdBF "Bb" DBFD | "Eb" EGce "Bb" DFBd | "C" (3cdc (3BAG "F" F2  (3(FGA) |
+"Bb" Bfdb "F" Afca | "Eb" EBGe "Bb" DBFd | "Eb" EGce "F" dFAc |1 "Bb" B2 "(F)" d2 "(Bb)" B2 (3(FGA) :|2 "Bb" B2 "(F)" d2 "(Bb)" B2 f2 ||
+|: "Bb" (3dcB fd bfdB | "F" cA{f/g/}fc afcA | "Eb" GEBG "C" =ecdB | "F" (3cdc (3BAG "(F)" F2 (3(FGA) |
+"Bb" Bfdb "F" Afca | "Eb" EBGe "Bb" DBFd | "Eb" EGce "F" dFAc |1 "Bb" B2 "(F)" d2 "(Bb)" B2 d2 :|2 "Bb" B2 "(F)" d2 "(Bb)" B2 |]
+
+X:8
+T:Eighth of January
+C:Old-Time/Bluegrass
+M:4/4
+K:D
+L:1/8
+de | "D" fefa (fe)df | "Em" efe(d "G" B2) cd | "A" e2 (ef) e(cBA) | "D" dBA(F D2) de |]
+(fe)f(a fe)d(f | "Em" ef)e(d "G" B2) cd | "A" e2 (ef) e(cBA) | "D" dBA(F D2) DE |]
+"D" F2 A2 A2 F2 | ABA(F "A" ED)DE | "D" F2 A2 A2 (AB) | "A" A(FEF) "D" D2 (DE) |
+"D" F2 A2 A2 F2 | ABA(F "A" ED)DE | "D" F2 A2 A2 (AB) | "A" A(FEF) "D" D2 z2 |]
+
+X:12
+T:Whiskey Before Breakfast
+C:Old-Time
+M:4/4
+K:D
+L:1/8
+"D" (A,B,)D(E D2) D(E | F2) B(F AB)A(F | "G" G2) B(G F2) "D" A(F | "A" ED)E(F ED)B,(G, |
+"D" A,B,)D(E D2) D(E | F2) B(F AB)A(F | "G" G2) B(G  "D" FG)A(F |1 "A" ED)E(F "D" D2) DB, :|2 "A" (ED)E(F "D" D2) d(B ||
+|: "D" A2) B2 d2 c(d | "Em" ef)e(d "A" cB) A2 | e2 e(f e2) e(f | "A7" gf)e(d cA)B(c |
+"D" d2) f(d "A" c2) e(c | "G" BA)B(c "D" dB)A(F | "G" G2) B(G "D" F2) A(F |1 "A" ED)E(F "D" D2) dB :|2 "A" (ED)E(F "D" D2) z2 |]
+
+X:14
+T:Soldier's Joy
+C:Old-Time, Bluegrass
+M:4/4
+K:D
+L:1/8
+FG |: "D" AFDF AFDF | A2 dc d2 FG | AFDF AFDF | "A" G2 E2 E2 FG |
+"D" AFDF AFDF | A2 dc d2 de | fafd "A" egec |1 "D" d6 FG :|2 "D" d6 de ||
+|: "D" fefg abaf | "Em" edcd "A" efge | "D" fefg abaf | "A" edcB A2 de |
+"D" fefg abaf "Em" edcd "A" efge | "D" fafd "A" egec |1 "D" d6 df :|2 "D" d6 |]
+

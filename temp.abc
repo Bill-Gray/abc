@@ -1,0 +1,112 @@
+X: 1
+T:La Belle Catherine
+M:4/4
+C:med. tempo, emphasis on beat (not back beat).  From Ptld Collect.
+L:1/8
+Q:1/4=140
+K:Emaj
+|: "E" B,EEG FE E2 | B,EEG FE E2 | "B" DEFG AGAB | "E" cB^AB GE E2 |
+"E" B,EEG FE E2 | B,EEG FE E2 | "B" DEFG AGAB | cBAF "E" E4 :|
+|: "E" G2 B2 BcBA | GBBB "C#m" c3 B | "B" B2 ^AB dcB=A | cB^AB "E" GE E2 |
+"E" G2 B2 BcBA | GBBB "C#m" c3 B | "B" B2 ^AB dcB=A | cBAF "E" E4 :|
+
+
+X: 2
+T:La Belle Catherine
+M:4/4
+L:1/8
+Q:1/4=140
+K:Dmaj
+|: "D" A,DDF ED D2 | A,DDF ED D2 | "A" CDEF GFGA | "D" BA^GA FD D2 |
+"D" A,DDF ED D2 | A,DDF ED D2 | "A" CDEF GFGA | BAGE "D" D4 :|
+|: "D" F2 A2 ABAG | FAAA "Bm" B3 A | "A" A2 ^GA cBA=G | BA^GA "D" FD D2 |
+"D" F2 A2 ABAG | FAAA "Bm" B3 A | "A" A2 ^GA cBA=G | BAGE "D" D4 :|
+
+X: 3
+T:Galen's Arrival
+M:4/4
+C:Alasdair Fraser/Ptld Collect
+Q:1/4=140
+L:1/8
+K:Dmaj
+DE |: "D" F3 E FDAF | "Em" G3 F GEBG | "D" FAdA "G" BGED | "A" CDEF GA,FD |
+"D" F3 E FDAF | "Em" G3 F GEBG | "D" FAdA "A" BGEC |1 "D" D2 DC D2 :|2 "D" D2 DC D |
+|: EFA | "Bm" d2 dc dfed | "A" c2 cB cAAF | "Em" G2 GF GBAG | "D" FAdA "A" cdec |
+"Bm" d2 dc dfed | "A" c2 cB cAAF | "G" G2 GF GBAG |1 "A" FDEC "D" D :|2 "A" FDEC "D" D2 |]
+
+X: 4
+T:Full Moon Jig
+M:6/8
+C:Gordon Euler
+Q:1/4=140
+L:1/8
+K:Amaj
+E, | "A" E,A,C EAc | "D" BAG F2 A | "E" GEC B,CD | "A" CA,F, E,2 E, |
+"A" E,A,C EAc | "D" BAG F2 A | "E" GEC DB,C | "A" A,3 A,2 :|
+|: (3E/2F/2G/2 | "A" AGA ABc | "D" BAG F2 A | "E" GAG GFG | "A" AED C (3E/2F/2G/2 |
+"A" AGA ABc | "D" BAG F2 A | "E" GEC DB,C | "A" A,3 A,2 :|
+
+X: 5
+T:John Bowes
+M:4/4
+Q:1/4=140
+L:1/8
+K:Gmaj
+"G" D,G,B,G, "D" F,A,DC | "G" B,DGF GDB,D | "Am" CEAC "G" B,DGB, | "D" CB,A,G, F,D,E,F, |
+"G" G,G,A,G, "D" F,A,DC | "Em" B,DGF "Bm" GDB,D | "C" CEAG "Am" FDCA, |1 "D" B,G,G,F, "G" G,4 :|2 "D" B,G,G,F, "G" G,2 ||
+|: Bc | "G" dB (3.B.B.B "D" cAFA | "G" G2 FA GDB,D | "Am" CEAC "G" B,DGB | "D" cBAG ABce |
+"G" dB (3.B.B.B "D" cAFA | "Em" G2 FA "Bm" GDB,D | "C" CEAG "Am" FDCA, |1 "D" B,G,G,F, "G" G,2 :|2 "D" B,G,G,F, "G" G,4 |]
+
+X: 6
+T:Bonnie Charlie
+M:4/4
+Q:1/4=160
+L:1/8
+K:C treble
+%% transpose 7
+E,2 | "Am" A,2 A,B, C2 CD | EFDE C2 (3DEF | E2 A,2 A,3 C | "G" B,CDB, G,2 CB, |
+"Am" A,2 A,B, C2 CD | EFDE C2 (3DEF | E2 A,2 "Em" CB,A,G, | "Am" A,4 A,2 :|
+E2 | "Am" ABAG E2 E2 | ABAG E3 c | "G" BcdB G2 G2 | Bcdc G2 cd |
+"C" e2 ce "G" d2 Bd | "Am" c2 Ac "G" cBAG | "Am" A3 B "Em" cBAG | "Am" E2 A2 A3 E ||
+"Am" ABAG E2 E2 | c2 c2 "Em" E3 F | "Dm" FEDC DCB,A, | "G" B,CDB, G,2 CD |
+"C" E2 CE "G" G2 EG | "Am" ABcd "G" cBAG | "Am" AGFE "Em" EDCB, | "Am" A,4 A,2 |]
+
+X: 7
+T:Bonnie Charlie
+M:4/4
+Q:1/4=160
+L:1/8
+K:Cmaj
+E,2 | "Am/Em" A,2 A,B, C2 CD | EFDE C2 (3DEF | E2 A,2 A,3 C | "G/D" B,CDB, G,2 CB, |
+"Am/Em" A,2 A,B, C2 CD | EFDE C2 (3DEF | E2 A,2 "Em/Bm" CB,A,G, | "Am/Em" A,4 A,2 :|
+E2 | "Am/Em" ABAG E2 E2 | ABAG E3 c | "G/D" BcdB G2 G2 | Bcdc G2 cd |
+"C/G" e2 ce "G/D" d2 Bd | "Am/Em" c2 Ac "G/D" cBAG | "Am/Em" A3 B "Em/Bm" cBAG | "Am/Em" E2 A2 A3 E ||
+"Am/Em" ABAG E2 E2 | c2 c2 "Em/Bm" E3 F | "Dm/Am" FEDC DCB,A, | "G/D" B,CDB, G,2 CD |
+"C/G" E2 CE "G/D" G2 EG | "Am/Em" ABcd "G/D" cBAG | "Am/Em" AGFE "Em/Bm" EDCB, | "Am/Em" A,4 A,2 |]
+
+% 2013 Jun 13: corrected pickup note,  added bar on last line
+% 2014 Nov 18: xposed to G
+X: 8
+T:The High Road to Linton
+C:Not from Portland Collection
+M:4/4
+K:Gmaj
+L:1/8
+Q:1/4=160
+ud2 |: "G" Bdde g2 (gd) | "C" e2 (ed) "G" g2 (gd) | Bdde g2 (gd) | "C" eg "G" dB "D7" A2 "G" G2 :|
+|: "G7" Bdd=f "C" ecce | "G" dBBd "D7" eAAc | "G7" Bdd=f "C" ecce | "G" dBgB "D7" A2 "G" G2 :|
+|: "G" g2 g2 de g2 | (de) gd "C" eg "G" de | "G" g2 g2 degd | "C" eg "G" dB "D7" A2 "G" G2 :|
+|: "G" B2 (dB) "C" cdec | "G" B2 (dB) "D7" ABcA | "G" B2 (dB) "C" cdef | ge "G" dB "D7" A2 "G" G2 :|
+
+X: 9
+T: Mouth of Tobique
+M: 4/4
+K: G
+L: 1/8
+Q: 1/4=170
+|: "G" GFGA BdeB | dedB G2 FG | "D" ABAF DFAF | "G" GBAF "D" D2 DF |
+"G" GFGA BdeB | dedB G2 BG | "D" ABAF DFAd | "G" B G2 G G2 :|
+|: ef | "Em" gfga gfeg | "D" fddd fagf | "C" ecAF "D" DFAF | "G" GABc d2 ef |
+"Em" gfga gfeg | "D" fddd fagf | "C" ecAF "D" DFAd | "G" B G2 G G2 :|
+|: (3DEF | "G" GGBG GcGG | BGGc GGBG | "D" FFAF FBFF | AFFB FFAF |
+"G" GGBG GcGG | BGGc GGBG | "D" ABAF DFAd | "G" B G2 G G2 :|

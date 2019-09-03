@@ -1,0 +1,72 @@
+%               Example tunes for abc2midi.
+% Illustrating various aspects of the abc notation language
+%
+X: 1
+T:KV 304-tempo-di-menuetto
+M:3/4
+L:1/8
+Q:1/4=120
+C:Mozart
+K:G 
+I:clef=treble octave=0
+g2| g2 fe b2|b2 f2 g2|e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3| ^d2 z2e2|c2 c'2 (b2|b2) a2 (g2 | g)fbagf|e2 ^d2 f2| g2 fe b2| b2 f2 g2|
+e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3|^d2 z2 e2|
+ c2 c'2 (b2|b2) a2 g2| fa[gE][bG][^dF][fA]|[e2G2] z2 z2| B,EGBGE | B,FBFDB,|
+GFG^GA^A| BF^DFEB| EAce Ge| ^GeAeBe|Bc=dcBA|=GBFB^DF| B,EGBGE|
+B,FB^ABF| GFG^GA^A| BF^DFEB| ^DFADEG| FBcFGB| AcEGFA| G2 z2||
+g2 | g2 fe e2| e2 =d2 d2| a3 fdc| ^A2 B2 d'2| ^c'd'e'd'=c'b| b2 a2 c'2|e3 fga|g2 f2 z2|
+DGBD CA| B,^GA,F^G,E| A,EAC B,=G| A,F=G,EF,D| DB,G,.G.G.G| GDB,.G.G.G|GEC.c.c.c| dBG.d.d.d|
+ecA.e.e.e| eAdAGd| ecBdcA| G2 z2 c2| B2 (3Bcd (3cde|d2 z2 ^d3/2^c/4d/4|e2 (3efg (3fga|g2 z2 ^g3/2f/4g/4|
+a2 (3abc' (3bc'd'| (c'2 (3c')ad' (3bgd| (3aec (3Bdg (3Adf | (c'2 (3c')ad' (3bgd| (3aec (3Bdg (3Adf| g2 B/4c/4B/4c/4B/4c/4B/4c/4B/4c/4B/4c/4 A/2B/2| c2 ^c/4d/4c/4d/4c/4d/4c/4d/4c/4d/4c/4d/4 B/2c/2|
+d2 ^d/2e/2^d/2e/2^d/2e/2^c/2d/2| .e.f.g.^g.a.^a| bf=g^de^A| BFG^DE^A,| z6|z6|
+g2 fe b2| b2 f2 g2| e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3 |^d2 z2 e2| c2 c'2 (b2|b2) a2 (g2|g)fbagf | e2 ^d2 g2| g2 fe b2| b2 f2 g2|e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3|
+^d2 z2 e2| c2 c'2 (b2 | b2) a2 [^g2^G2] | [^g2^G2] [A2a2] [B2b2] | [B2b2] [c2c'2] [^c2^c'2] | [^c2^c'2] [d2d'2] [^d2^d'2] | [^d2^d'2] [e2e'2] b2 | c'b/2a/2 g2 f/2g/2f/2g/2| e2 z2||
+[e2g2]| [e2f2] z2  [^d2a2]| [e2g2] z2 [e2b2] | [e2c'2] z2 [F2^d2]| [E2e2] z2 |
+K:E
+|: [E2G2] | [E2G2] [E2G2] [E2G2]| [G2E4] F2 [F2E2] | [D2F2] [D2F2] [D2F2] | [c2E4] B2 E2|  E2 E2 E2| E2 c2 B2|
+[B2F4] A2 [G2E2] | [G2E2] [D2F2] [EG2]B, | [EG2]B,[EG2]B,[EG2]B,| [G2E4C4] F2 [DF2]B, | [DF2]B,[DF2]B,[DF2]B, | [c2E4] B2 [E2B,2] | [E2C2] [D2F2] [E2G2]| [D2F2] [E2G2] [C2E2]| [D4B,4] [^A,2C2] | B,2 z2 :|
+|: B2| F2 ^E2 G2| B2 A2 F2| E2 D2 F2| A2 ^G2 [G2F2D2] | [G2E6] A2 G2| [c2E4] B2 E2 | E2 D2 E2| [E6G6] | [D2F2] z2 z2|
+z2 z2 [EG2]B,| [EG2]B,[EG2]B,[EG2]B,| [G2E4C4] F2 [DF2]B,| [DF2]B,[DF2]B,[DF2]B,| [c2E4] B2 E2| E2 E2 E2 | E2 c2 B2| [F2A2] [E2G2] [D2F2] |1 E2 z2 :|2 EDE=F^F=G ||
+K:G
+G2 FE B2 | B2 F2 G2 | E/3F/3E/3F/3E/3F/3E/3F/3E/3F/3E/3F/3E/3F/3E/3F/3E/3F/3| ^D2 z2 E2| C2 c2 (B2|B2) A2 (G2 |G)FBAGF| E2 ^D2 g2| g2 fe b2|
+b2 f2 g2| e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3e/3f/3| ^d2 z2 e2| c2 c'2 (b2|b2) a2 (^g2 |^g2) a2 (b2 |
+b2) c'2 (^c'2 | ^c'2) d'2 (^d'2 | ^d'2) e'2 b2| c'b/2a/2 g2 f/2g/2f/2g/2 | e2 z2 z2| z2 [G2E2B,2] z2| z2 [G2E2C2] z2|
+z2 [E2G2] z2 | z2 [E2G2] z2 | z2 [E2G2] z2| z2 [C2F2] z2 | z2 [E2G2] [^D2F2] | E2 z2 B2| ^de z2 gf| ^de z2 bg| ^de z2 ^d'e'|
+^de z2 ^AB| ^de z2 bg | ^ef z2 c'a| fg z2 b^d| (e'2 (3e')bg (3bge | (3fac' (3bge (3f^dB |
+(e'2 (3e')bg (3bge| (3fac' (3bge (3afd| (3zeg (3be'b (3gbg| (3ege (3BeB (3GBG | (3EGE z4 |z6||
+V:2
+%%MIDI channel 1
+z2 | [B4E6] G2| [F4D6] (B2| [B4C6]) ^A2|[B2B,2] A,2 [B,2G,2]| [A,4E6] B,2 | [C4E4] [B,2D2]| [C4A,6] A2| [G2B,4] F2 ^D2| [B4E6] G2| [F4=D6] B2|
+[B4^C4] [^A2=C2] | [B2B,2] A,2 [G,2B,2] |
+I:clef=bass octave=-2
+[f4e'6] g2| [c'4e'6] b2| [a2c'2] b2 b2| e'2 e2 z2| e6 | =d6|
+c6| B2 A2 G2| A4 B2| c4 B2|A4 a2| b2 B2 z2 | [e6E6]|
+[^d4^D4] [=d2=D2]| [^c4^C4] [=c2=C2]| [B2B,2] [A2a2] [G2g2] | [A4a4] [G2g2]| [^D4^d4] [E2e2] | [A2a2] [B2b2] [B2b2]| e2 E2||
+z2| e6| f6| d6| g4 [a2f'2]| [b2g'2] z2 B2| c2 z2 z2 | c2 c'2 a2| d'4 z2|
+([D6d6]| [D2d2]) [D2d2] [D2d2]| ([D6d6]| [D2d2]) [D2d2] [D2d2]| G2 G2 A2| B2 z2 B2| c2 .c2 A2| B2 z2 B2 |
+c2 c'2 ^g2| a2 f2 =g2| c2 d2 d2 | G2 B2 d2| G2 g2 a2| b2 z2 b2 | c'2 c2 c2| B2 z2 d2|
+c2 c'2 ^g2| a2 d2 =g2| c2 d2 d2| [E2e2] [F2f2] [G2g2] | [C2c2] [D2d2] [D2d2]| gG ga=fg | ec abga|
+^fd bc'ab | .g.^d.e.=d.^c.=c | B2 z2 z2| z6 |[Bb][Ff][Gg][^D^d][Ee][^A,^A]| [B,4B4] z2|
+e'6| =d'6| c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3c'/3d'/3| b2 a2 g2| a4 g2| c'4 b2| a2 z2 a2| b4 z2| Eegb Ee| =Ddfb Dd| Ccea A,A|
+B,B^df Gg |Acea ^G^g| ceac' Bb| =d=d'cc' ^G^g| ^G^g Aa=G=g| GgFf Aa| AaGg eg| af b^abB| e2 E2 ||
+z2 |z2 a2 b2| z2 c'2 g2| z2 a2 b2|e2 z2|
+K:E
+|: [e2b2]| [e2b2][e2b2][e2b2]| [a4c'4] [a2c'2]| [a2b2] [a2b2][a2b2]| [g4b4] [e2g2]| [e2g2] [f2a2] [g2b2] | [c'2a4] d'2 [e'2g2]|
+[d4b4] [e2b2] | [B4b4] [E2e2] | [E2e2][E2e2][E2e2]| [A4a4] [A2a2]| [A2a2][A2a2][A2a2]|[G4g4] [G2g2]| [^A2^a2] [A2a2] [A2a2] | [B4b4] [E2e2]| [F6f6]| [B,2B2] z2 :|
+|: z2| [c4g4] [^e2c'2]| [f4c'4] [=c2a2]| [B4b4] [d2b2] | [e4b4] [^B2^b2]| [A4c'4] [=B2=b2] | [A2a2] [G2g2] z2| [c6^a6]| ([B6b6] | [B2b2]) z2 z2|
+z2 z2 [E2e2] | [E2e2][E2e2][E2e2]| [A4a4] [A2a2]| [A2a2][A2a2][A2a2]| [G4g4] [g2b2]| [g2b2] [a2c'2] [b2=d'2] | [c'2a4] ^d'2 [e'2g2]| a2 b2 B2|1 e2 z2 :|2 e2 z2 z2 ||
+K:G
+[b4e6] g2 | [f4d6] b2| [b4c6] ^a2| [B2b2] =A2 [G2B2]| [A4e6] B2| [c4e4] [B2d2] | [c4A6] a2| [g2B4] f2 z2 | (3egb (3egb (3egb|
+(3^dfb (3dfb (3=dfb| (3^cg^a (3cga (3=cga| (3df=a (3dfa (3e^gb| (3eac' (3eac' (3ebd'| (3ebd' (3ec'e' (3ebd' | (3ed'=f' (3ec'e' (3e^gd'|
+(3e^gd' (3eac' (3e=g_b | (3eg_b (3=fad' (3^fac' | (3^fac' (3gbe' (3GBe| (3Acf (3Beg (3B^da | [e2g2] E2 z2 | z2 [G2g2] z2 | z2 [A2a2] z2 |
+z2 [B2b2] z2 | z2 [c2c'2] z2| z2 [G,2G2b2] z2 | z2 [A,2A2c'2] z2 | z2 [B,2B2b2] [B,2B2a2] | [e2g2b2] E2 z2 | [GG4]B^deGe | [AA4]c^deAe| [BB4]g^deBg|
+[cc4]g^de z2 | [GG4]B^deGe | [AA4]c^deAe| [BB4]e^de [fB2]a| g2 e2 g2| a2 b2 a2|
+[G2g2] [E2e2] [G2g2]| [A2a2] [B2b2] [B,2B2]| [E2e2] z2 z2 | z2 (3be'b (3gbg | (3ege (3[Bb][ee'][Bb] (3[Gg][Bb][Gg]| [E2e2] z2 z2 ||
+
+
+
+
+
+
+
+

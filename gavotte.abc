@@ -1,0 +1,29 @@
+X:1
+T:Gavotte
+C:Jean Becker
+M:4/4
+K:G minor
+L:1/8
+Q:1/2=60
+z8 | z4 (u.d z u.e) z | (vdB).G.A (u.B z u.A) z | (G2 D2) (GA)BG |
+(A2 d2) (G^F)GA | D4 (u.d z u.e) z | (dB)GA (u.B z u.A) z | (G2 D2) (GAB=B) |
+(cd)ec (u._B z u.A) z | G4 vd2 ud2 | v.d2 ((uc/d/ e).d.c.B) | (=Bc) c2 ve2 e2 |
+ve2 (u.f.e .e.d.c.B) | (d2 c2) (u.d2 u.d2) | v.d2 ((uc/d/ e).d.c.B) | (A2 G2) cd e2 |
+fe d2 {B/d/}c4 | B4 (u.d z .e) z | (dB)GA (u.B z u.A) z | (G2 D2) (GBAG) |
+(AecA) (GA c/B/A/G/) | (B2 A2) (u.d z u.e) z | (dB).G.A (u.B z u.A z) | (G2 D2) (uGAB=B) |
+(vcd) (uf/e/d/c/) v._B u.A z | G4 || \
+K:G
+vB z d z | e z g z d z c z | B4 (GABG) |
+v.E2 .E2 (cdec) | (uB2 A2) B z d z | e z g z d z c z | B4 (GABG) |
+(E^G)(Ac) B2 {A/B/}A>>=G | G4 vB2 B2 | (B2 e2) d2 c2 | B4 E2 E2 | (F2 A2) F2 E2 |
+(E2 ^D2) B2 B2 | (B2 g2) f2 ^d2 | (e3 e) (=dc)BA | ((G2 G/)F/G/A/) B2 B2 |
+E4 vB z d z | e z g z d z c z | vB4 (GABG) | v.E2 .E2 (cdec) |
+(uB2 A2) B z d z | ve z g z d z c z | vB4 (GABG) | (vE^G)(Ac) vB2 {A/B/}A>>_G |
+G4 || \
+K:G minor
+(u.d z u.e) z | (dB).G.A (u.B z u.A) z | (G2 D2) (GA)BG | (A2 d2) (G^F)GA |
+D4 | (u.d z u.e) z | (dB).G.A (u.B z u.A) z | (G2 D2) (GAB=B) | (cd)ec (u._B z u.A) z |
+G4 vd2 ud2 | d3 ((c/d/ e).d.c.B) | (=Bc) c2 vf2 uf2 | vf2 (u.g.f u.e.d.c.B) |
+(d2 c2) (u.d2 u.d2) | d3 ((c/d/ e).d.c.B) | (A2 G2) ef g2 fe d2 {B/d/}c4 |
+B4 (u.d z u.e) z | (dB).G.A (u.B z u.A) z | (G2 D2) (GBAG) | (AecA) (GA c/B/A/G/) |
+(B2 A2) (u.d z u.e z) | (dB).G.A (u.B z u.A) z | (G2 D2) (GAB=B) | (vcd) (uf/e/d/c/) v._B z u.A z | G4 z4 |]

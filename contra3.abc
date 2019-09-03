@@ -1,0 +1,564 @@
+
+% Slurs & accents added by Ellen Gawler.
+X:5
+T:Ashokan Farewell
+C:Jay Ungar
+M:3/4
+% K: D
+K: D
+L:1/8
+u(Ac) |: "D" d3 (uc BA) | "D/F#" F4 (EF) | "G" G3 (uF ED) | "Em" B,2 (D3 B,) |
+"D" A,2 D2 F2 | "Bm" A2 d2 f2 |1 "Gmaj7" f3 (g f2) | "A7" e4 (Ac) :|2
+"A7" A2 c2 e2 | "D" d4 FG || "D" A3 (F D2) | "D7/F#" d4 A2 |
+"G" B3 (c d2) | "D" A (F3 E2) | F3 (E D2) | "Bm" B,4 G,2 | "A" A,6 |
+"A7" A4 (FE) | "D" D2 F2 A2 | "C" =c6 | "G" B3 (c d2) |
+"D" A2 F2 D2 | A,2 D2 F2 | "Bm" (A2 d2) F2 | "A7" E3 (D C2) | "D" D6 |
+
+X:1
+T:Angeline the Baker
+C:Old-Time
+M:4/4
+% K: D
+K: D
+L: 1/8
+(dB) |: "D" A2 B2 d3 A | "Bm" B2 d4 "D" dB | A2 B2 dB A2 | "G" B6 dB |
+% w: Oh-- An-ge-line the ba-ker, oh-- An-ge-li-ne my love oh--
+"D" A2 B2 d3 e | "Bm" f2 e2 d3 e | f2 e2 "G" d2 B2 |1 "A" A3 B A2 (dB) :|2 "A" A3 B A2 (fg) ||
+% w:An-ge-line, oh An-ge-line, oh| An-ge-line my on-ly love oh----
+|: "D" a2 f2 "Em" e2 de | "D" f2 e2 d2 fg | a2 f2 "Em" e2 d2 | "Bm" B3 B B2 (fg) |
+% w: An-ge-line oh-- An-ge-line, oh-- An-ge-line my on-ly love oh--
+"D" a2 f2 "Em" e2 de | "Bm" f2 e2 d2 de | f2 e2 "G" d2 B2 |1 "A" A3 B A2 (fg) :|2 "A" A3 B A2 z2 |]
+% w: An-ge-line oh-- An-ge-line oh-- An-ge-line my on-ly love ---
+
+% ...and a simplified version for contra dance.  Only change is that
+% there are no repeats;  first endings have been zapped.
+% (Fixed for 2016 contra dance:  add some markings from Ellen)
+X: 15
+T: Bonaparte Crossing The Rhine (Eastwards)
+M: 4/4
+L: 1/8
+K: D
+Q:1/4=160
+vF2 uG2 |  "D" A3 BA2 F2 | A4 (u.d2 u.e2) | f3 e f2 a2 | d6 (u.du.c) |
+"G" B2 (Bc) d2 B2 | "D" A2 F2 D2 F2 | "A" E4 (E3 F) | E4 (u.F2 u.G2) | "D" A3 B A2 F2 |
+A4 (u.d2 u.e2) | f3 e f2 a2 | d6 (u.du.c) | "G" B2 Bc d2 B2 | "D" A2 F2 "A" E2 (EF) |
+"D" D4 (D3 E) |               D2 A2 d2 e2 || "D" f3 e f2 g2 | a6 A2 |
+"G" B3 A B2 c2 | "D" d6 A2 | "G" B3 c d2 B2 | "D" A2 F2 D2 F2 | "A" E4 (E3 F) |
+E4 (u.F2 u.G2) | "D" A3 B A2 F2 | A4 (u.d2 u.e2) | f3 e f2 a2 | d6 (u.du.c) |
+"G" B2 (Bc) d2 B2 | "D" A2 F2 "A" E2 (EF) | "D" D4 (D3 E)                |  D4 |]
+
+X: 33
+T: The Brown Cow (Miss McCleod's Reel)
+C: Scottish reel
+M: C|
+K: A
+L: 1/8
+|: "A" vA2 a2 fefa | c2 u(cB) c2 u(cB) | A2 a2 fefa | "E" B2 u(BA) B2 u(cB) |
+"A" A2 a2 fefa | c2  (cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
+"A" A2 (cA) eAcA | c2 u(cB) c2 u(cB) | A2 (cA) eAcA | "E" B2 u(BA) B2 u(cB) |
+"A" A2 (cA) eAcA | c2 u(cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
+W: Add 'A' chord at end
+
+% 2013 Jun 13: corrected fourth note to G
+X: 31
+T: Cold Frosty Morning
+M: 4/4
+K: G
+L: 1/8
+|: "Am" (ED)EG A2 AA | (AB)cd e2 AA | "G" B3 A G2 D2 | (GA)Bc d2 DD |
+   "Am" (ED)EG A2 AA | (AB)cd e2 dd | (cB)Ac "G" (BAGB) | "Am" A2 AA A2 AA :|
+|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | "Am" (ed)cd "E7" e2 ee |
+   "Am" A2 AA "F" c2 cc | "Dm" d2 dd "Em" e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
+W: Above B-section chords from Seth Berry;  Fiddler's Fake Book has others
+%|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | (ed)cd e2 ee |
+%   "Am" A2 AA c2 cc | "Dm" d2 dd e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
+
+% Ellen provided a version in which it's a "straight through" tune,  no repeats
+X:42
+T:Fairy Dance
+M:2/4
+K:D
+L:1/16
+Q:1/8=120
+"D" f2(fd) f2(fd) | f2(fd) "A" (cd)ef | "D" f2(fd) "G" (gf)ed | "A" cABc "D" dcde |
+"D" f2(fd) f2(fd) | f2(fd) "A" (cd)ef | "D" f2(fd) "G" (gf)ed | "A" cABc "D" defg ||
+"D" a2(af) "G (B7)" b2(ba) | "G (Em)" g2(ge) "A" a2(ag) | "D" f2(fd) "G" (gf)ed | "A" cABc "D" defg |
+"D" a2(af) "G (B7)" b2(ba) | "G (Em)" g2(ge) "A" a2(ag) | "D" f2(fd) "G" (gf)ed | "A" cABc "D" [d2D2] |]
+
+X:45
+T:Farewell to Whiskey
+M:4/4
+L:1/8
+K:G
+Q:1/4=120
+"G" D2 G2 B2 AB | "Am" A2 E2 E4 | "G" D2 G2 B2 AG | "Em" d2 B2 (B3 d) |
+"C" efge "G" d2 B2 | "Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G3 E :|2 "G" B2 G2 G2 (Bc) ||
+|: "G" d2 B2 g2 B2 | "Am" cBAG "D" A2 (Bc) | "G" d2 B2 g2 d2 | "C" e2 f2 "G" g2 d2 | "C" efge "G" d2 B2 |
+"Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G2 (Bc) :|2 "G" B2 G2 G2 ||
+
+% Ellen added slurs & changed a few notes here.
+X:41
+T:Flowers of Edinburgh
+C:Scottish
+M:4/4
+K:G
+L: 1/8
+(uGE) |: "G" D2 DE G2 GA | BGB(d "C" cB)AG | "D" FGF(E DE)FG | AFBF "C" E2 (GE) |
+"G" D2 DE G2 GA | BABd "C" e(fge) | "D" dcBA "G" GFGA |1 "G" B2 (GF) G2 (GE) :|2 "G" B2 (GF) G2 (Bd) ||
+|: "G" g2 (gf) gbag | "D" f2 (fe) fagf | "C" ede(f gf)ed | "Em" B2 e2 e2 (ge) |
+"G" dBGB d2 (Bd) | "C" edef "A7" g2 (fe) | "D" dcBA "G" GFGA |1 "G" B2 (GF) G2 (Bd) :|2 "G" B2 G2 G2 z2 |]
+W: Ellen added slurs & changed a few notes here.
+
+X: 54
+T: Galway Belle
+M: C
+L: 1/4
+R: Irish polka
+% K: G
+K: G
+|: "Em" E > F G A | B e B2 | "D" A F D F | E F D F |
+"Em" E > F G A | B e B2 | "D" A F D F | "Em" E2 E2 :|
+|: "Em" e e B2 | e e B2 | "D" A F D F | E F D F |
+|1 "Em" e e B2 | e e B2 | "D" A F D F | "Em" E2 E2 :|
+|2 "Em" E > F G A | B e B2 | "D" A F D F | "Em" E2 E2 |]
+
+X:55
+T: Garry Owen
+M: 6/8
+L: 1/8
+R: jig
+K: Dmaj
+dc |: "D" BAG FED |FGF Fdc |BAG FED |"A" EFE Edc |
+"D" BAG FED |FGF F2 G |ABc dAF |1 "G" EFE E dc :|2 "G" EFE EFG ||
+|: "D" A2 F A2 F |A2 F A(udc) | "G" B2 G B2 G |B2 G B2 c |
+"D" d2 e f2 e |dcB AFG |ABc dAF |1 "A" EFE EFG :|2 "A" EFE "D" D3 |]
+
+X: 49
+T: Gasp\'e Reel
+M: 4/4
+K: D
+L: 1/8
+|: "D" f2 (ef) "A" e2 d2 | AAFA "G" B2 "D" A2 | "G" g2 (fg) "D" f2 e2 | "G" BABc B2 "D" A2 | "D" f2 (ef) "A" e2 "D" d2
+"A" AAFA "G" B2 "A" A2 | "G" g2 (fg) "D" feed | "G" B2 "A" c2 "D" d2 z2 :|: "A" e2 f2 "A7" g2 fe | "D" f2 g2 a4 |
+"A" e2 f2 "A7" g2 (fe) | "G" BABc "G" B2 "D" A2 | "A" e2 f2 "A7" g2 fe | "D" f2 g2 a4 |
+|1 "A" e2 f2 g2 fe | "G" B2 "A" c2 "D" d4 :|2 "G" b2 a2 gfed | "Aw/B" B2 c2 "D" d4 |]
+W: Nice w/harmonica (start on high F#).  Somewhat tricky.
+
+X:68
+T: The Girl I Left Behind Me
+C: Traditional
+K: G
+M: C|
+L: 1/8
+vguf |: "G" ve2 d2 B2 G2 | "C" ABAG E2 D2 |
+"G" vG2  (uGF) vGABc | d4 B2 vgf | e2 d2 B2 G2 | "C" ABAG E2 G2 |
+"D" F2 A2 D2 (EF) |1 "G" G4 G2 gf :|2 "G" G4 G2 GA |: B2 d2 e2 f2 |
+g2 d2 B2 G2 | Bc d2 (e2 f2) | g4 "D" f2 gf | "G" ve2 d2 B2 G2 |
+"C" ABAG E2 G2 | "D" F2 A2 D2 (EF) |1 "G" G4 G2 GA :|2 "G" G4 uG2 |]
+
+X:61
+T: Hapavaasti
+M:3/4
+L:1/8
+K:G
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI channel 1
+%%MIDI program 40
+(D FD) |: "G" (FG) (GD) FD | "Em" (FG) (GD) FG | "Am" A2 (Ac) BG | "D" (AD) (DE) (EF) |
+"G" (FG) (GD) (FD) | "Em" (FG) (GD) (FG) | "Am" A2 (AB) "D" AF |1 "G" G3 (D FD) :|2 "G" G3 (A Bc) |
+|: "G/B" d2 (dc) BG | "C" c3 (B2 c) | "Am" A3 (c Bc) | "D" AD D(A Bc) | "Bm" d2 (dc) BG |
+"C" c3 (B2 c) | "Am" A3 (B "D" AF) |1 "G" G3 (A Bc) :|2 "G" G3 (D FD) |]
+V: 2 name="Vln II" snm="" clef=treble
+%%MIDI channel 2
+%%MIDI program 40
+FA F |: (AB) BF AF | (AB) BF AB | c2 ce dB | cF (FG) (GA) |
+(AB) BF AF | (AB) BF AB | c2 cd cA |1 B3 F AF :|2 B3 c de |
+|: g2 ge dB | e3 d2 e | c3 e de | cF Fc de | f2 fe dB |
+e3 d2 e | c3 d cB |1 B3 c de :|2 B3 F AF |]
+
+X:69
+T:John Ryan's Polka
+C:Irish
+M:4/4
+% K: D
+K: D
+L:1/8
+"D" d2 d2 "G" BcdB | "D" A2 F2 A2 F2 | d2 d2 "G" BcdB | "D" A2 F2 "A" E2 D2 |
+"D" d2 d2 "G" BcdB | "D "A2 F2 A2 (de) | f2 d2 "A" e2 c2 |1 "D" d4 (d3 A) :|2 "D" d2 (ud3 e) ||
+"D" f2 d2 d2 (ef) | "G" g2 f2 "A" e2 (de) | "D" f2 d2 A2 d2 | fefg "A" a2 ({b/2}ag) |
+"D" f2 d2 d2 (ef) | "G" g2 {f/2g/2}f2 "A" e2 (de) | "D" f2 d2 "A" e2 c2 |1 "D" d4 (d3 e) :|2 "D" d4 |]
+
+X:73
+T:Joys of Quebec
+C:French Canadian
+M:4/4
+% K:A clef=alto
+K:A
+L:1/8
+ee |: "A" (ec)cc c2 ee | (ec)cc c2 ee | "D" f2 e2 d2 c2 | "E" (dB)BB B2 dd |
+(dB)BB B2 dd | (dB)BB B2 ee |1 g2 f2 e2 d2 | "A" (ec)cc c2 ee :|2 "E" g2 e2 "D" f2 g2 | "A" a4 vABcd :|
+e4 "D" f4 | "A" e2 !+!e2 !+!e2 vAB | c4 "D*" d4 | "A" c2 !+!e2 !+!e2 vcc | "E" B2 A2 G2 A2 |
+B6 ee |1 g2 f2 e2 d2 | "A" c4 vABcd :|2 "E" g2 e2 "D" f2 g2 | "A" [a2A2] aa a2 z2 :|
+W: D* chord could be an E7.  Ending is wrong;  needs 1st & 2nd endings.
+
+X:11
+T: The Kesh Jig
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+Q:1/4=140
+|: "G" G3 (GAB) | "D" ABA ABd | "G" edd gdd | "C" edB "D" dBA|
+   "G" (GFG) GAB | "D" ABA ABd | "G" edd gdB |1 "D" AGF "G" uG2 uD :|2 "D" AGF "G" uG2 uA |
+|: "G" B3 (dBd) | "C" ege "G" dBA | BAB dBG | "D" ABA AGA |
+   "G" BAB dBd | "C" ege "G" dBd | gfg "D" a(ga) |1 "G" bgf ug2 ud :|2 "G" bgf g3 |]
+
+% Ellen made several changes here:  slurs added,  notes changed.
+X:81
+T:Liberty
+C:New England
+M:C
+K:D
+L:1/8
+Q:1/4=140
+"D" f2 A2 f2 A2 | fgfe d2 (ef) | "G" g2 B2 g2 B2 | gagf e2 (ge) |
+"D" f2 A2 f2 A2 | fgfe d2 (ef) | "G" gfed "A" cABc | "D" d2 f2 d4 :|
+"D" A2 (AB) AGFE | DFAd f2 d2 | A2 AB AG F2 | "A" G E2 F E2 (FG) |
+"D" A2 (AB) AGFE | DFAd f2 (ef) | "G" gfed "A" cABc | "D" d2 f2 d4 :|
+
+X:83
+T:Mason's Apron
+C:Traditional
+L:1/8
+M:C
+Q:1/4=120
+K:A
+((3uefg) |: "A" vaA (3AAA (AB)AF | "(E)" EFA(B "A" cA)Bc | "D" dB (3BBB (Bc)BA | "E" ^GAB(c "E7" de)fg |
+"A" aA (3AAA (AB)AF | "(E)" EFA(B "A" cA)Bc | "Bm" dcde "D" f(gaf) |1 "E" edcB "A" A2 (3efg :|
+|2 "E" edcB  "A" A2 (uAB) ||: "A" c2 [ec]c [fc]c[ec]c | (3ccc (u[ec]c) [fc]c[ec](uc | "D" d2) [fd]d [^gd]d[fd]d | (3ddd ([fd]d) "E" ^gfed( |
+"A" c2) [ec]c  [fc]c[ec]c | (3ccc ([ec]c) [fc]c[ec]c | "Bm" dcde "D" f(gaf) |1 "E" edcB "A" A2 (uAB) :|2 "E" edcB "A" A2 |]
+
+
+X:130
+T: Da Mirrie Boys o Greenland
+C: 'Original' version w/Kate's chords
+M:4/4
+K:D
+L:1/8
+|: "D" ABde fd f2 | "A" ue<e u(ce) Aece | "D" ABde fd f2 | "A7" (uge)ce "D" d2 d2 :|
+|: "D" vfg vf(e fg)af | "A7" gf ec efge | "D" fg f<(ue fg)af | "A7" gece "D" d2 d2 :|
+W: Melody from music provided by S Ciembroniewicz & D Jones;
+W: chords by Kate.  Here's the original, with slurs & some <>s...
+W: (Note: for Ellen's version for 2016 contra dance,  I've "simplified"
+W: things slightly.  But not as much as the "simple" version found elsewhere.)
+
+X:12
+T:The Moon and Seven Stars
+M:6/8
+K:D
+L:1/8
+(A | "D" vd)AA AGF | "G" GAB "D" A2 (vA | "G" B)cd efg | "A" fed cBA |
+"D" (vd2 A) AGF | "G" GAB "D" A2 (vA | "G" B)cd efg | "A" Adc "D" d2 :|
+(vd | "A" e)AA ABA | efg "D" f2 (vf | "A" e)fg "D" fed | "E" cdB "A" A2 (vA |
+"G" B)GB "D" A2 (vA | "G" B)GB "D" A2 (vA | "G" B)cd efg | "A" Adc ud2 :|
+
+X:97
+T:Planxty Fanny Power
+C:O'Carolan
+M:3/4
+K:G
+L:1/8
+"G" G4 D2 | G4 (AB) | "Am" c4 B2 | A4 G2 |
+"D7" F4 E2 | D4 (ED) | F4 G2 | A4 c2 |
+"G" B4 AG | B2 c2 d2 | "C" e4 A2 | "Am" A4 G2 |
+"D7" F4 (ED) | D G3 F2 | "G" G6 | G4 D2 :|
+"G" d2 Bc d2 | "GM7" d2 Bc d2 | "G6" G4 G2 | "G" G4 G2 |
+"C" e2 cd e2 | "CM7" e2 cd e2 | "Am" A4 c2 | "D" A4 dc |
+"G" B3 c d2 | "C" e3 f g2 | "D" f3 g a2 | (ud4 .c2) |
+"G" B3 A G2 | "D7" A c3 F2 | "G" G6 | G6 :|
+
+X: 98
+T: Rakes of Mallow
+M: 4/4
+K: G
+% K: G
+L: 1/4
+"G" G B G B | G B c/B/ A/G/ | "D" F A F A | F A d/c/ B/A/ |
+"G" G B G B | G B d3/2 uB/ | "C" c/B/ A/G/ "D" F/G/ A/c/ | "G" B G G2 :|
+|: g f/e/ d c | B c d2 | g f/e/ d c | B d "D" A2 |
+"G" g f/e/ d c | (B c) d3/2 uB/ | "C" c/B/ A/G/ "D" F/G/ A/c/ |1 "G" B G G2 :|2 "G" B d g2 :|
+W: For contra dance,  just use first ending
+
+% From _The American Fiddle Method Book_
+X: 43
+T: Redwing
+M: 4/4
+L:1/4
+K: G
+uD |: "G" vG > G G B | d3 B | "C" c e g e | "G" d3 B |
+"D7" c B A c | "G" B A G B |1 "A7" A E F G | "D7" A F E D :|2
+"A7" A E "D7" F D | "G" G g g f |: "C" ve2 c2 | e g f e |
+"G" d2 B2 | z d/d/ e d | "D7" d2 A2 |1 z d/d/ e d |
+ "G" d2 B2 | z ug vg uf :|2 z c B A | "G" G4 | z2 z |]
+
+% From Fiddler's Philharmonic; many alterations by Kate
+% Subsequently altered 2016 Feb 14 to match contra dance plans:
+%   dotted half notes turned into half note plus quarter note
+X: 47
+T: Road to Boston
+M:4/4
+L:1/4
+K: G
+% K: G
+|: uA | "G" vB2 B (A/B/) | "C" c B A G | "D" F G A B | "G" G D B, D |
+        "G"  B2 B (A/B/) | "C" c B A G | "D" F G A B | "G" G2 uG :|
+|: (uB/c/) | "G" vd d (^c/d/) | "C" e d =c B | "Am" c2 c (B/c/) | "D" d c B A |
+         "G" B2 B (A/B/) | "C" c B A G | "D" F G A B | "G" G2 uG :|
+
+% Mostly Bill's chords.  Some alterations by Ellen.
+X: 53
+T: Skye Boat Song
+M: 3/4
+L: 1/4
+R: waltz
+K: G
+C: Sir Harold Boulton
+"G"D>E D | G2 G/G/ | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "D7" (D3 | D3) |
+w: Speed, bon-nie boat, like a bird on the wing, On-ward, the sail-ors cry -
+"G"D>E D | G2 G/G/ | "D"A>B A | d3 | "Em" B>A B | "C"E2 E | "D" (D3 | D3) |
+w: Car-ry the lad that was born to be King, O-ver the sea to Skye; -
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" G2 G | "Em" (E3 | E3) |
+w: Loud the winds howl, loud the waves roar, thun-der-clouds rend the air; -
+   "Em" B>G B| B3 | "Am" A>E A | A3 | "Em" G>E G | "C" (u.G2 u.G) | "Em"E3 | "D" D3 |
+w: Baff-led our foes stand on the shore, fol-low they will not dare -
+W:Though the waves leap, soft shall ye sleep
+W:Ocean's a royal bed
+W:Rocked in the deep, Flora will keep
+W:Watch by your weary head
+W:
+W:Many's the lad fought on that day
+W:Well the claymore could wield
+W:When the night came, silently lay
+W:Dead on Culloden's field
+W:
+W:Burned are our homes, exile and death
+W:Scatter the loyal men
+W:Yet, e'er the sword cool in the sheath,
+W:Charlie will come again.
+W:   (NOTE: Ellen's chords)
+
+X:107
+T:Smash The Windows
+M:6/8
+L:1/8
+R:jig
+K:Dmaj
+|: "D" D(ED) F2A | d2f "A" e(cA) | "G" G2B "D" F2A | "A" E2F "A7" G(FE) |
+"D" D(ED) F2A | d2f "A" e(cA) | "G" Bgf "A" edc |1 "D" d3 d3 :|2 "D" d3 ud2 uf |
+|: "D" a2f d2e | f2g a(gf) | "A" g2e c2d | e2f g(fe) |
+|1 "D" a2f d2e | f2g a(gf) | "A" g2e c(de) | "D" d3 ud2 uf :|
+:|2 "D" fed "A" gfe | "D" age "G" bag | "D" fed "A" cde | "D" d3 d3 |]
+
+% Copied directly from eastneuk.abc.  Except Ellen added a slur on last line,
+% and it's now marked "Shetland".
+X: 59
+T: Spootiskerry
+C: Shetland
+M:C|
+K:G
+L:1/8
+uDE | "G" vG2 (DE) GDEG | DEGA "D6" B2 (AB) | "G" G2 (DE) "Em" GABd | "Am7" eged "D6" Bd AB |
+"G" G2 (DE) GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 :|
+ef | "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 ef |
+"Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G/D" GABd "D" eged | "G" B2 "C" G2 "G" G2 ef ||
+     "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 DE |
+"G" G2 (DE) GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 |]
+
+X: 34
+T: Stool of Repentance
+M: 6/8
+K: A
+L: 1/8
+Q: 1/4=130
+|: "A" a2 e c2 e | agf ece | aff "D" (f2 e) | fga (f2 e) |
+"A" a2 e c2 e | agf ece | "D" def "A" efg | aec "E" (B2 A) :|
+|: "A" cAA eAA | cAA edc | "D" dBB fBB | dBB fed |
+"A" cAA eAA | cAA edc | "D" def "A" efg | aec "E" (B2 A) :|
+W: End with an A chord.
+
+X:37
+T:Swallow Tail Jig
+M:6/8
+K:E Dorian
+L:1/8
+Q:1/4=88
+F2 |: "Em" vGEE BEE | GEE BAG | "D" FDD ADD |
+dcd AGF | "Em" GEE BEE | GEE (B2 c) | "D" dcd AGF |
+"Em" GEE uE2 :||: uB | "Em" Bcd (e2 f) | (e2 f) edB | Bcd (e2 f) |
+edB "D" (d2 B) | "Em" Bcd (e2 f) | (e2 f) edB | "D" dcd AGF | GEE E2 :|
+W: Note timing weirdness at repeat.  Will have to figure this out.
+
+% White Cockade & Soldier's Joy are from "Mellie" Dunham's Fiddlin' (sic) Dance Tunes
+% chords from Fiddler's Fake Book.  Ellen added a slur and changed one note.
+
+X: 67
+T: White Cockade
+K: G
+M: 2/4
+L: 1/16
+Q: 1/8=120
+|: (uGA) | "G" vB2B2 B2(AB) | d2B2 B2g2 | .d2(Bd) cBAG | "D" FGAB A2(GA) | "G" B2B2 B2(AG) |
+B2d2 g3a | .b.a.g.f "C" .e.g.f.e | "G" d2B2B2 :][: uBc | vd2B2 g2B2 | d2B2 B2(Bc) |
+d2B2 g2(fg) | "D" a2A2 A2(GA) | "G" B2B2 B2(AG) | B2d2 g3a | bagf "C" egfe | "G" dBB H :|
+
+X: 99
+T: Mari's Wedding
+M: 4/4
+L: 1/4
+C: Book 1B Tunes/Scottish
+K: A
+Q: 1/4=136
+|: "A" vE>(uF E) F | A B c2 | "Bm" B A F A | "A" c B c<e |
+"A" vE>(uF E) F | A B c2 | "Bm" B A F D | "E" E2 E2 :|
+|: "A" ve>(uf e) d | c B c2 | "Bm" B A F A | "A" c B c<e |
+"A" ve>(uf e) d | c B c2 | "Bm" B A F D | "E" E2 E2 :|
+
+%  Note:  this was an A  ^,  not a B,  in the scanned version
+
+X: 100
+T: Peg O'Brian
+C: Irish Polka
+L: 1/4
+M: C|
+K: D
+Q: 1/4=116
+|: "D" f A B A | f A B A | vd2 ue>uf | e d B A |
+f A B A | f A B A | d2 ue>uf | "A" (e d) "D" d2 :|
+|: "D" f a f e | e d B A | d2 ue>uf | e d B A |
+f a f e | e d A B | d2 ue>uf | "A" (e d) "D" d2 :|
+
+%% transpose -7
+X:102
+T: Reel de Joie
+C: Dewey Balfa, arr. Pam Weeks
+L: 1/8
+M: C|
+K: D
+Q: 1/4=140
+A2 d2 e2 |: "D" vf2 (fg) fedc | "Bm" B2 (Bc) BAde | "D" f2 (fg) fedc | "Bm" B3 ((B B)A)df |
+"D" f2 (fg) fedc | "Bm" (BA)(Bc) BAFG | "A" (AB)AG (FD)EF |1 "D" D2 (AB) cde=f :|2 "D" D3 ((D D)E)FA ||
+|: "Bm" vB2 (Bc) BABc | B2 (Bc) BAFA | B2 (Bc) BABc | B2 (Bc) BAFA | "G" B2 (Bc) BABc |
+B2 (Bc) BAFG | "A" (AB)AG (FD)EF |1 "D" D3 ((D D)E)FA :|2 "D" D z uA2 d2 e2 |]
+W: Revised considerably by Kate: C section removed,  transposed down a fifth from D
+W: Good w/harmonica.  Goes well with Valse de Kennebec (played at UUCB).
+
+%% transpose 0
+X: 104
+T: Life Is the Greatest Gift of All
+L: 1/4
+M: 3/2
+K: C treble % abcm2ps: must be forced because too low in places
+Q: 1/2=96
+"C" C2 | "C" [EC2] G [c2E2] "C" [G2C2] | "F" [AC2] c [G2C2] "F" [F2A,2] | "C" [EG,2] C [C2F,2] "G" [B,2G,2] |
+w: Life is the great-est gift of all the rich-es on this
+"C" [C4G,4] "C" C2 | "C" [EC2] G  [c2C2] "C" [G2C2] | "F" [AC2] c [G2C2] "F" [F2C2] |
+w: earth; life and its crea-tures, great and small, of
+"C" [EC] [CA,] [C2G,2] "G" [B,2G,2] | "C" [C4G,4] "G" [D2B,2] | "C" [EC2] C [C2G,2] "G" [D2^G,2] |
+w: high and low-ly birth; so trea-sure it and
+"Am" [EA,2] C [C2=G,2] "G" [D2A,2] | "C" [EG,] [GC] [c2F2] "F" [c2F2] | "C" [c4E4] |]
+w: mea-sure it with deeds of shin-ing worth.
+
+%% transpose -2
+X: 105
+T: The Headlands
+C: Ronnie Cooper
+M: 2/4
+L: 1/16
+K: A
+Q: 1/8=120
+|: "A" ue>uc | "D" (d>c)"E" (B>A) "A" (A<c)(e>c) | "D" d>(cd<f) "A" e2((3efg) |
+"A" a>(ef<a) "F#m" (f>e)(d>c) | "A" c>(BA<c) "E7" B2(e>c) | "D" (d>c)"E"(B>A) "A" (A<c)(e>c) |
+"D" d>(cd<f) "D" a2(g>f) | "A" (e<a)(A>c) "Bm" (B<d)"E7"(e>d) | "A" c2"D"A2 "A" A2 :|
+|: ((3efg) | "A" a>(ef<a) (c<e)(c>A) | "D" d>(Ad>f) "E" e2((3efg) |
+"A" a>(ef<a) "D" (f>e)(d>c) | "A" c>(BA<c) "E" B2((3efg) | "A" a>(ef<a) (c<e)(c>A) |
+"D" d>(Ad<f) "D#dim7" a2(g>f) | "A" (e<a)"F#m"(A>c) "Bm" (B>f)"E7"(e>d) | "A" c2"D"A2 "A" A2 :|
+
+%% transpose 0
+X: 106
+T: The Bottom of the Punchbowl
+C: From Portland Collection
+M: C|
+L: 1/8
+K: D
+FE | "D" D2 A2 d3 c | d2 A2 FGAF | "Em" E2 e2 efgf | "A" edcB AGFE |
+"D" D2 A2 d3 e | fedc d2 A2 | "G" BcdB "A" ABAG | "D" F2 D2 D2 :|
+|: de | "D" fedB ABde | fedc d2 A2 | "Em" B2 e2 e2 de | "A" f2 e2 e2 de |
+"D" fedB ABde | faef d2 A2 | "G" BcdB "A" ABAG | "D" F2 D2 D2 :|
+
+%% transpose 0
+X: 108
+T: Nixon's Farewell
+C: From Portland Collection
+M: C|
+L: 1/8
+K: D
+"D" F(A A2) A3 A | "G" BABc d2 e2 | "D" fdfd g2 f2 | "A" e6 (3ABc  |
+"D" d2 A2 F2 A2 | "G" BABc d2 g2 | "D" fedf "A" e2 c2 |1 "D" d4 d4 :|2 "D" d6 |
+|: e2 | "D" fdfd "G" gdgd | "D" fgfe d2 e2 | fdfd "G" gdfd | "A" e6 e2 |
+"D" fdfd "G" gdgd | "D" fgfe d2 a2 | fedf "A" e2 c2 |1 "D" d6 :|2 "D" d4 d4 |]
+
+X: 110
+T: Roundy's Contra Dance I-1
+C: A. F. Roundy
+M: 6/8
+L: 1/8
+K: G
+|: "G" v.g z z vg2 f | "C" efg "G" d2 z | "C" efg efg | "A7" aeg "D7" fed |
+"G" v.g z z v.g2 f | "C" efg "G" d2 z | "A7" efg "D7" aba | "G" g2 z g3 :|
+|: "Em" (e2 f) (g2 a) | .bz(B, !>!C2 .B,) | (e2 f) (g2 a) | "B7" bc'b a!2!gf | "Em" (e2 f) (g2 a) |
+"Em" .bz(B, !>!C2 .B,) | "B7" bc'b a!2!gf |1 "Em" e2 z e3 :|2 "Em" e2 z !>!f3 |]
+
+X: 111
+T: Cock O' The North
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Q: 1/4=180
+R: slide
+M: 6/8
+|: "D" F2 F FED | F2 A "G?" B2 A | "D" F2 F FED | "A" E2 E EDE |
+"D" F2 F FED | F2 A "G?" B2 A | "D" F2 F "A" EFE | "D" DFE D3 :|
+|: "D" d2 A "G?" B2 A | "D" d2 A "G?" B2 A | "D" F2 F FED | "A" E2 E EFA |
+"D" d2 A "G?" B2 A | "D" d2 A "G?" B2 A | "D" F2 F "A" EFE | "D" DFE D3 :|
+
+X: 112
+T: Mairi's Wedding
+N: AKA the Lewis Bridal Song
+C: Trad. Scotland (1908)
+R: march
+B: NEFR #54
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+M: C|
+Q: 1/4=180
+L: 1/8
+K: G
+|:"G"D3E D2E2 | G2A2 B4 | "C"A2G2 E2G2 | "D7"B2A2 Bd3 |
+ "G"D3E D2E2 | G2A2 B3c/B/ | "C"A2G2 E2C2 | "D7"D4 D4 :|
+|:"G"d4 d3e | d2c2 B4 | "C"A2G2 E2G2 | "D"B2A2 Bd3 |
+ "G"d3B d3e | d2c2 B3c/B/ | "C"A2G2 E2C2 | "D" D4 D4 :|
+
+%% transpose 5
+X: 113
+T: A Red, Red Rose
+C: W : Robert Burns
+M: 4/4
+L: 1/8
+K: D
+uA |: "D" vD<uD "A" (vE>F) "Bm" (ud>c) ({B/c/}"G"vB)uA | "Em" (vB>A "G" B)ud "Em" (ve>d) "A7" (ue<f) |
+"D" vD<uD "A" (vE>F) "Bm" (ud>c) "G" vBA | "Em" ({B/c/})(vB>A "A7" B)uc "D" vd2 (udA) :|
+|: "D" (vd<f) ({e/f/})"A7"(ue>d) "G" (vB<d) "D" (uA>F) | vA<uA "G" (vg>f) "Em" ue2 ({e/}"A7"va)>g |
+ "D" (vf<a) "F#m" (uf>d) "G" (vB<d) "D" (uA>F) | vA<uA ({B/c/})"A7"(vB>c) "D" ud2 "D" !fermata!vduA :|
+W: From p. 40, _Fiddlers Philharmonic Encore!_
+
+%% transpose 0

@@ -1,0 +1,70 @@
+X:1
+T: Kookaburra
+C: Australian Folk Song
+M: 4/4
+K: A clef=alto middle=c
+L: 1/8
+|: vee ee f2 ff | e2 c2 (e2 c2) |
+w: Kook-a-bur-ra sits in the old gum tree -
+"*"cc cc d2 dd | c2 A2 (c2 A2) |
+w: Mer-ry mer-ry queen of the bush is she -
+a4 fg af | e4 ef ed |
+w: Laugh, Kook-a-bur-ra, laugh, Kook-a-bur-ra,
+.c2 .A2 .A2 .A2 | A6 z2 :|
+w: Gay your life must be!
+
+X: 2
+T: Bile (sic) Them Cabbage Down
+M: 2/4
+K: A clef=alto
+L: 1/16
+|: "A" c2cc c2cc | "D" d2dd d2dd | "A" c2cc c2cc | "E7" B2BB B2BB |
+   "A" c2cc c2cc | "D" d2dd d2dd | "A" c2cc "E7" B2BB | "A" A2AA A4 :|
+|: "A" E2EE E2EE | "D" F2FF F2FF | "A" E2EE E2EE | "E7" B,2B,B, B,2B,B, |
+   "A" E2EE E2EE | "D" F2FF F2FF | "A" c2cc "E7" B2BB | "A" A2AA A4 :|
+
+%% From Mel Bay's _Xmas solos (sic) for beginning viola",  p 15
+X: 3
+T: Deck the Halls
+M: 4/4
+C: English Carol
+K: G clef=alto middle=c
+L: 1/4
+V: 1 name="Melody" snm="" clef=alto middle=c
+%%MIDI channel 1
+%%MIDI program 40
+|: !f!vd>c B A | G A B G | (A/B/) c/A/ B>A | G F G2 | vd>c B A |
+G A B G | (A/B/) c/A/ B>A | G F G2 | !mf!A>B c A | B>c d A |
+(B/^c/) d e/f/ g | f e d2 | !ff!vd>c B A | G A B G |
+e/e/ e/e/ d>c | B A G2 :| ve/e/ e/e/ d>c | B A G2 |]
+V: 2 name="Viola" snm="" clef=alto middle=c
+%%MIDI channel 1
+%%MIDI program 40
+L: 1/4
+|: !f!vB>d d d | B d d B | d d d>c | B A d2 | vB>d d d |
+b d d b | d d d>c | b a d2 | !mf!vd>d d d | d>f g d |
+g f B/d/ e | d ^c d2 | !ff!vB>d d d | B d d g |
+g/g/ g/g/ g>e | d d d2 :| vc/c/ c/c/ B>a | g f d2 |]
+
+X: 4
+T: God Rest Ye Merry
+M: 4/4
+C: Edw. Huws-Jones
+L: 1/4
+K: G
+V: 1 name="Vla I" snm="" clef=alto middle=c
+%%MIDI channel 1
+%%MIDI program 40
+|: !f!ue | e b b a | g f e d | e f g a |
+b3 !mf!e | d b b a | g f e d | e f g a |
+b3 b | c' a b c' | d' e' b a | g e f g |
+a2 g a | b2 c b | (b a) g f | e2 g/f/ e |
+a2 g a | b c' d' e' | b a g f | e3 :|
+V: 2 name="Vla II" snm="" clef=alto middle=c
+%%MIDI channel 2
+%%MIDI program 40
+|:   ue | e2 g f | e2 g f | e2 e d |
+G3 ue | e2 g f | e2 g f | e2 e d |
+G3 ug | A c B A | G2 g a | (b g) f e |
+d2 e d | G2 A G | (G A) B d | e2 e/e/ e |
+d2 e d | G2 B c | (G A) B d | e3 :|

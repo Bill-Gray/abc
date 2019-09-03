@@ -1,0 +1,317 @@
+X:1
+T:Zwiefache
+M:3/4
+K:Eb
+L:1/8
+|: E2 EFGA | B4 B2 | \
+M:2/4
+L:1/8
+cc B2 | cc B2 | \
+M:3/4
+L:1/8
+A3 A F2 | G4 E2 |
+M:2/4
+L:1/8
+FF E2 | FF E2 :: \
+M:3/4
+L:1/8
+B3 A F2 | G4 B2 | \
+M:2/4
+L:1/8
+ce B2 | ce B2 |
+M:3/4
+L:1/8
+B3 A F2 | G4 E2 | \
+M:2/4
+L:1/8
+FF E2 |1 FF E2 :|2 Bd e2 ||
+K:Ab
+M:3/4
+L:1/8
+|: A2 ABcd | e4 e2 | \
+M:2/4
+L:1/8
+ff e2 | ff e2 | \
+M:3/4
+L:1/8
+d3 d B2 | c4 A2 |
+M:2/4
+L:1/8
+BB A2 | BB A2 :: \
+M:3/4
+L:1/8
+e3 d B2 | c4 E2 | \
+M:2/4
+L:1/8
+FA E2 | FA E2 |
+M:3/4
+L:1/8
+e3 d B2 | c4 A2 | \
+M:2/4
+L:1/8
+BB A2 | BB A2 :|
+
+X:2
+T:Saulocker
+M:3/4
+K:Bb
+L:1/8
+F2 |: \
+M:2/4
+L:1/8
+BFFF | FFFF | \
+M:3/4
+L:1/8
+F2 (ED)EF | G2 F=E F2 | \
+M:2/4
+L:1/8
+BFFF | FFFF |
+M:3/4
+L:1/8
+F2 (FG)FE |1 D2 z2 F2 :|2 D2 z2 B,D |: \
+M:2/4
+L:1/8
+(DC) C2 | (ED) D2 | \
+M:3/4
+L:1/8
+F2 (ED)EF | (G2 F2) F2 |
+M:2/4
+L:1/8
+BFFF | FFFF |1 \
+M:3/4
+L:1/8
+F2 (FG)FE | D2 z B,D :|2 \
+M:3/4
+L:1/8
+(GF)=EFGA | B2 z2 B2 |
+K:Eb
+M:2/4
+L:1/8
+eBBB | BBBB | \
+M:3/4
+L:1/8
+B2 (AG)AB | c2 B=A B2 | \
+M:2/4
+L:1/8
+eBBB | BBBB |
+M:3/4
+L:1/8
+B2 (Bc)BA |1 G2 z2 B2 :|2 G2 z2 EG |: \
+M:2/4
+L:1/8
+(GF) F2 | (AG) G2 | \
+M:3/4
+L:1/8
+B2 (AG) AB | (c2 B2) B2 |
+M:2/4
+L:1/8
+eBBB | BBBB |1 \
+M:3/4
+L:1/8
+B2 (Ac)BA | G2 z2 EG :|2 \
+M:3/4
+L:1/8
+(cB)=ABcd | e2 z2 |]
+
+X:3
+T:Seidas Fuata
+K:Eb
+M:3/4
+L:1/8
+B,D |: \
+M:2/4
+L:1/8
+E2 G>A | \
+M:3/4
+L:1/8
+(G2 F2) F2 | E2 EDEF | \
+M:2/4
+L:1/8
+G2 B>c | \
+M:3/4
+L:1/8
+(B2 A2) A2 |1 G2 z2 B,D :|2
+G2 z2 BA |: G2 B2 G2 | A2 (cB) (AG) | F2 A2 F2 | G2 (BA) (GF) | \
+M:2/4
+L:1/8
+E2 G>A |
+M:3/4
+L:1/8
+(G2 F2) F2 | E2 EDEF | \
+M:2/4
+L:1/8
+G2 B>c |1 \
+M:3/4
+L:1/8
+(B2 A2) A2 | G2 z2 BA :|2 \
+M:3/4
+L:1/8
+(B2 c2) d2 | e2 z2 EG ||
+K:Ab
+M:2/4
+L:1/8
+A2 c>d | \
+M:3/4
+L:1/8
+(c2 B2) B2 | A2 (AG)AB | \
+M:2/4
+L:1/8
+c2 e>f | \
+M:3/4
+L:1/8
+(e2 d2) d2 |1 c2 z2 EG :|2
+c2 z2 ed |: c2 e2 c2 | d2 fe dc | B2 d2 B2 | c2 (ed) cB | \
+M:2/4
+L:1/8
+A2 c>d |
+M:3/4
+L:1/8
+(c2 B2) B2 | A2 (AG)AB | \
+M:2/4
+L:1/8
+c2 e>f |1 \
+M:3/4
+L:1/8
+(e2 d2) d2 | c2 z2 ed :|2 (e2 d2) d2 | c2 z2 z2 |]
+
+X:4
+T:Haberv”gl
+K:F
+M:3/4
+L:1/8
+C |: A2 AAAA | A2 G2 F2 | \
+M:2/4
+L:1/8
+(FD) D2 | (FD) D2 | \
+M:3/4
+L:1/8
+G2 GGGG | G2 F2 D2 | \
+M:2/4
+L:1/8
+(D C) C2 | (D C) C2 |
+M:3/4
+L:1/8
+F2 FFFF | F2 E2 D2 | \
+M:2/4
+L:1/8
+EE/F/ G2 | EE/F/ G2 | \
+M:3/4
+L:1/8
+c2 cccc | c2 B2 E2 |1 F2 z2 C2 :|2 F2 z2 C2 ||
+|: D2 (C=B,CF) | \
+M:2/4
+L:1/8
+(EB) (EB) | \
+M:3/4
+L:1/8
+D2 (C=B,CE) | \
+M:2/4
+L:1/8
+(FA) (FA) | \
+M:3/4
+L:1/8
+D2 (C=B,CF) | \
+M:2/4
+L:1/8
+(EB) (EB) | \
+M:3/4
+L:1/8
+C2 (EG)BE |1 F2 z2 C2 :|2 F2 z2 F2 ||
+K:Bb
+|: d2 dddd | d2 c2 B2 | \
+M:2/4
+L:1/8
+(BG) G2 | (BG) G2 | \
+M:3/4
+L:1/8
+c2 cccc | c2 B2 G2 | \
+M:2/4
+L:1/8
+(GF) F2 | (GF) F2 |
+M:3/4
+L:1/8
+B2 BBBB | B2 A2 G2 | \
+M:2/4
+L:1/8
+AA/B/ c2 | AA/B/ c2 | \
+M:3/4
+L:1/8
+f2 ffff | f2 e2 A2 |1 B2 z2 F2 :|2 B2 z2 F2 ||
+|:G2 (F=EFB) | \
+M:2/4
+L:1/8
+(Ae) (Ae) | \
+M:3/4
+L:1/8
+G2 (F=EFA) | \
+M:2/4
+L:1/8
+(Bd) (Bd) | \
+M:3/4
+L:1/8
+G2 (F=EFB) | \
+M:2/4
+L:1/8
+(Ae) (Ae) | \
+M:3/4
+L:1/8
+F2 (Ac)eA |1 B2 z2 F2 :|2 B2 z2 |]
+
+X:5
+T:Der Finker
+K:F
+M:3/4
+L:1/8
+|: c2 cd cB | \
+M:2/4
+L:1/8
+(Ac) (FA) | \
+M:3/4
+L:1/8
+(G2 B2) E2 | (FE)FGAB | c2 cdcB | \
+M:2/4
+L:1/8
+(Ac) (FA) |
+M:3/4
+L:1/8
+G2 GFEG | F2 z2 z2 :| G3 ABc | \
+M:2/4
+L:1/8
+(BG) (BG) | \
+M:3/4
+L:1/8
+A3 Bcd | \
+M:2/4
+L:1/8
+(cA) (cA) |
+M:3/4
+L:1/8
+G3 ABc | B2 (BA) G2 | (ABc=Bcd) | c2 z2 FA ||
+K:Bb
+M:3/4
+L:1/8
+|: F2 FG FE | \
+M:2/4
+L:1/8
+(DF) (Bd) | \
+M:3/4
+L:1/8
+(ce) A2 | (BA)BGFE | F2 FGFE | \
+M:2/4
+L:1/8
+(DF) (Bd) |
+M:3/4
+L:1/8
+c2 (cB)Ac | B2 z2 z2 :| c3 def | \
+M:2/4
+L:1/8
+(ec) (ec) | \
+M:3/4
+L:1/8
+d3 efg | \
+M:2/4
+L:1/8
+(fd) (fd) |
+M:3/4
+L:1/8
+c3 def | e2 ed c2 | (def=efg) | f2 z2 B,D |]

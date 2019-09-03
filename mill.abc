@@ -1,0 +1,121 @@
+X:1
+T: The Old Mill
+M: 3/2
+K: G
+L: 1/8
+Q: 1/4=220
+|: "G" (B2 (Bc) d2 B2) (Bc d2) | "Em" (G2 (GA) B2) G2 (GA B2) | "C" (E2 EF G2) ((GF) "Am" GABc) | "D7" (A6 (G2 F4)) | "G" B2 (Bc) d2 B2 Bc d2 |
+"Em" G2 GA B2 c2 "Bm" d2 B2 |1 "C" E2 (EF) G2 A2 "Am" B2 G2 | "D7" (D4 D2) (d2 d2) d2 :|2
+"C" E3/2c/eg ^fedc "D7" BAGF | "G" (G8 G4) || "E7" e2 (B2 B2) e2 edcB | "Am" c2 (A2 A8) |
+"D7" d2 (A2 A2) d2 dcBA | "G" B2 (G2 G8) | "B7" B2 (F2 F2) B2 G2 F2 |
+"Em" G2 (E2 E2) (EF) G2 B2 | "Am" A2 A^G "Adim" A2 A2 B2 c2 | "D7" (A4 [A4D2]) F2 A2 ^A2 ||
+
+X: 2
+T: Mouth of Tobique
+M: 4/4
+K: G
+L: 1/8
+Q: 1/4=170
+|: "G" GFGA BdeB | dedB G2 FG | "D" ABAF DFAF | "G" GBAF "D" D2 DF |
+"G" GFGA BdeB | dedB G2 BG | "D" ABAF DFAd | "G" B G2 G G2 :|
+|: ef | "Em" gfga gfeg | "D" fddd fagf | "C" ecAF "D" DFAF | "G" GABc d2 ef |
+"Em" gfga gfeg | "D" fddd fagf | "C" ecAF "D" DFAd | "G" B G2 G G2 :|
+|: (3DEF | "G" GGBG GcGG | BGGc GGBG | "D" FFAF FBFF | AFFB FFAF |
+"G" GGBG GcGG | BGGc GGBG | "D" ABAF DFAd | "G" B G2 G G2 :|
+
+X: 3
+T: Dover Pier
+M: 2/4
+C: 1791
+K: Bb
+L: 1/8
+Q: 1/4=100
+|: c | "Bb" Bd DF | "Eb" E C2 G | "Cm" ce GB | "F" A F2 A | "Bb" Bd "Eb" eg | "Bb" fd cB | "F" FA ce | "Bb" d B2 :|
+|: f | "Bb" fd cd | "Eb" Bb ag | "Bb" fd cB | "F" Ac AF | "Eb" GB "Dm" dF | "Cm" EG cD | "F" CF Ac | "Bb" d B2 :|
+
+X: 4
+T: Dover Pier (in G)
+M: 2/4
+C: 1791
+K: G
+L: 1/8
+Q: 1/4=100
+|: A | "G" GB B,D | "C" C A,2 E | "Am" Ac EG | "D" F D2 F | "G" GB "C" ce | "G" dB AG | "D" DF Ac | "G" B G2 :|
+|: d | "G" dB AB | "C" Gg fe | "G" dB AG | "D" FA FD | "C" EG "Bm" BD | "Am" CE AB, | "D" A,D FA | "G" B G2 :|
+
+X: 5
+T: Daleigh
+M: C|
+C: Irish Polka
+K: G
+L: 1/4
+Q: 1/4=180
+|: "Am" e A B A | e A B A | e A B A | "G" G2 u(B d) |
+"Am" e A B A | e A B A  | "G" B e d B | "Am" A2 A2 :|
+|: "Am" e d e f | g a g g | e d e f | a2 "G" g2 |
+"Am" e d e f | g a g e | "G" d B g B | "Am" A2 A2 :|
+
+% Finnegan's Wake from Jones/Ciembroniewicz.  See 'eastneuk.abc' for Bill
+% and Kate versions.
+X: 23
+T: Finnegan's Wake (Ellen's version)
+M:C|
+K:D
+L:1/8
+|: "D" F3 F F2 E2 | F2 A2 B2 A2 | d3 d d2 A2 | B2 A2 "A" E2 |
+"D" F3 F F2 E2 | F2 A2 B2 A2 | "G" d3 d d2 A2 | "A" B2 c2 "D" d4 :|
+|: "D" d3 d d2 e2 | d2 c2 B2 A2 | d3 d d2 e2 | d2 e2 f2 e2 |
+d3 d d2 e2 | d2 c2 B2 A2 | "G" B3 B B2 A2 | "A" B2 c2 "D" d4 :|
+
+% 2013 Jun 13: corrected pickup note,  added bar on last line
+X: 27
+T: The High Road to Linton
+C: Not from Portland Collection
+M:C
+K:A
+L:1/8
+Q:1/4=160
+ue2 |: "A" ceef a2 (ae) | "D" f2 (fe) "A" a2 (ae) | ceef a2 (ae) | "D" fa "A" ec "E7" B2 "A" A2 :|
+|: "A7" cee=g "D" fddf | "A" ecce "E7" fBBd | "A7" cee=g "D" fddf | "A" ecac "E7" B2 "A" A2 :|
+|: "A" a2 a2 ef a2 | (ef) ae "D" fa "A" ef | "A" a2 a2 efae | "D" fa "A" ec "E7" B2 "A" A2 :|
+|: "A" c2 (ec) "D" defd | "A" c2 (ec) "E7" BcdB | "A" c2 (ec) "D" defg | af "A" ec "E7" B2 "A" A2 :|
+W: For 2013 Jun 22: don't play pickup note
+
+% 2013 Jun 13: corrected fourth note to G
+X: 31
+T: Cold Frosty Morning
+M: 4/4
+K: G
+L: 1/8
+|: "Am" (ED)EG A2 AA | (AB)cd e2 AA | "G" B3 A G2 D2 | (GA)Bc d2 DD |
+   "Am" (ED)EG A2 AA | (AB)cd e2 dd | (cB)Ac "G" (BAGB) | "Am" A2 AA A2 AA :|
+|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | "Am" (ed)cd "E7" e2 ee |
+   "Am" A2 AA "F" c2 cc | "Dm" d2 dd "Em" e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
+% Above B-section chords from Seth Berry;  following originals from FFB?:
+%|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | (ed)cd e2 ee |
+%   "Am" A2 AA c2 cc | "Dm" d2 dd e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
+
+X: 33
+T: The Brown Cow (Miss McCleod's Reel)
+C: Scottish reel
+M: C|
+K: A
+L: 1/8
+|: "A" vA2 a2 fefa | c2 u(cB) c2 u(cB) | A2 a2 fefa | "E" B2 u(BA) B2 u(cB) |
+"A" A2 a2 fefa | c2  (cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
+"A" A2 cA eAcA | c2 u(cB) c2 u(cB) | A2 cA eAcA | "E" B2 u(BA) B2 u(cB) |
+"A" A2 cA eAcA | c2 u(cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
+W: Add 'A' chord at end
+
+X: 35
+T: John Campbell's Trip to Port Townsend
+C: Mike Richardson
+M: C|
+K: G
+L: 1/8
+|: "G" G2 G2 BGBd | efgf edBd | G2 Bd "Em" gdBG | "Am" AcBA "D" GEDE |
+   "G" G2 G2 BGBd | efgf edBd | G2 Bd "Em" gdBG |1 "D" ADFA "G" G2 D2 :|2 "D" ADFA "G" G2 F2 :| \
+K:D
+|: "Em" E2 GB e3 f | edBA GEB,E | "D" D2 FA dcde | dBAG FEDF |
+   "Em" E2 GB e3 f | edBA GEB,E | "D" DEFA dBAD | FEDF "Em" E3 D :|
+

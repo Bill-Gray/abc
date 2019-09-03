@@ -1,0 +1,24 @@
+
+X:3
+T:Nr. 4. Polonaise
+C:W. A. Mozart
+L:1/16
+M:3/4
+%%sysstaffsep 35
+Q:1/8=100
+K:F
+Q:1/4=100
+%%MIDI channel 1
+V: 1 name="Violino I." snm="" clef=treble
+|: F2(FE F2)C2 A4 | G2(GF G2)C2 B4 | (Acfe) (ed)(dc) (cB)(BA) | (GA)GF (EF)ED C4 |
+   F2(FE F2)C2 A4 | G2(GF G2)C2 B4 | (Acfe) (ed)(dc) (cB)(BA) | (AGFE) (E4 F2) z2 :|
+|: G6 (B2A2c2) | c4 (cBAB) A4 | (G6 B2) (Acfd) | c4 (cBAB) A4 | (=B2c2)(B2c2) (edcB) |
+(c2G2)G2G2G2G2 | (=B2c2)(B2c2) (edcB) | c4 z2 (C2E2G2) | c4 z2 (C2E2G2) | _B6 (cd cABG) |
+F2(FE F2)C2 A4 | G2(GF G2)C2 B4 | (Acfe) (ed)(dc) (cB)(BA) | (GA)GF (EF)ED C4 |
+F2(FE F2)C2 A4 | G2(GF G2)C2 B4 | (Acfe) (ed)(dc) (cB)(BA) | (AGFE) (E4 F2) z2 :|
+%%MIDI channel 2
+%%MIDI program 41
+V: 2 name="Viola." snm="" clef=alto
+|: F4 z2 F2 F2 F2 | E4 z2 E2 E2 E2 | F2 (a2b2a2)g2f2 | e2ef g2gf e2c2 |
+   F4 z2 F2F2F2   | E4 z2 E2E2E2   | F2 (a2b2a2)g2f2 | (c2c2) (c4F2) z2 :|
+|: (e2c2)

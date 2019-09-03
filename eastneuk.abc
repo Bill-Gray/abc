@@ -1,0 +1,1060 @@
+X:1
+T:Angeline the Baker
+C:Old-Time
+M:4/4
+K:D
+L: 1/8
+(dB) |: "D" A2 B2 d3 A | "Bm" B2 d4 "D" dB | A2 B2 dB A2 | "G" B6 dB |
+% w: Oh-- An-ge-line the ba-ker, oh-- An-ge-li-ne my love oh--
+"D" A2 B2 d3 e | "Bm" f2 e2 d3 e | f2 e2 "G" d2 B2 |1 "A" A3 B A2 (dB) :|2 "A" A3 B A2 (fg) ||
+% w:An-ge-line, oh An-ge-line, oh| An-ge-line my on-ly love oh----
+|: "D" a2 f2 "Em" e2 de | "D" f2 e2 d2 fg | a2 f2 "Em" e2 d2 | "Bm" B3 B B2 (fg) |
+% w: An-ge-line oh-- An-ge-line, oh-- An-ge-line my on-ly love oh--
+"D" a2 f2 "Em" e2 de | "Bm" f2 e2 d2 de | f2 e2 "G" d2 B2 |1 "A" A3 B A2 (fg) :|2 "A" A3 B A2 z2 |]
+% w: An-ge-line oh-- An-ge-line oh-- An-ge-line my on-ly love ---
+
+X:3
+T:The Ash Grove
+C:Welsh traditional
+M:3/4
+K:G
+L:1/8
+D2 |: "G" G2 B2 dc | B2 G2 G2 | "Am" AB cB AG | "D7" F2 D2 D2 |
+"G" GA BA GF | "C" E2 C2 E2 | "G" D2 G2 "D7" F2 |1 "G" (G4 GD) :|2 "G" G4 Bc ||
+"G" d2 Bc de | d2 c2 B2 | "Am" c2 AB cd | "D7" c2 B2 A2 |
+"G" B2 GA Bc | "Em" B2 A2 G2 | "D" D2 d2 "A7" ^c2 | "D7" d4 D2 |
+"G" G2 B2 dc | B2 G2 G2 | "Am" AB cB AG | "D7" F2 D2 D2 |
+"G" GA BA GF | "C" E2 C2 E2 | "G" D2 G2 "D7" F2 | "G" G4 |]
+
+X:5
+T:Ashokan Farewell
+C:Jay Ungar
+M:3/4
+K:D
+L:1/8
+Ac |: "D" d3 c BA | "D/F#" F4 EF | "G" G3 F ED | "Em" B,2 D3 B, |
+"D" A,2 D2 F2 | "Bm" A2 d2 f2 |1 "Gmaj7" f3 g f2 | "A7" e4 Ac :|2
+"A7" A2 c2 e2 | "D" d4 FG || "D" A3 F D2 | "D7/F#" d4 A2 |
+"G" B3 c d2 | "D" A F3 E2 | F3 E D2 | "Bm" B,4 G,2 | "A" A,6 |
+"A7" A4 FE | "D" D2 F2 A2 | "C" =c6 | "G" B3 c d2 |
+"D" A2 F2 D2 | A,2 D2 F2 | "Bm" A2 d2 F2 | "A7" E3 D C2 | "D" D6 |
+
+X:6
+% Generated more or less automatically by swtoabc by Erich Rickheit KSC
+% from http://sniff.numachi.com/pages/tiFDRBACK%3bttFDRBACK.html
+T:Franklin D. Roosevelt's Back Again
+C: Bill Cox,  a week after the 1936 re-election
+M:4/4
+L:1/8
+K:C
+ z4 z2 z G| "C" EG GG A G2 G| "F" Ac cc A G3| "C" E>G GG AG GE|
+w: Just hand me my old Mar-tin,  for soon I will be start-in' Back to dear old Charles-ton far a-
+ "G" D6 z D| "C" EG GG/2G/2 A G3|  "F" Ac cc "C" AG EG| "G" G2 G>A GF ED|
+w: way.  Since Roose-velt's been re-el-ect-ed, We'll not be ne-glect-ed, We've got Frank-lin D. Roose-velt back a-
+"C" C6 G>E| G6 c>A | "F" c6 BA| "C" G2 GG AG GE| "G" D6 z D |
+w: gain.  Back a-gain Back a-gain,  We've got Frank-lin D. Roose-velt back a-gain.  Since
+ "C" EG GG AG GG| "F" Ac cc "C" AG EG| "G" GGG-A GF ED| "C" C6 z2|
+w: Roose-velt's been e-lect-ed,  moon-shine liq-uor's been cor-rect-ed,  We've got le-gal wine, _whis-key,  beer and gin.
+W: I'll take a drink of brandy and let myself be handy
+W: Good old times are coming back again
+W: You can laugh and tell a joke, you can dance and drink and smoke
+W: We've got Franklin D. Roosevelt back again
+W:
+W:   Back again,  back again,
+W:   We've got Franklin D. Roosevelt back again
+W:   We'll have money in our jeans
+W:   We can travel with the queen
+W:   We've got Franklin D. Roosevelt back again
+W:
+W: No more breadlines, we're happy to say the donkey won election day
+W: No more standing in the blowing, snowing rain
+W: He's got things in full swing, we're all working and getting our pay
+W: We've got Franklin D. Roosevelt back again
+W:
+W:    (First chorus)
+
+X: 125
+T: Bank's Hornpipe
+C: Scottish
+M: 4/4
+K: Eb
+V: 1 clef=treble
+%% %% transpose -1
+L: 1/8
+(3(uB,CD |: "Eb" E2) G4 (3(BGE | "Bb" D2) F4 (3(FED | "Ab" A,2) [c4E4] (de) | "Bb" (=ABcB) (_AG)(AF) |
+"Eb" [E2G,2] ([B4E4] c2) | "Ab" [E2A,2] [c4E4] (de) | "Bb" D2 ((3DEF AF)DF |1 "Eb" E2 G2 E2 ((3B,CD :|2 "Eb" E2 G2 E2 u(g/a/g/f/) |]
+|: vg2 "Eb" u[B2E2] v[B2E2] u(3(gag) | "Bb" vf2 u[B2D2] v[B2D2] (gf) | "F" e2 [c2] [c2] (fe) | "Bb" dcB=A B2 B2 | !>!B,DFD !>!B,DFD |
+"Eb" !>!B,EGE !>!B,EGE | "F" =A2 (3ABc ecAc | "Bb" ~B=ABc B_AGF | "Eb" EG[GB]G [eG]GFE |
+"Bb" DF[FB]F [dF]FED | "Ab" CEAE cBAG | "Bb" ~FEDE DCB,A, | "Eb" (!>!G,/E/B/g/) (g/B/E/G,/) (!>!G,/E/B/g/) (g/B/E/G,/) |
+"Ab" (!>!A,/E/c/a/) (a/c/E/A,/) (!>!A,/E/c/a/) (a/c/E/A,/) | "Bb" D2 ((3DEF AF)DF |1 "Eb" !>!E2 G2 E2 (g/a/g/f/) :|2 "Eb" !>!E2 G2 E2 z2 |]
+
+X:7
+T:Barlow Knife
+C:Old-Time
+M:2/4
+K:G
+L:1/8
+"G" [B2g2] [Bg](g | "D" fg) af | "G" [g2B2] [g2B2] | [g4d4] | [g2B2] [gB](g | "D" fg) a(f |
+"C" eg) fe | "G" [g4d4] :: "C" e2 d2 | "G" (BA) GB | "C" e2 d2 | "G" [B4D4] | "C" e2 d2 |
+"G" (BA) GB | "D" A2 G2 |1 "G" [B4G4] :|2 "G" [B2G2] (B2 |: "D" [A2D2]) d(A | "G" BA) G(B |
+"D" [A2D2]) d2 | "G" [B2D2] [BD]([BD] | "D" [A2D2]) d(A | "G" BA) GB | "D" A2 G2 | "G" [B4G4] |]
+
+X:9
+T:Battle of Aughrim
+M:4/4
+L:1/8
+K:G
+"Em" (BA)(GF) (EFG)A | (BAGF) E4 | "D" (AGFA) (d2 A2) | (B2 A2) (B^c d2) |
+"Em" (BA)(GF) (EFG)A | (BAGF) E4 | "D" (AGFA) (d2 A2) | "Em" (F2 E2) E4 :|
+"Em" |: (f2 e2) (e2 d^c) | "D" (B2 A2) (d3 A) | (B2 A2) (d2 A2) | "Em" (B2 A2) "Bm" (Bcde) |
+"Em" (f2 e2) (e2 d^c) | "D" (B2 A2) d3 (B | A)(GF)A (d2 A2) |1 "Em" (F2 E2) (E2 g2) :|2 (F2 E2) "Em" E4 |]
+N:Gabe Payne
+
+
+X:11
+T:Bee's Wing Hornpipe
+C:Scottish
+M:4/4
+K:C
+L:1/8
+(3(GAB) |: "C" cgec "G" BfdB | "Am" GecG "C" EcGE | "F" FAdf "C" EGce | "D" (3ded (3cBA "G" G2 (3(GAB) |
+"C" cgec' "G" Bgdb | "F" FcAf "C" EcGe | "F" FAdf "G" eGBd |1 "C" c2 "(G)" e2 "(C)" c2 (3(GAB) :|2 "C" c2 "(G)" e2 "(C)" c2 g2 ||
+|: "C" (3edc ge c'gec | "G" dB{g/2a/2}gd bgdB | "F" AFcA "D" ^fdec | "G" (3ded (3cBA "(G)" G2 (3(GAB) |
+"C" cgec' "G" Bgdb | "F" FcAf "C" EcGe | "F" FAdf "G" eGBd |1 "C" c2 "(G)" e2 "(C)" c2 e2 :|2 "C" c2 "(G)" e2 "(C)" c2 |]
+
+X:13
+T:Bill Cheatham
+M:2/4
+K:G
+L:1/16
+|: "G" D2B2 B2(GA | BA)G(B AG)ED | "C" CEG(B c2)A(B | cB)c(d cB)AG |
+"G" DEG(A B2)G(A | BA)G(B AG)ED | "C" (cB)cd (ef)ge |1 "D" d(BAB) "G" G2(GE) :|2 "D" dBA2 G2Bc ||
+|: "G"dBdg "C" ece(g | "D" fg)af "G" g2(Bc) | dBdg "C" eceg | "G" d(BAG) "D" A2(Bc) |
+"G" dBdg "C" ece(g | "D" fg)af "G" g2(ef | gf)g(d "C" ef)ge |1 "D" d(BAB) "G" G2(Bc) :|2 "D" d(BAB) "G" G2 |]
+
+X:15
+T:Billy in the Lowground
+C:Old-Time, Bluegrass
+M:4/4
+K:C
+L:1/8
+C(A, |: "C" G,A,)C(D EG)A(B | cB)c(d cA)GB | "Am" (ABA)(G EG)A(B | cA)G(E DCC(A, |
+"C" G,A,)C(D EG)A(B | cB)c(d cA)GB | "Am" (ABA)(G EG)A(B | "G" cA)G(E "C" D C3) :|
+|: "C" (e g2) (e g2) e(g | ag)e(d cA G) | "F" (e a2) (g a2) e(g | ag)a(b ag e2) |
+"C" (e g2) (e g2) e(g | ag)e(d cA)G(B | "Am" AB)A(G EG)A(B | "G" cA)G(E "C" D C3) :|
+
+X:17
+T:Blackberry Blossom
+C:Old-Time, Bluegrass
+M:4/4
+K:G
+L:1/8
+"G" gabg "D" fgaf | "C" efge "G" dBAG | "C" EFGE "G" DEGA | "D" BdBG Adef |
+"G" gabg "D" fgaf | "C" efge "G" dBAG | "C" EFGE "G" DEGA |1 "D" BGAF "G" G4 :|2 "D" BGAF "G" G2 GF ||
+|: "Em" [B2E2] [eE4]B dB[Ee][dE] | [B2E2] [eE][BE] "D" [E2d]B[AD]G | "Em" [B2E2] [Ee][BE] [dE]Bef | "G" gabg "D" aged |
+"Em" [B2E2] [eE][BE] [dE]B[Ee][dE] | [B2E2] [eE][BE] "D" [E2c]B[AD]F | "Em" [B2E2] [Ee][BE] [E2d]B[Ee][BE] |1 "D" BGAF "G" G2 GF :|2 "D" BGAF "G" G4 |]
+
+X:18
+T:Blind Man's Reel
+M:4/4
+K:F
+L:1/8
+fg |: "F" afc(f f)cfc | "Dm" d(f f)a gfed | "C" c2 gc bgeg | "F" fefg a2 fg |
+"F" afc(f f)cfc | "Dm" d(f f)a gfed | "C" c2 gc bgeg | "F" fefg f a :|
+|: cBA | "F" F2 F2 "Bb" GFDF | "F" CFAc dcAB | "C" c2 ce gece | "F" fefg afcA |
+"F" F2 F2 "Bb" GFDF | "F" CFAc dcAB | "C" c2 ce gece | "F" fefg f a :|
+
+X:19
+T:Bonaparte's Retreat
+C:Old-Time
+M:4/4
+K:D
+L:1/8
+AB | "D" d2 d>e dBAB | dBAF "A" EDAB | "D" d2 d>e dBAB |
+dBAF "A" EDDE || "D" F/D/F/D/ A/D/F/D/ "A" E/D/E/F/ "G" G/F/E/D/ "D" F/D/F/D/ A/D/F/D/ "A" E/D/E/F/ "D" DD/E/ |
+"D" F/D/F/D/ A/D/F/D/ "A" E/D/E/F/ "G" G/F/E/D/ "D" F/D/F/D/ A/D/F/D/ "A" E/D/E/F/ "D" DD/E/ :|
+
+X:21
+T:Bonnie Kate
+M:4/4
+L:1/8
+K:D
+dB |: "D" A2 (dA "G" B2) A(F | "D" DF)AF "A" E(A,CE) |
+"D" DF[FA]F "G" GBe(d | "A" cA)Bc "D" (d2 d)(B |
+"D" A2) dA "G" (Bd)(AF) | "D" DF[FA]F "G" (GFE)(F |
+"D" DF)[AF]F "G" GBe(d |1 "A" cA)Bc "D" (d2 d)B :|2 "A" cA)Bc "D" defg |
+|: "D" (a2 f)(d Ad)ef | "G" g>g g(e "A" cd)e(f |
+"A7" g2) (gf g)(bag) | "D" (fgf)e d(efg) |
+(a2 f)(d Ad)ef | "G" (gfe)(d "A" cd)e(f |
+"A7" g2) (gf g)(bag) |1 "D" (fgf)e d(efg) :|2 "D" (fgf)e d4 |]
+N:Katie Swenson;  maybe capoed?
+
+X:23
+T:Cattle in The Corn
+K:C
+M:2/4
+L:1/16
+((3e^f^g) || "Am" a2A2 A2(AB) | cABc A2(AG) | EGAB "C" c2(cB) | ABcd "E7" e4 ((3e^f^g) |
+"Am" a2A2 A2(AB) | cABc A2(AB) | cBAc "E7" BA^GB | "Am" AG"Em"EG "Am" A4 :||
+K:D
+|: (cd) | "A" e2(ef) e2cd | efed (cB)A2 | "G" [=g2B2][gB][gB] [g2B2]ef | gfed "(A)" cdef |
+"A" [a2c2][ac][ac] [a2c2]ef | afed cBA2 | "G" (GF)GA BAGB | "A" A2AA A4 |]
+
+X:25
+T:Chicken Reel
+K:D
+L:1/8
+M:4/4
+(=f2 || "D" f)dAF DFBF | AFBF A2(=f2 | f)dAF DFBF | "A" Ad2c "D" d2(=f2 |
+        "D" f)dAF DFBF | AFBF A2(=f2 | f)dAF DFBF | "A" Ad2c "D" d4 ||
+"D" f2af d2fd | Aded fded | f2af d2fd | "A" Ad2c "D" d4 |
+"D" f2af d2fd | Aded fded | f2af d2fd | "A" Ad2c "D" d4 |]
+
+X:27
+T:Coilsfield House
+C:Nath. Gow (b. 1763)
+K:G
+L:1/16
+GA | "G" B2D2 G2B,2 G,6 "(B)" AB | "Am" c3A "G/B" B2G2 "D" FA3 D3c | "C" cBAG "C?" GFED "Em" G4 "C" E2C2 |
+"G" B,2G2 "D" A,2F2 "G" G2G,2 G,2 :| Bc | "G" d3B d2B2 "C" e4 "D" A2Bc | "G" d2G2 "Em/" F2G2 "Am" AGFE "D" D2Bc |
+"G" d3ed2B2 "C" (c/d/e3) "Am" (e/f/g3) | "D" fgag "D7" fdef "G" g4 G2 ga | "G" b2g2d2B2 "C" (c/d/e3) "D" A2Bc |
+"G" d2G2 "Em/" F2G2 "Am" AGFE "D" D2c2 | "G" B2G2D2B,2 "C" C2DE "D" A,2 DC | "G" B,2G2 "D" A,2F2 "G" G2G,2 G,2 |]
+
+X:29
+T:Colored Aristocracy
+C:Old-Time
+M:2/4
+K:G
+L:1/8
+EF |: "G" GG/A/ G/E/D | G3 G/A/ | "Em" BB/c/ B/A/G | E3 A/B/ |
+"C" c/B/c/d/ ed/c/ | "G" B/A/B/c/ dc/B/ |1 "A" AA/B/ AG | "D" AF EF :|2 "A" B/A/B/(d/ "D" d/)B/A |
+"G" G3 e/f/ |: "G" gg g/e/d | "Em" e3 e | ef e/d/B | B3 A/B/ | "C" cc/d/ ed/c/ |
+:|1 "G" B/A/B/c/ dc/B/ | "A" AB c^c | "D" d^d ef :|2 "G" B/A/B/c/ dB/A/ | "D" B/A/B/(d/ d/)B/A | "G" G4 |]
+
+X:31
+T:Cooley's Reel
+M:4/4
+L:1/8
+K:B Aeolian
+Q:1/4=108
+(D2 |: "Em" E)B ({B/c/}BA uB2) EB | {B/c/}B2 (AB) "D" dBAG | (3(FED A)D BDA(D |
+FD)FA dAFD | "Em" EB ({B/c/}BA uB2) EB | {B/c/}B2 (AB) defg | "D" afge dBA(F |
+|1 DE)F(D "Em" EG)FD :|2 DE)FD "Em" E(gfg) |: "Em" eB (3BBB (eB)gB | eB (3BBB (ge)dB |
+"D" A2 (FA) dAFB | ADFA Bcdf | "Em" eB (3BBB (eB)gB | edBc def(g |
+"D" af)ge dBA(F |1 DE)FD "Em" E(gfg) :|2 DE)F(D "Em" EG)FD || E4 |]
+N:Tessa Couture
+
+X:33
+T:Cripple Creek
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+"G" [g2d2Gd] [gd]g d2 B2 | "C" c2 e2 "G" d4 | [g2d2G2] [gd]g d2 B2 | "D" A2 G2 "G" G4 :|
+|: "G" [d2B2] BB "D" A2 G2 | "G" B2 d2 [d4B4] | [d2B2] BB "D" A2 G2 | "D" (DE) [e2B2G2] "G" G4 :|
+
+
+X:35
+T:Devil's Dream
+M:4/4
+K:A
+L:1/8
+ "A" (aga)e aga(e | ag)a(e fe)cA | "Bm" dfBf dfBf | "(E)" dfag fece |
+"A" a-gae a-gae | aga(e fe)cA | "D" dfe(d | "A" cB)AF |1 "E" EFAB "A" A2 fg :|2
+"E" EFAB "A" A2 ed |: "A" ceAe ceAe | ceag fedc | "Bm" dfBf dfBf | "(E)" dfag fedB |
+"A" ceAe ceAe | ceag fedc | "D" dfe(d "A" cB)AF |1 "E" EFAB "A" A2 ed :|2 "E" EFAB "A" A2 z2 |]
+
+X:37
+T:Drowsy Maggie
+M:4/4
+L:1/8
+K:E dorian
+Q:1/2=58
+"Em" E2 BE dEBE | {E/F/}E2 (BE) "D" AFED | "Em" E2 (BE) dEBA |1 "Em" ({B/d/}BA)(Bc) "D" dBAF :|
+:|2 "Em" ({B/d/}BA)(Bc) "D" d2 "G" (Bc) |: "D" d2 (fd "A" cd)ec | "D" def(g af)ge | d2 (fd "A" cd)ec |
+    "G" ({B/d/}BA)(Bc) dB"A"A(c | "D" d2) f(d "A" c)dec | "D" def(g af)ge |
+afge fded |1 "G" ({B/d/}BA)(Bc) dB"A"Ac :|2 "G" ({B/d/}BA)(Bc) "D" dBAF || "Em" E4 |]
+N:Annette Kowalik
+
+X:39
+T:East Neuk of Fife
+C:Scottish
+M:4/4
+K:G
+L: 1/8
+ D2 |: "G" G2 G2 G2 (Bc) | dBGB dBGB | "Am" A2 A2 A2 (gf) | "C" edef gage |
+"G" dcBA GABc | dBGB dBGB | "Am" ABce "D" dBAB |1 "Em" G2 E2 E2 D2 :|2
+|: "Em" G2 E2 E2 (dc) |: "G" B2 G2 G2 (dc) | B2 G2 G2 (ed) | "Am" c2 A2 A2 (fg) | "D" a2 A2 A2 (Bc) |
+"G" d2 G2 B2 G2 | g2 G2 d2 (cB) | "Am" ABce "D" dBAB |1 "Em" G2 E2 E2 (dc) :|2 "Em" G2 E2 E2 |]
+
+X:41
+T:Eighth of January
+C:Old-Time/Bluegrass
+M:4/4
+K:C
+L:1/8
+cd | "C" edeg (ed)ce | "Dm" ded(c "F" A2) Bc | "G" d2 (de) d(BAG) | "C" cAG(E C2) cd |]
+(ed)e(g ed)c(e | "Dm" de)d(c "F" A2) Bc | "G" d2 (de) d(BAG) | "C" cAG(E C2) CD |]
+"C" E2 G2 G2 E2 | GAG(E "G" DC)CD | "C" E2 G2 G2 (GA) | "G" G(EDE) "C" C2 (CD) |
+"C" E2 G2 G2 E2 | GAG(E "G" DC)CD | "C" E2 G2 G2 (GA) | "G" G(EDE) "C" C2 z2 |]
+
+X:43
+T:Fairy Dance
+M:4/4
+K:D
+L:1/8
+Q:1/8=80
+"D" {fg}f2 (fd) {fg}f2 (fd) | {fg}f2 (fd) "A" cece |
+"D" {fg}f2 (fd) "G" gfed |1 "A" cAB(c "D" d2) de :|2 "A" cABc "D" defg ||
+|: "D" a2 (af) "G (B7)" b2 (ba) | "G (Em)" g2 (ge) "A" a2 (ag) |
+"D" {fg}f2 (fd) "G" gfed |1 "A" cABc "D" defg :|2 "A" cABc "D" d4 |]
+N:Emma Rioux,  probably capoed
+
+X:45
+T:Farewell to Whiskey
+M:4/4
+L:1/8
+K:G
+Q:1/4=100
+"G" D2 G2 B2 AB | "Am" A2 E2 E4 | "G" D2 G2 B2 AG | "Em" d2 B2 (B3 d) |
+"C" efge "G" d2 B2 | "Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G3 E :|2 "G" B2 G2 G2 (Bc) ||
+|: "G" d2 B2 g2 B2 | "Am" cBAG "D" A2 (Bc) | "G" d2 B2 g2 d2 | "C" e2 f2 "G" g2 d2 | "C" efge "G" d2 B2 |
+"Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G2 (Bc) :|2 "G" B2 G2 G2 |]
+N:Conor Hogate
+
+X:47
+T:Finn Jenta
+C:traditional Norwegian
+M:3/4
+K:F
+L:1/8
+D2 |: "Gm" G2 G^F GA | B2 BA Bc | "Bb" d2 d^c de |
+"Dm" f2 fe gf | "Gm" d2 dc Ac | B2 A2 G2 | "D7" ^FG A2 F2 | D4 D2 |
+"Gm" G2 G^F GA | B2 BA Bc | "Bb" d2 d^c de | "Dm" f2 fe gf |
+"Gm" d2 dc Ac | B2 A2 G2 | "D7" ^FG A2 F2 |1 "Gm" G4 F2 :|2 "Gm" G3 A Bc ||
+"Bb" d2 c2 B2 | "F" A3 F AB | "D7" c2 B2 A2 | "Gm" G3 D GA | B2 A2 ^F2 |
+"D7" D^F A2 F2 | "Gm" G2 d2 "A" ^c2 | "D7" d3 A Bc | "Bb" d2 c2 B2 |
+"F" A3 F AB | "D7"c2 B2 A2 | "Gm" G2 D GA | B2 A2 ^F2 |
+"D7" D^F A2 F2 |1 "Gm" G2 G3 "D7" ^F | "Gm" GA BA Bc :|2 "Gm" G2 G2 "D7" ^F2 | "Gm" G4 ||
+
+X:49
+T: Finnegan's Wake (Kate)
+M: 4/4
+L: 1/8
+R: reel
+K: Cmaj
+G2|"C" EEE2 E2D2| "Am" E2A2 A2B2| "F" ccB2 A2G2| "G" E2D2 D2G2|
+w: Tim Fin-ne-gan lived on Wal-kin St., a gen-tle-man I-rish might-y odd, He
+   "C" E2 E2 E2D2| "Am" E2A2 A2AA| "F" c2BB A2G2| "G" AAB2 "C" c2zc|
+w: had a tongue both rich and sweet, and to rise in the world he carr-ied a hod. Now,
+"C" c2cc c2dd| "F" c2B2 A2GG| "C" c2cc c2d2| "F" c2B2 A2zG|
+w: Tim was a man of the tip-pling way, with the love of the whis-key he was born,  To
+"C" c2c2 c2dd| "F" c2B2 A2GG|A2AG A2G2| "G" A2B2 "C" c3z|
+w: start him off on his work each day, he'd a drop of the cray-thur ev-'ry morn.
+"C" E2EE E2D2| "Am" E2AA A2B2| "F" c3B A2G2| "G" ED3 D4|
+w: Whack to the did-dle, dance to your part-ner, Let the floor your trot-ters shake.
+"C" E3E E2D2| "Am" E2A2 A2B2| "F" c3B A2G2| "G" AAB2 "C" c4||
+w: Was-n't it the truth I told you, Lots of fun at Fin-ne-gan's wake.
+W: One morning Tim was rather full, his head was heavy which made him shake;
+W: He fell from the ladder and broke his skull, so they brought him home his corpse to wake.
+W: They laid him out on a nice clean sheet, and set him out upon his bed,
+W: With a bottle of whisky at his feet and a barrel of porter at his head.
+W:
+W: The guests assembled at the wake and Mrs Finnegan sent for lunch;
+W: They started out with tea and cake,  then whisky, wine, and beer and punch.
+W: Ms Biddy O'Brien began to cry: "Such a nice clean corpse did you ever see!
+W: Ah, Tim, mauvoreen, why did ye die?" "Hush your gob!" said Paddy McGee.
+W:
+W: Then Mrs O'Connor took up the job, and "Biddy," she said, "You're wrong, I'm sure."
+W: But Biddy gave her a punch to the gob that left her sprawling on the floor.
+W: 'Twas then it was did war engage; 'twas woman to woman and man to man;
+W: Shillelagh law did all engage,  and a row and a ruction soon began.
+W:
+W: Mickey McGuire ducked his head,  a bottle of whisky thrown at him;
+W: It fell and shattered on the bed, and splattered whisky over Tim.
+W: Behold,  he revives,  see how he rises,  Timothy climbing from his bed,
+W: Says,  "Throwin' your whisky around like blazes! Thanam O'Doul,  do ye think I'm dead?"
+
+X:490
+T: Finnegan's Wake (Bill)
+M: 4/4
+L: 1/8
+R: reel
+K: Cmaj
+G2|"C" EEE2 E2D2| "Am" E2A2 A2B2| ccB2 A2G2| "G" E2D2 D2G2|
+w: Tim Fin-ne-gan lived on Wal-kin St., a gen-tle-man I-rish might-y odd, He
+   "C" E2 E2 E2D2| "Am" E2A2 A2AA| c2BB A2G2| AAB2 "C" c2zc|
+w: had a tongue both rich and sweet, and to rise in the world he carr-ied a hod. Now,
+"C" c2cc c2dd | "Am" c2B2 A2GG| "C" c2cc c2d2| "Am" c2B2 A2zG|
+w: Tim was a man of the tip-pling way, with the love of the whis-key he was born,  To
+"C" c2c2 c2dd | "Am" c2B2 A2GG|     A2AG A2G2| A2 "G" B2 "C" c3z|
+w: start him off on his work each day, he'd a drop of the cray-thur ev-'ry morn.
+"C" E2EE E2D2 | "Am" E2AA A2B2| "(C)" c3B A2G2| "G" ED3 D4|
+w: Whack to the did-dle, dance to your part-ner, Let the floor your trot-ters shake.
+"C" E3E E2D2  | "Am" E2A2 A2B2| "C" c3B A2G2| "Am" AA "(G)" B2 "C" c4||
+w: Was-n't it the truth I told you, Lots of fun at Fin-ne-gan's wake.
+W: One morning Tim was rather full, his head was heavy which made him shake;
+W: He fell from the ladder and broke his skull, so they brought him home his corpse to wake.
+W: They laid him out on a nice clean sheet, and set him out upon his bed,
+W: With a bottle of whisky at his feet and a barrel of porter at his head.
+W:
+W: The guests assembled at the wake and Mrs Finnegan sent for lunch;
+W: They started out with tea and cake,  then whisky, wine, and beer and punch.
+W: Ms Biddy O'Brien began to cry: "Such a nice clean corpse did you ever see!
+W: Ah, Tim, mauvoreen, why did ye die?" "Hush your gob!" said Paddy McGee.
+W:
+W: Then Mrs O'Connor took up the job, and "Biddy," she said, "You're wrong, I'm sure."
+W: But Biddy gave her a punch to the gob that left her sprawling on the floor.
+W: 'Twas then it was did war engage; 'twas woman to woman and man to man;
+W: Shillelagh law did all engage,  and a row and a ruction soon began.
+W:
+W: Mickey McGuire ducked his head,  a bottle of whisky thrown at him;
+W: It fell and shattered on the bed, and splattered whisky over Tim.
+W: Behold,  he revives,  see how he rises,  Timothy climbing from his bed,
+W: Says,  "Throwin' your whisky around like blazes! Thanam O'Doul,  do ye think I'm dead?"
+
+X:51
+T:Fisher's Hornpipe
+M:4/4
+K:D
+L:1/8
+ABc || "D" dAFA "G" GBAG | "D" FEDF "G" GBAG | "D" FEDF "G" GBAG | "D" FEDF "A" EABc |
+       "D" dAFA "G" GBAG | "D" FEDF "G" GBAG | "D" FGAB "A" cdec | "D" dfec "D" d4 ||
+"A" ecAc ecAc | "D" fdAd fdAd | "A" ecAc eAfe | "E7" dcBc "A" A2FA |
+"G" BGDG BcdB | "D" AFDF dcdB | "A" Acce gece | "D" dfec d4 |]
+
+X:53
+T:Flowers of Edinburgh
+C:Scottish
+M:4/4
+K:G
+L: 1/8
+GE |: "G" D2 DE G2 GA | BABd "C" cBAG | "D" FGFE D2 (FG) | AFBF "C" E2 GE |
+"G" D2 DE G2 GA | BABd "C" efge | "D" dcBA "G" GFGA |1 "G" B2 GF G2 (GE) :|2 "G" B2 (GF) G2 (ef) ||
+|: "G" g2 g2 gbag | "D" fefe fagf | "C" edef gfed | "Em" B2 e2 e2 (ge) |
+"G" dBGB d2 d2 | "C" edef "A7" g2 (fe) | "D" dcBA "G" GFGA |1 "G" B2 GF G2 (ef) :|2 "G" B2 G2 G2 z2 |]
+
+X:55
+T: Garry Owen
+M: 6/8
+L: 1/8
+R: jig
+K: Dmaj
+dc |: "D" BAG FED |FGF Fdc |BAG FED |"A" EFE Edc |
+"D" BAG FED |FGF F2 G |ABc dAF |1 "G" EFE E dc :|2 "G" EFE EFG ||
+|: "D" A2 F A2 F |A2 F Adc | "G" B2 G B2 G |B2 G B2 c |
+"D" d2 e f2 e |dcB AFG |ABc dAF |1 "A" EFE EFG :|2 "A" EFE "D" D3 |]
+
+X:57
+T:Greenfields of America
+M:4/4
+L:1/8
+K:A
+Q:1/2=56
+cB |: "A" (ABc)d e2 (3(efg | ag)af e(cAc) | "D" vd2 (fd "A" c2) e(c |
+"E" B2) B(c BA) vF2 | "A" (uaga)(e fg)(af) | e(cBA) "D" (BA) F2 | "A" (vABA)(F EF)A(B |
+|1 "C#m" ce)vc(B "A" A2) cB :|2 "C#m" ce)c(B "A" A2) B(c |: "D" d2) f(d "A" c2) e(c | "E" B2) B(c BA)FG |
+"A" (vABA)(F EF)A(B | cA)c(A "E" B2) B(c | "D" d2) f(d "A" c2) e(c | "E" B2) B(c BA)FE |
+"A" (vABA)(F EF)A(B |1 "C#m" ce)c(B "A" A2) B(c :|2 "C#m" ce)cB "A" A2 A2 |: "E" vB2 (Bc BA)FG |
+"A" ABA(F EF)A2 | "E" B2 B(c BA)FG | "A" AGA(F E2) A(c | \
+M:6/4
+L:1/8
+"E" Bc) B2 "A" uA4 cB :|
+
+X:59
+T:Halting March
+M:4/4
+L:1/8
+K:A aeolian
+E2 | "Am" A2 B/c/d e e2 d | e>d ef ec A2 | "G" G2 Bc d d2 e | dBGB d2 cB |
+"Am" A2 B/c/d e e2 d | e>d ef ec A2 | a g2 e "G" d c2 B |1 "Am" A>B "(G)" AG "(Am)" A2 E2 :|
+:|2 "Am" A>B "(G)" AG "(Am)" A4 |: "Am" a a2 g e d2 e | "G" g>a ge dB G2 | "Am" a a2 g e d2 e |
+"G" g>a ge "(Em)" g a/g/e/g/ | "Am" a a2 g e d2 e | "G" gage "(Em)" dB G2 | "Am" A>B cd e2 dB |
+A>B cd e2 e2 | a a2 g e d2 e | "G" g>a ge dB G2 | "Am" A>B cd "G" e2 dB | "Am" A>B "(G)" AG "(Am)" A4 |]
+
+X:61
+T: Hapavaasti
+M:3/4
+L:1/8
+C:Keith Murphy
+K:G
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI channel 1
+%%MIDI program 40
+(D FD) |: "G" (FG) (GD) FD | "Em" (FG) (GD) FG | "Am" A2 (Ac) BG | "D" (AD) (DE) (EF) |
+"G" (FG) (GD) (FD) | "Em" (FG) (GD) (FG) | "Am" A2 (AB) "D" AF |1 "G" G3 (D FD) :|2 "G" G3 (A Bc) |
+|: "G/B" d2 (dc) BG | "C" c3 (B2 c) | "Am" A3 (c Bc) | "D" AD D(A Bc) | "Bm" d2 (dc) BG |
+"C" c3 (B2 c) | "Am" A3 (B "D" AF) |1 "G" G3 (A Bc) :|2 "G" G3 (D FD) |]
+V: 2 name="Vln II" snm="" clef=treble
+%%MIDI channel 2
+%%MIDI program 40
+FA F |: (AB) BF AF | (AB) BF AB | c2 ce dB | cF (FG) (GA) |
+(AB) BF AF | (AB) BF AB | c2 cd cA |1 B3 F AF :|2 B3 c de |
+|: g2 ge dB | e3 d2 e | c3 e de | cF Fc de | f2 fe dB |
+e3 d2 e | c3 d cB |1 B3 c de :|2 B3 F AF |]
+
+X:63
+T: Haste to the Wedding
+M:6/8
+K:D
+L:1/8
+uA | "D" AFA Agf | "G" ede fdB | "D" AFA AdB | "A" GFG EFG | "D" AFA Agf |
+"G" ede fdB | "A" A2 g faf | "D" ded d2 :: a | "D" afa afa | "G" bgb bag |
+"D" afa agf | "A" gfg efg | "D" a3 f (a/f/ | "G" e)de fdB | "A" A2 g faf | "D" ded d2 :|
+
+X:65
+T:L'Internationale
+M:4/4
+L:1/8
+K:G
+D | "G" G3 F AGDB, | "C" E4 C3 E | "D" A3 G FEDC | "G" B,4 z2 "D7" D2 |
+w:De-bout! les dam-nes de la ter-re! De-bout! les for-cat; de lat faim!  La
+"G" G3 F AGDB, | "C" E4 "Am" C2 AG | "D7" F2 A2 c2 F2 | "G" G4 z2 BA |
+w:rai-son tonne en son cra-te-re: C'est l'e-rup-tion de la fin.  Du pas-
+"D" F4 "A" EFGE | "D" F4 D2 ^CD | "A" E3 A, A3 G | "D" F4 z2 z A |
+w:se fai-sons ta-ble ra-se; Foule es-clave, de-bout! de-bout!  Le
+A3 F DD^CD | "Em" B4 GGFE | "D" F2 A2 "A7" G2 E2 | "D7" D2 z2 z2 BA |
+w:mon-de va chan-ger de ba-se; Nous ne som-mes rien, so-yons tout!  C'est la
+"G" G4 D3 B, | "C" E4 C2 AG | "D" F4 E3 D | "G" B4 z2 B2 |
+w:lut-te fi-na-le: Grou-pons-nous, et de-main,  L'In
+B4 "D" A3 D | "Em" G4 "Bm7" F3 F | "C" E3 ^D "A" E2 A2 | "D" A4 z2 BA |
+w:ter-na-tio-na-le se-ra le genre hu-main.  C'est la
+"G" G4 D3 B, | "C" E4 C2 AG | "D" F4 E3 D | "G" B4 z2 B2 |
+w:lut-te fi-na-le; Grou-pons-nous, et de-main,  L'In
+"E7" d4 c2 B2 | "Am" (A^GAB) c2 z c | "G" B3 G "D7" A3 F | "G" G4 z4 |]
+w:ter-na-tio-na----le se-ra le genre hu-main.
+
+X:67
+T:Jerusalem Ridge
+C:Bill Monroe/Kenny Baker
+M:2/4
+K:C
+L:1/16
+|: "Am" A,B,CD E2(EF) | EDCE DCEC | A,B,CD EGAG | "E" EDCE "E7" DCA,G, |
+"Am"    A,B,CD E2(EF) | EDCE DCEC | A,B,CD EGAG | "Em" EDCB, "Am" A,4 :|
+|: "Am" E2A2 A3G | A2B2 c4 | E2A2 A3B | c2e2 "E" e4 |
+"Am" E2A2 A3B | cABc A3G | \
+M:3/4
+"E" E2(EG) EDCD EDCB, | \
+M:2/4
+|1 "Am" (A,4A,2) z2 :|2
+"Am" A,6 A2 ||  E6 A2 | "Dm" D6 (ED) | "C" C4 (B,2CB,) |
+"Am" A,4 A2 |   E6 A2 | "Dm" D6 (ED) | "C" C4 (B,2CB,) | "Am" A,6 z2 |
+"Am" e2a2 a3g | a2b2 c'4 | "C" eg2e g3e |
+"C" gage dc2d | "Am" e2a2 agab | c'abc' ac'ag | \
+M:3/4
+"E7" e2(ef) edcd edcB | \
+M:2/4
+"Am" A6 z2 |
+A2(Ac) | AGED | \
+M:3/4
+"E" EDEG EDCD EDCB, | \
+M:2/4
+"Am" (A,4 A,2)(A,G,) | A,6 z2 :|
+
+X:68
+T:Jerusalem Ridge (previous version)
+C:Bill Monroe
+M:4/4
+K:C
+L:1/8
+"Am" A,B,CD E2 EF | EDCC DCEC | A,B,CD EGAG | "E" EDCE "E7" DCA,G, |
+"Am" A,B,CD E2 EF | EDCE DCEC | A,B,CD EGAG |1 "Em" (3EGE DC "Am" A,3 G, :|2
+"Em" (3EGE DC "Am" A,3 D |: "Am" E2 A2 A2 A2 | EGAB cdcA | E2 A2 A2 AB |
+c2 [e2e2] "E" [e3e3] A | "Am" E2 A2 A2 A2 | EGAB cdcA | EGAB cecA |1 "Em" GEDC "Am" A,3 D :|2
+"E" GEDC "Am" A,2 z2 | z2 AG "Am" E4 | EEFE "Dm" D4 | DDED "C" C4 | CG, (3B,CB, "Am" A,4 |
+A,2 (3AGF E4 | EEFE "Dm" D4 | DDED "C" C4 | CG, (3B,CB, "Am" (A,4 | \
+M:2/4
+A,8) ||
+M:4/4
+|: "Am" e2 a2 a3 g | a2 b2 c'4 | "C" e g2 a g2 g2 | gc'ag edcd | eaee a2 a2 |
+c'abc' ac'gd | e2 e2 edcd | "E" edcG "Am" A4 || "Am" A3 c AG E2 |
+D E2 G EDCD | "E" ECDC "Am" A,4 | A,2 (3DCB, (A,4 | \
+M:2/4
+A,8) :||
+
+X:69
+T:John Ryan's Polka
+C:Irish
+M:4/4
+K:D
+L:1/8
+"D" d2 d2 "G" BcdB | "D" A2 F2 A2 F2 | d2 d2 "G" BcdB | "D" A2 F2 "A" E2 D2 |
+"D" d2 d2 "G" BcdB | "D "A2 F2 A2 de | f2 d2 "A" e2 c2 |1 "D" d4 d4 :|2 "D" d2 d3 e ||
+"D" f2 d2 d2 ef | "G" g2 f2 "A" e2 de | "D" f2 d2 A2 d2 | f2 df "A" a2 {b/2}ag |
+"D" f2 d2 d2 ef | "G" g2 {f/2g/2}f2 "A" e2 de | "D" f2 d2 "A" e2 c2 |1 "D" d4 d3 e :|2 "D" d4 |]
+
+X:71
+T:John Ryan's Polka
+C:Irish
+M:4/4
+K:D
+L:1/8
+|: "D" vd2 d2 "G" B>c d>B | "D" A2 F2 A2 F2 | d2 d2 "G" B>c d>B | "D" A2 F2 "A" E2 D2 |
+"D" d2 d2 "G" B>c d>B | "D "A2 F2 A2 ud>ue | f2 d2 "A" e2 c2 |1 "D" d4 d4 :|2 "D" d4 (ud2 d)>ue :|
+|: "D" f2 d2 d2 ue>uf | "G" g2 f2 "Em" e2 ud>ue | "D" f2 d2 A2 d2 | f2 ud>uf "A" a2 ua>ug |
+   "D" f2 d2 d2 ue>uf | "G" g2 f2 "Em" e2 ud>ue | "D" f2 d2 "A" e2 c2 |1 "D" d4 (ud2 d)>ue :|2 "D" d4 d4 |]
+N:Mary McCarty
+
+X:73
+T:Joys of Quebec
+C:French Canadian
+M:4/4
+K:A
+L:1/8
+ee |: "A" (ec)cc c2 ee | (ec)cc c2 ee | fAeA dAcA | "E" (dB)BB B2 dd |
+(dB)BB B2 dd | (dB)BB B2 (3(Bcd |1 e2) e(e gf)e(g | "A" fe)cf e2 ee :|2
+e2) e(e {f/2g/2}f)e(fg | "A" a6) cd |: "A" e2 z2 "D" f2 z2 | "A" e3 (f e2) A(B |
+c2) (cc "D" d2) d(d | "A" c3) (d c2) (cd | cB) A2 G2 A2 | "E" B3 (c B2) (Bc |1
+d2) (e2 gf)e(g | "A" fe)df e2 (cd) :|2 d2) (e2 fe)f(g | "A" af)ec A2 |]
+
+X:75
+T:June Apple
+C:Old-Time
+M:4/4
+K:D
+L:1/8
+e(g | "A" ag)e(g ag)e(g | ag)e(d cd)e(f | "G" gf)e(f gf)e(f | ga)g(f e2) e(g |
+"A" ag)e(g ag)e(g | ag)e(d cB)AA | "G" G2 (GA BA) G2 |1 "A" A3 (B A2) eg :|2
+"A" A3 (B A2) e(d |: "A" c2) c(B A2) A(B | c2) cd e2 A2 | "G" G2 A2 B c3 | "D" d3 (e d4) |
+"A" cdc(B A2) A(B | cB)cd e2 A2 | "G" GFG(A "(E)" BA) G2 |1 "A" A3 (B A2) e(d :|2 "A" A6 |]
+
+X:77
+T: The Kesh Jig
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+Q:1/4=140
+|: "G" G2 G GAB | "D" A2 A ABd | "G" edd gdd | "C" edB "D" dBA|
+   "G" G2 G GAB | "D" A2 A ABd | "G" edd gdB |1 "D" AGF "G" uG2 uD :|2 "D" AGF "G" uG2 uA |
+|: "G" vB2 d dBd | "C" ege "G" dBA | B2 d dBG | "D" A2 A AGA |
+   "G" B2 d dBd | "C" ege "G" dBd | g2 g "D" a(ga) |1 "G" bgf ug2 ud :|2 "G" bgf g3 |]
+N:Amanda Saucier
+
+
+X:79
+T:Leaving Lismore
+C:Gaelic Song
+M:3/4
+K:D
+L:1/8
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI gchordoff
+%%MIDI channel 1
+%%MIDI program 40
+"D" D3 E F2 | (A4 d2) | "G" B3 A F2 | "D" A6 | D3 E F2 | "Bm" (A4 d2) | "G" B3 A F2 | "A" E6 |
+"D" D3 E F2 | (A4 d2) | "G" B3 A F2 | "D" A6 | A3 B d2 | "F#m" (F4 E2) | F/E/(D D4) | "D" D6 ||
+"Bm" d3 c d2 | "G" (B4 d2) | B3 A F2 | "D" A6 | "Bm" d3 c d2 | "G" (B4 d2) | B3 A F2 | "A" E6 |
+"D" D3 E F2 | (A4 d2) | "G" B3 A F2 | "D" A6 | A3 B d2 | "F#m" (F4 E2) | F/E/(D D4) | "D" D6 ||
+V: 2 name="Vln II" snm="" clef=treble
+%%MIDI channel 2
+%%MIDI program 40
+A,4 D2 | F4 F2 | G3 F D2 | F6 | A,4 D2 | F4 F2 | G3 F D2 | A,6 |
+A,4 D2 | F4 F2 | G3 F D2 | F6 | F3 G B2 | A,3 B, C2 | D6 | D6 ||
+B3 A B2 | G4 B2 | G3 F D2 | F6 | B3 A B2 | G4 B2 | G3 F D2 | C2 B,2 A,2 |
+A,4 D2 | F4 F2 | G3 F D2 | F4 E2 | F3 G A2 | A,3 B, C2 | D2 A2 F2 | D6 ||
+
+X:81
+T:Liberty
+C:New England
+M:C
+K:D
+L:1/8
+"D" f2 A2 f2 A2 | fgfe d2 ef | "G" g2 B2 g2 B2 | gagf e2 de |
+"D" f2 A2 f2 A2 | fgfe d2 ef | "G" gfed "A" cABc | "D" d2 f2 d4 :|
+"D" A2 AB AGFE | DFAd f2 d2 | A2 AB AG F2 | "A" E3 F E2 FG |
+"D" A2 AB AGFE | DFAd f2 ef | "G" gfed "A" cABc | "D" d2 f2 d4 :|
+
+X:83
+T:Mason's Apron
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:A treble
+(ueg) |: "A" aA (3AAA (cB)A(F | "(E)" EF)AB "A" c(ABc) |
+"D" dB (3BBB (dc)BA | "E" GABc "E7" defg |
+"A" aA (3AAA (cB)A(F | "(E)" EF)A(B "A" cA)B(c |
+"Bm" dc)d(e "D" fg)af |1 "E" e(cBc) "A" A2 (eg) :|2 "E" e(cBc) "A" A2 (AB) ||
+|: "A" c2 ([ec]c) [fc]c[ec]c | (3ccc ([ec]c) [fc]c[ec]c |
+   "D" d2 ([fd]d) [gd]d[fd]d | (3ddd ([fd]d) "E" [gd]d[fd]d |
+   "A" c2 ([ec]c) [fc]c[ec]c | (3ccc ([ec]c) [fc]c[ec](c |
+"Bm" dc)d(e "D" fg)af |1 "E" e(cBc) "A" A2 (ed) :|2 "E" e(cBc) "A" A2 |]
+N:Gabe Payne
+
+X:85
+T:The Minstrel Boy
+M:4/4
+L:1/8
+K:C
+G,2 | "C" C3 D "F" (FE) D C | "C" E2 "G" G2 "Am" c2 "C" B c | "F" A3 "C" G (E>F G)E |
+w: The min- strel boy-- to the war is gone, In the ranks of death-- you will
+"Dm" D2 "G" D2 "C" C2 G,2 | C3 D "F" (FE) D C | "C" E2 "G" G2 "Am" c2 "C" B c | "F" A2 G2 "C" (E>F) (GE) |
+w: find-- him; His fa-ther's sword-- he has gird-ed on, And his wild harp slu-ng -be-
+"Dm" D2 "G" D2 "C" C2 "G" G2 | "Am" c2 "E7" B2 "Am" A2 (B c) | "G" B2 "Adim7" A2 "Em" G3 "E7" ^G | "Am" A2 "E7" E2 "Am" E2 "E7" ^G2 |
+w:hind-- him. - "Land of song!" said the war-rior bard, "Though all the world be-
+"Am" (A2 "E7" B2) "Am" c2 "Fm" c2 | "C" C3 D "F" (FE) (DC) | "C" E2 "G" G2 "Am" c2 "C" (Bc) |
+w:trays-- thee, One sword, at least,-- thy-- rights shall guard, One--
+"F" A2 "C" G2 (E>F) (GE) | "Dm" D2 "G" D2 "C" C2 |]
+w: faith-ful harp-- shall-- praise-- thee."
+W:The minstrel fell,  but the foeman's chains
+W:Could not bring that proud soul under;
+W:The harp he lov'd never spoke again,
+W:For he tore its chords asunder;
+W:And said, "No chain shall sully thee,
+W:Thou soul of love and bravery;
+W:Thy songs were made for the pure and free,
+W:They shall never sound in slavery."
+W:
+W:The Minstrel Boy will return we pray
+W:When we hear the news we all will cheer it,
+W:The minstrel boy will return one day,
+W:Torn perhaps in body, not in spirit.
+W:Then may he play on his harp in peace,
+W:In a world such as Heaven intended,
+W:For all the bitterness of man must cease,
+W:And ev'ry battle must be ended.
+
+X:87
+T:Morgan Magan
+C:O'Carolan
+M:4/4
+L:1/4
+K:G
+Q:1/4=56
+z D | "G" DG GA | "C" (c/B/)(A/G/) "G" (B/c/)d | "C" eA "A" AG | "D" (G/F/)(E/D/) D(E/F/) | "G" G2 (G/F/)(G/A/) |
+"C" G(F/E/) "G" D>uG | "D" (F/G/)A "A" A(E/G/) | "D" FD     D(E/F/) | "G" G>G "D" (A/G/)(A/F/) | "G" G3 B | "C" c>(B "D" A)B/c/ |
+"G" d2 "C" e2 | "G" dB "Am" (c/B/)(A/G/) | "D" (A/G/)(F/E/) D(E/F/) | "G" G>G "D" (A/G/)(A/F/) | "G" (G2 G)(d/c/) || "G" Bd d(e/f/) |
+gG (B/c/)d | gG (B/c/)d | "C" (e/d/)(c/B/) "D" A>c | "G" (B/A/)(B/c/) dB | "C" ec "G" dB |
+"Am" cA "G" dG | "D" FD D(G/F/) "C" EC C>(D | E)C C>(E | "D" F)D D(A/G/) |
+(F/G/)(E/F/) D(B/c/) | "G" (d/B/G/B/) "C" (e/d/)(c/B/) | "Am" (c/B/)(A/G/) "D" (F/G/)(A/F/) | "G" DG "D" (A/G/)(A/F/) | "G" G2 |]
+N:Kate and me
+
+X:89
+T:Morrison's Jig
+M:6/8
+K:D
+L:1/8
+|: "Em" E3 BEB | EBE "D" AFD | "Em" E3 uB2 uc | "D" dcB AFD |
+   "Em" E3 BEB | EBE "D" AFD | "G" G2 vG "D" FGA | dAG FED :|
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" va2 vg "D" fed |
+"Em" Bee fee | bee "D" uf2 uf | "G" gfe "D" d2 (A | "G" B)AG "D" FED |
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" (f/g/a)f def |
+"G" vg2 vg gfe | def ug2 ud | "C "edc "G" ud2 uA | "G" BAG "D" FED |] "Em" E6 |]
+N:Andre Quirion
+
+X:91
+T: Mouth Of Tobique
+M: 4/4
+L: 1/8
+R: reel
+K: Gmaj
+((3DEF |: "G" G)FGA Bded | BdBG DGBG | "D" AGFE DFAc | "G" BdBG D2 ((3DEF |
+GF)GA Bded | BdBG DGBG | "D" AGFE DFAc |1 "G" B G2 G G2 ((3DEF :|2
+B G2 G G2 ef |: "G" gfga gfeg | "D" fdAd fagf | "C" eGFE "D" DFAF | "G" GABc d2 (ef) |
+gfga gfeg | "D" fdAd fagf | "C" eGFE "D" DFAc |1 "G" B G2 G G2 ef :|2 "G" B (G2 G) [B2G2] :|
+ G [BG] z [c2G2] z [B2G2]| z2 [c2G2] z [B2G2] z| FG AB cA FD|GA Bc d2 (3DEF|
+ G [BG] z [c2G2] z [B2G2]| z2 [c2G2] z [B2G2] z| FG AB cA FD|GB AF G2 (3DEF ||
+
+X:93
+T: Mouth of the Tobique
+R: reel
+Z: 1997 by John Chambers http://eddie.mit.edu/~jc/music/abc/
+N: < donna hinds < graham townsend < don messer
+M: C|
+L: 1/8
+K: G
+|: (3DEF | "G"GFGA Bded | BdBG DGBG |
+| "D7"AGFE DFAc |1 "G"BdBG "D7"D2 :|2 "G"BG2G G2 :|
+|: ef | "G"gfga gfeg | "D7"fdAd fagf |
+| "C"ecAF "D7"DFAc |1 "G"BGBc "D7"d2 :|2 "G"BG2G G2 :|
+
+
+X:95
+T:My Home (Mo dhachaidh)
+C:Scottish
+M:3/4
+K:A
+L:1/4
+V: 1 name="Vln I" snm="" clef=treble
+%%MIDI channel 1
+%%MIDI program 51
+|: e/d/ | "A" c3/2 B/ A | A c e | "D" a g f | "E" e2 d | "A" c3/2 B/ c | "A" A c e | "D" d3/2 c/ d | "E" B e d |
+"A" c3/2 B/ A | A c e | "D" a g f | "E" e2 d | "A" c/ A3/2 c | "G" B3/2 =G/ B | "A" A3 | A2 :|
+|: G | "A" A3/2 B/ c | "A/G#" c3/2 B/ c | "A/F#" e2 c | "A/E" c2 e | "D" d3/2 c/ d | "E" B c d | "A" e3/2 c/ A | A c e |
+"D" f3/2 d/ f | "Bm/G" a g f | "A" e3/2 d/ c | "D" a2 d | "A" c/ A3/2 c | "G" B3/2 =G/ B | "A" A3 | "A" A2 :|
+V: 2 name="Vln II" snm="" clef=treble
+L:1/4
+%%MIDI channel 2
+%%MIDI program 53
+|: c/B/ | A3/2 E/ C | E A c | f e d | c2 B | A3/2 E/ C | C E A | F2 A | G c B |
+A3/2 E/ C | E A c | f e d | c2 B | A/ E3/2 A | =G D G | A3 | A2 :|
+|: E | A3 | G3 | F3 | E3 | D3/2 E/ F | E2 B | A3/2 E/ C | C E A | d3/2 A/ d |
+f e d | c3/2 B/ A | f z B | A3/2 E/ A | =G D G | A E C | A, z :|
+
+% X:51
+% T:My Home (Mo dhachaidh)
+% C:Scottish
+% M:3/4
+% K:A
+% L:1/8
+% V: 1 name="Vln I" snm="" clef=treble
+% %%MIDI gchordon
+% %%MIDI channel 1
+% %%MIDI program 40
+% |: ed | "A" c3 B A2 | A2 c2 e2 | "D" a2 g2 f2 | "E" e4 d2 | "A" c3 B c2 | "A" A2 c2 e2 | "D" d3 c d2 | "E" B2 e2 d2 |
+% "A" c3 B A2 | A2 c2 e2 | "D" a2 g2 f2 | "E" e4 d2 | "A" c A3 c2 | "G" B3 =G B2 | "A" A6 | A4 :|
+% |: G2 | "A" A3 B c2 | "A/G#" c3 B c2 | "A/F#" e4 c2 | "A/E" c4 e2 | "D" d3 c d2 | "E" B2 c2 d2 | "A" e3 c A2 | A2 c2 e2 |
+% "D" f3 d f2 | "Bm/G" a2 g2 f2 | "A" e3 d c2 | "D" a4 d2 | "A" c A3 c2 | "G" B3 =G B2 | "A" A6 | "A" A4 :|
+% V: 2 name="Vln II" snm="" clef=treble
+% L:1/8
+% %%MIDI channel 2
+% %%MIDI program 40
+% |: cB | A3 E C2 | E2 A2 c2 | f2 e2 d2 | c4 B2 | A3 E C2 | C2 E2 A2 | F4 A2 | G2 c2 B2 |
+% A3 E C2 | E2 A2 c2 | f2 e2 d2 | c4 B2 | A E3 A2 | =G2 D2 G2 | A6 | A4 :|
+% |: E2 | A6 | G6 | F6 | E6 | D3 E F2 | E4 B2 | A3 E C2 | C2 E2 A2 | d3 A d2 |
+% f2 e2 d2 | c3 B A2 | f2 z2 B2 | A3 E A2 | =G2 D2 G2 | A2 E2 C2 | A,2 z2 :|
+
+X:97
+T:Planxty Fanny Power
+C:O'Carolan
+M:3/4
+K:G
+L:1/8
+"G" G4 D2 | G4 AB | "Am" c4 B2 | A4 G2 |
+"D7" F4 E2 | D4 ED | F4 G2 | A4 c2 |
+"G" B4 AG | B2 c2 d2 | "C" e4 A2 | "Am" A4 G2 |
+"D7" F4 ED | D2 E2 F2 | "G" G6 | G4 D2 :|
+"G" d2 Bc d2 | "GM7" d2 Bc d2 | "G6" G4 G2 | "G" G4 G2 |
+"C" e2 cd e2 | "CM7" e2 cd e2 | "Am" A4 A2 | "D" A4 dc |
+"G" B3 c d2 | "C" e3 f g2 | "D" f3 g a2 | d4 c2 |
+"G" B3 A G2 | "D7" A c3 F2 | "G" G6 | G6 :|
+
+X: 98
+T: Rakes of Mallow
+M: 4/4
+K: G
+L: 1/4
+"G" G B G B | G B c/B/ A/G/ | "D" F A F A | F A d/c/ B/A/ |
+"G" G B G B | G B d3/2 B/ | "C" c/B/ A/G/ "D" F/G/ A/c/ | "G" B G G2 :|
+|: g f/e/ d c | B c d2 | g f/e/ d c | B d "D" A2 |
+"G" g f/e/ d c | B c d3/2 B/ | "C" c/B/ A/G/ "D" F/G/ A/c/ |1 "G" B G G2 :|2 "G" B d g2 :|
+
+X:99
+T:Red-Haired Boy
+M:4/4
+K:G
+L:1/8
+E |: "G" D2 GG (GA)Bc | dedB "C" c2 (Bc) | "G" d2 G2 GA B2 | "F" AG =F2 F2 z2 |
+"G" uD2 GG GABc | dedB "C" c2 (Bc) | "G" d2 g2 "G7" g=fdc |1 "D" B2 G2 "G" G2 DE :|2 "D" B2 G2 "G" G2 z2 |
+|: "F" (=fe)fg fedf | ed c2 "C" c2 Bc | "G" d2 G2 GA B2 | "F" AGDE =F2 z E |
+"G" uD2 G2 GABc | dedB "C" c2 (Bc) | "G" d2 g2 "G7" g=fdc |1 "D" B2 G2 "G" G2 DE :|2 "D" B2 G2 "G" G2 z2 |
+
+X: 100
+T:Red-Haired Boy
+M:4/4
+K:A
+L:1/8
+F |: "A" E2 AA (AB)cd | efec "D" d2 (cd) | "A" e2 A2 AB c2 | "G" BA =G2 G2 z2 |
+"A" uE2 AA ABcd | efec "D" d2 (cd) | "A" e2 a2 "A7" a=ged |1 "E" c2 A2 "A" A2 EF :|2 "E" c2 A2 "A" A2 z2 |
+|: "G" (=gf)ga gfeg | fe d2 "D" d2 cd | "A" e2 A2 AB c2 | "G" BAEF =G2 z F |
+"A" uE2 A2 ABcd | efec "D" d2 (cd) | "A" e2 a2 "A7" a=ged |1 "E" c2 A2 "A" A2 EF :|2 "E" c2 A2 "A" A2 z2 |
+
+X:101
+T:Roxborough Castle
+M:4/4
+K:A
+L:1/8
+E2 |: "A" A2 (Ac) ecAc | "D" dcdf "A" ecAc | "D" dfdf "A" cecA | "E" BGEG "E" BdcB |
+"A" A2 (Ac) ecAc | "D" dcdf "A" edcB | "D" Aagf "E" edcB |1 "A" A2 a2 A2 E2 :|2
+"A" A2 a2 A2 (eg) || "A" aece fece | aece {fg}fece | "D" d2 fd "A" c2 ec |
+"B" BABc "E" B2 (eg) | "A" aece fece | aece fece | "D" d2 fd "A" c2 ec |
+"E" BABc "A" A2 (eg) || "A" aece fece | aece fece | "D" d2 fd "A" c2 ec |
+"B" BABc "E" BdcB | "A" A2 (Ac) ecAc | "D "dcdf "A" edcB | "D" Aagf "E" edcB | "A" A2 a2 A2 |]
+N:Alex Sasuclark
+
+X:103
+T:Saint Anne's Reel
+C:Old-Time
+M:4/4
+K:D
+L:1/8
+|: "D" f2 (fg) fedB | ABAG FGAd | "G" B2 G2 G2 (FG) | "D" ABAG FGAd |
+f2 (fg) fedB | ABAG FGAd | "G" BGBd "A" cdec |1 "D" dBAF D2 (de) :|2 "D" dBAF D2 (ag) ||
+"D" fafd Adfg | a2 g2 "G" g2 (gf) | "A" edcB Aceg | "G" b2 a2 "D" a2 (ag) |
+"D" fafd Adfg | a2 g2 "G" g2 (gf) | "A" edcB Aceg |1 "D" f2 d2 d2 (ag) :|2 "D" f2 d2 d2 |]
+
+X:105
+T:Salt Creek
+Q:1/4=160
+M:4/4
+K:C
+L:1/8
+E2 |: "G" G2 GG G2 GG | AGAB "C" c4 | "F" AG F2 AG F2 | AG F2 "D" D2 (E2 |
+"G" G2) GG G2 GG | AGAB "C" c3 ue | "F" vfgfe "Dm" dcBc | "D" dc A2 "G" G2 z2 :|
+|: "G" [g2d2G2] [gdG][gd] [g2d2G2] [gdG]e | beae gede | "F" fgfe "Dm" defe | "F" fgfe "Dm" dc B2 |
+"G" [g2d2G2] [gdG][gd] [g2d2G2] [gdG]e | beae gede | "F" fgfe "Dm" dcBc | "D" dc A2 "G" G4 :|
+
+X:107
+T:Smash The Windows
+M:6/8
+L:1/8
+R:jig
+K:Dmaj
+|: "D" D(ED) F2A | d2f "A" e(cA) | "G" G2B "D" F2A | "A" E2F "A7" G(FE) |
+"D" D(ED) F2A | d2f "A" e(cA) | "G" Bgf "A" edc |1 "D" d3 d3 :|2 "D" d3 ud2 uf |
+|: "D" a2f d2e | f2g a(gf) | "A" g2e c2d | e2f g(fe) |
+|1 "D" a2f d2e | f2g a(gf) | "A" g2e c(de) | "D" d3 ud2 uf :|
+:|2 "D" f2 d "A" g2 e | "D" a2 e "G" b2 g | "D" fed "A" cde | "D" d3 d3 |]
+N:Sarah Finnemore
+
+X:109
+T:Soldier's Joy
+C:Old-Time, Bluegrass
+M:4/4
+K:C
+L:1/8
+EF |: "C" GECE GECE | G2 cB c2 EF | GECE GECE | "G" F2 D2 D2 EF |
+"C" GECE GECE | G2 cB c2 cd | egec "G" dfdB |1 "C" c6 EF :|2 "C" c6 cd ||
+|: "C" edef gage | "Dm" dcBc "G" defd | "C" edef gage | "G" dcBA G2 cd |
+"C" edef gage "Dm" dcBc "G" defd | "C" egec "G" dfdB |1 "C" c6 ce :|2 "C" c6 |]
+
+X:111
+T:Soldier's Joy (2)
+K:D
+M:2/4
+L:1/16
+de | "D" fefg a2f2 | "G" edef g2e2 | "D" fefg a2f2 | "A" efec A2de |
+"D" fefg a2f2 | "G" edef g2eg | "D" fafd "A" egec | "D" dBAF D4 ||
+[df][df] | "D" [df]ADF AFDF | A2[df][df] [d2f2]cB | AFDF AFDF | "A" G2[AE][AE] [A2E2]FG |
+"D" AFDF AFDF | A2[df][df] [d2f2]eg | fafd "A" egec | "D" dBAF D4 |]
+
+X:113
+T:Swallow Tail Jig
+M:6/8
+K:E Dorian
+L:1/8
+Q:1/4=88
+uF |: "Em" (GE)E (BE)E | (GE)E (BA)G | "D" (FD)D (AD)D | (dcd) (AGF) |
+"Em" (GE)E (BE)E | (GE)E B2 c | "D" (dcd) (AGF) |1 "Em" (GE)E E2 F :|2 "Em" GEE E2 B ||
+|: "Em" (Bcd) (e2 f) | (e2 f) (edB) | (Bcd) (e2 f) | (edB) "D" d3 |
+"Em" (Bcd) (e2 f) | (e2 f) (edB) | "D" (dcd) (AGF) |1 "Em" GEE E2 B :|2 "Em" GEE E2 |]
+N:Micah Thorpe
+
+X:115
+T:Temperance Reel
+M:4/4
+K:D
+L:1/8
+(dc) | "Em" B2 E2 B2 (Bc) | B2 (Bc) dBAG | "D" F2 D2 A2 (AG) | F (A2 B) A2 (dc) |
+"Em" B2 E2 B2 (Bc) | B2 (Bc) dBAG | "D" ABde fgfe | dB AF "Em" E2 :|
+|: B2 | "Em" B (e2 d) e2 (ed) | Beef gfed | "G" B (d2 B) d2 (dB) | "D" ABde fedB |
+"Em" B (e2 d) e2 (ed) | Beef "G" gfed | "(Em)" B2 (Bc) dcdB | "D" AFDF "Em" E2 :|
+
+X:117
+T:Whiskey Before Breakfast
+C:Old-Time
+M:4/4
+K:C treble
+L:1/8
+"C" (G,A,)C(D C2) C(D | E2) A(E GA)G(E | "F" F2) A(F E2) "C" G(E | "G" DC)D(E DC)A,(F, |
+"C" G,A,)C(D C2) C(D | E2) A(E GA)G(E | "F" F2) A(F "C" EF)G(E |1 "G" DC)D(E "C" C2) CA, :|2 "G" (DC)D(E "C" C2) c(A ||
+|: "C" G2) A2 c2 B(c | de)d(c BA) G2 | "Dm" d2 d(e d2) d(e | "G7" fe)d(c BG)A(B |
+"C" c2) e(c "G" B2) d(B | "F" AG)A(B "C" cA)G(E | "F" F2) A(F "C" E2) G(E |1 "G" DC)D(E "C" C2) cA :|2 "G" (DC)D(E "C" C2) z2 |]
+W: Early one morning when the sun didn't shine
+W: I was walking down the street not feeling too fine
+W: I saw two old men with a bottle between 'em
+W: And this was the song that I heard them singing
+W:
+W: (CHO) Lord preserve us and protect us,
+W: We've been drinking whiskey 'fore breakfast
+W:
+W: Well I stopped by the steps where they were sitting
+W: And I couldn't believe how drunk they were getting
+W: I said "old men, have you been drinking here long?"
+W: They said "just long enough to be singing this song"
+W:
+W: (CHO)
+W:
+W: Well they passed me the bottle and I took a little sip
+W: And it tasted so good that I just couldn't quit
+W: I drank a little more and it wasn't too long
+W: There were three of us there a-singing this song
+W:
+W: (CHO)
+W:
+W: One by one everybody in the town
+W: They all heard our ruckus and they all came down
+W: Soon the streets of the town were ringing
+W: With the sound of the whole town laughing and singing
+
+X:119
+T:Why Does The Sun Shine?
+C:Lou Singer & Hy Zaret, 1959
+M:4/4
+K:G
+L:1/8
+D2 | "G" G2 GG "G" B2 B2 | "G" dddd "G" d2 d2 | "G" G2 G2 "D" A2 A2 | "G" B2 d2 "G" z2 dd |
+w: The sun is a mass of in-can-des-cent gas, a gi-ant nuc-lear fur-nace, Turn-ing
+"G" G2 G2 "D" A2 AA | "Em" d2 d2 "C" c2 cc | "G" BBBG "D" AAAF | " G" G4 "G" z2 e2 |
+w:hy-dro-gen in-to he-li-um at a tem-pera-ture of mill-ions of de-grees.  It's
+"G" d2 B2 "G" G2 e2 | "G" d2 B2 "G" G3 D | "G" G2 G2 "D" A2 A2 | "G" d4 "G" z2 d2 |
+w: hot hot hot, oh no it's not, a place where we could live.  But
+"G" G2 G2 "D" A2 A2 | "Em" B2 B2 "C" c2 c2 | "G" B2 G2 "D" A2 F2 | "G" G4 "G" z2 e2 |
+w: here on Earth there'd be no life with-out the light it gives.  We
+"G" d2 B2 "G" G2 e2 | "G" d2 B2 "G" G3 D | "G" G2 G2 "D" A2 A2 | "G" d4 "G" z2 d2 |
+w: need its heat, we need its light, we need its en-er-gy.  With-
+"G" G2 G2 "D" A2 A2 | "Em" B2 B2 "C" c2 c2 | "G" B2 G2 "D" A2 F2 | "G" G4 "G" z2 |]
+w: out the sun,  with-out a doubt, there,d be no you and me
+W: 2. The moon is a block of solid rock, a quarter million miles away,
+W: Circling the earth just once each month, raising tides along the way.
+W: It has no air; it has no life; no water on its face,
+W: The days are hot, the nights are cold, the moon is a barren place.
+W: Each month it goes from new to full, and then again to new,
+W: But as it goes,  the moon just shows one side to me and you.
+
+X: 122
+T: Post Road To Boston
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:"A"EAAE "Bm"FA"G"Bd|"D"faa^g "D"afdf|"Em"gfed "Bm"(3Bcd ef|"Em"gfed "Bm"BAFD |
+"A"EAAE "Bm"FA"G"Bd|"D"faa^g "D"afdf|"Em"gfed "Bm"Bcde | "A7"(3fga eg "D"fdd2:|
+|:"Bm"BABc "D"defg|"A"aA(3AAA "D"afea|"Bm"bB(3BBB "Bm"bafb|"D"afdf "A7"(3efe dc|
+"Bm"BABc "D"defg|"A"aA(3AAA "D"afea|"Bm"bB(3BBB "Bm"bafe| "A7"(3fga eg "D"fdd2:||
+
+X:123
+T: Swingin' (sic) On A Gate
+M: 2/4
+L: 1/16
+K: G
+|: "G" (vgedB) G2AB | "C" (cAB)(G AG)EG | "G" (DGBd g2) g2 | "D" (fga)(g "D7" fd)ef |
+   "G"  (gedB) G2AB | "C" (cAB)(G AG)EG | "Am" (cAB)(G AG)EG | "D" (DG2)F "G" G2G2 :|
+|: "G" (gfg)(aba)gf | "Em" (gfe)(d B2)AG | "Am" (EA2)(B cBAG) | (EA2)(B "D7" cd)ef |
+   "G" g2(ga ba)(gf | "Em" gf)(ed ed)cB | "Am" (cA)(BG) (AG)(EG) | "D" (DG2)F "G" G2G2 :|
+
+X: 124
+T: Shoes & Stockings
+M: 2/4
+L: 1/16
+K: G
+uD2 |: "G" G2G2 B2B2 | "C" cBc2 "D" d2(D2 | "G" G2)G2 B2B2 | "D" (ABA)(G FD)EF |
+      "G" G2G2 B2B2 | "C" cBc2 "D" d4 | (ded)(c "D7" B)G(AF) |1 "G" G4 (G2D2) :|2 "G" G4 (G2d2) |
+|: "G" g2g2 a2a2 | b2b2 d4 | "Am" c2c2 "G" B2B2 | "D" (AB)c2 d2(g2 |
+"G" g2)g2 a2a2 | b2b2 d4 | "Am" (ced)(c "G" BA)vG(uB |1 "D" AGF2) "G" G2d2 :|2 "D" AGF2) "G" uG2uG2 |
+
+X: 126
+T: Si Bheag Si Mhor
+M: 3/4
+L: 1/8
+C: O'Carolan
+K: D
+Q: 1/4=116
+de |: "D" f3 e d2 | "D7" (d2 e2 d2) | "G" (B4 A2) | "D" (F4 A2) | "G" (BABc d2) | "A" e4 de | "D" (f4 (3efe) | d4 (f2 |
+"G" B4) (e2 | "D" A4) (d2 | "A7" F4 E2) | "D" D4 (f2 | "G" B4) e2 | "A" A4 dc | "D" (d3 edc) | d4 de :|
+|: "D" f3 e d2 | "D7" (edef a2) | "G" (b4 a2) | "D" f4 ed | "A" (e4 a2) | "D" (f4 e2) |
+"G" (d4 B2) | "D" A4 BA | "A7" (F4 E2) | "D" D4 (a2 | "G" B4) (e2 | "A" A4) f2 | "G" (ba)(gf)(ed) | "A7" e4 dc | "D" d3 (edc)  | d4 de :|
+W: From _Irish Fiddle Tunes for Two Violins_,  compiled &
+W: arranged by Deborah Greenblatt

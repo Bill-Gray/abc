@@ -1,0 +1,63 @@
+% Tunes for 2018 October 'As You Like It' performance at The Theatre Project
+
+X: 1
+T: It Was a Lover and His Lass
+C: T. Morley
+K: C
+L: 1/8
+M: 4/4
+G2 | "G" B3 c "G" d2 d2 | "Am" c2 B2 "Am" A2 AB | "C" c2 cd "C" e2 ef | "G" g6 "G" fe |
+M: 2/4
+"D" d2 Bc | \
+M: 4/4
+"D" d6 "D" cB | \
+M: 2/2
+"C/D" c2 A2 | \
+M: 4/4
+"G" G6 "G" d2 | "G" d2 d2 "C/G" e2 d2 |
+"Am" c2 B2 "Am" A2 A2 | "Am" e4 "A" ^c2 A2 | "D" d4 "G" B2 d2 |: "C" g4 "C" e2 c2 | "Am" e2 d2 "Am" c2 B2 |
+"D" d4 "G" B2 G2 | "C" c2 B2 "D" A2 d2 | "G" dc BA "G" G2 g2 | "C" gf ed "C" c2 e2 |
+"Am" ed cB "Am" A2 c2 | "G" B3 B "D" A3 A | \
+M: 2/4
+"G" G2 G2 | \
+M: 4/4
+"D" d4 "G" B4 :|
+
+X: 2
+T: Blow, Blow,  thou winter wind (I)
+C: Arne
+K: E
+L: 1/4
+M: 4/4
+B | "E" A/G/F/E/ "A" c E | "B7" E D z E | "B7" F/G/ A/F/ B, A |
+"E" A G2 F | "Am" E > E E E | "F#" ^A3 A | "B7" B/F/ "E" G/E/ "B7" D/F/ "F#" E/C/ | "B" z4 |
+
+%% transpose -4
+
+X: 3
+T: Blow, Blow,  thou winter wind
+C: Arne
+K: E
+L: 1/4
+M: 4/4
+B | "E" A/G/F/E/ "A" c E | "B7" E D2 "E" E | "B7" F/G/ A/F/ B, A |
+"E" A G2 F | "Am" E E E E | "F#" ^A A "B7" B "E" E | "B7" D2 "F#" C > B, | "B7" B,3 B |
+"C#" B ^E "C#" E G | "C#" B3/2 c//=d// "C#" c B | "F#m" B/A/G/F/ "C#" A/G/F/^E/ | "F#m" F/G/ (A "F#m" A) G/F/ |
+"A" A/G/F/E/ "B" B/A/G/F/ | "E" B2 "A" c "E" E | "B" D "E" E "A" A "E" G | "B" G (F "B" F) B |
+"E" A/G/F/E/ "E" B =D | "A" C c "E" B/<G/ "A" A/<F/ | "E" E2 "B" F2 |
+"E" G/e/d/c/ "B" B/A/G/F/ | "E" G/<E/ "A" c/<A/ "E" G/<B/ "B" D/<F/ | "E" E3 "E" z |]
+
+%% transpose 4
+X: 4
+T: Under the Greenwood Tree
+C: Arne
+K:Eb
+M:6/8
+L: 1/8
+"Eb" B>AG "Ab" c2 "Bb" d | "Eb" e3 "Eb" z2 B | "Ab" cde "Fm" A2 G | "Bb" F3 "Bb" z2 B |
+"Eb" G/A/BB "Eb" B2 B | "Bb" B3 "Bb" z2 B | "Eb" G B2 "Eb" e B2 | "Bb" B2 B "Bb" fdB |
+"Cm" e3 "Bb" d3 | "F" c3 "F" z2 f | "Bb" d/e/ff "Bb" f2 f | "F" f3 "F" =A2 c | "Bb" f3 "Bb" B3 | "F" =A3 "F" z2 f |
+"Bb" df "Bb" z z3 | "Bb" df z "Bb" z2 B | "Eb" eed "F" ccB | "Eb" g3 "Bb" f2 e |
+"Bb" dcB "F" cF=A | "Bb" B B2 "Bb" z3 !fine! | "Bb" z3 "Bb" z3 | "Eb" B>AG "Eb7" B _d2 | "Ab" c>BA "Ab" z2 c |
+"Eb" BGE "Eb7" _D2 D | "Ab" C (A2 "Ab" A3) | "Bb" fdB "F" =Ace | "Bb" dcB "Bb" z2 d | "F" c=AF "F" E2 E |
+"Bb" D B2 "Bb" z3 | "G" d=BG "G" e2d | "Cm" edc "Cm" z2 A | "Ab" A3 "Cm" G3 | "Cm" z3 "Cm" z2 G | "Fm" AGF "G7" =B2 c | "Cm" C3 "Cm" z3 |

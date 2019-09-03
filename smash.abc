@@ -1,0 +1,249 @@
+X:1
+T:Battle of Aughrim
+M:4/4
+L:1/8
+K:G
+"Em" (BA)(GF) (EFG)A | (BAGF) E4 | "D" (AGFA) (d2 A2) | (B2 A2) (B^c d2) |
+"Em" (BA)(GF) (EFG)A | (BAGF) E4 | "D" (AGFA) (d2 A2) | "Em" (F2 E2) E4 :|
+"Em" |: (f2 e2) (e2 d^c) | "D" (B2 A2) (d3 A) | (B2 A2) (d2 A2) | "Em" (B2 A2) "Bm" (Bcde) |
+"Em" (f2 e2) (e2 d^c) | "D" (B2 A2) d3 (B | A)(GF)A (d2 A2) |1 "Em" (F2 E2) (E2 g2) :|2 (F2 E2) "Em" E4 |]
+N:Gabe Payne
+
+X:2
+T:Bonnie Kate
+M:4/4
+L:1/8
+K:D
+dB |: "D" A2 (dA "G" B2) A(F | "D" DF)AF "A" E(A,CE) |
+"D" DF[FA]F "G" GBe(d | "A" cA)Bc "D" (d2 d)(B |
+"D" A2) dA "G" (Bd)(AF) | "D" DF[FA]F "G" (GFE)(F |
+"D" DF)[AF]F "G" GBe(d |1 "A" cA)Bc "D" (d2 d)B :|2 "A" cA)Bc "D" defg |
+|: "D" (a2 f)(d Ad)ef | "G" g>g g(e "A" cd)e(f |
+"A7" g2) (gf g)(bag) | "D" (fgf)e d(efg) |
+(a2 f)(d Ad)ef | "G" (gfe)(d "A" cd)e(f |
+"A7" g2) (gf g)(bag) |1 "D" (fgf)e d(efg) :|2 "D" (fgf)e d4 |]
+N:Katie Swenson;  maybe capoed?
+
+X:3
+T:Oh, The Britches
+K:C
+M:4/4
+L:1/8
+Q:1/4=150
+"C" c3 d e2 c2 | "G" d2 c2 "C" e2 c2 | c3 d e2 c2 | "G" d2 c2 "F" A4 |
+"C" c3 d e2 c2 | "G" d2 c2 "C" e2 g2 | "Am" c3 d c2 A2 | "G" A2 G2 G4 |
+"C" g3 a g2 e2 | "G" d2 c2     d2 e2 | "C" g3 a g2 e2 | "G" d2 c2 "F" A4 |
+"C" g3 a g2 e2 | "G" d2 c2 "Am" d2 e2 | c3 d c2 A2 | "G" A2 G2 G4 |
+N:Annie Swenson, probably capoed
+
+X:4
+T:Cooley's Reel
+M:4/4
+L:1/8
+K:B Aeolian
+Q:1/4=108
+(D2 |: "Em" E)B ({B/c/}BA uB2) EB | {B/c/}B2 (AB) "D" dBAG | (3(FED A)D BDA(D |
+FD)FA dAFD | "Em" EB ({B/c/}BA uB2) EB | {B/c/}B2 (AB) defg | "D" afge dBA(F |
+|1 DE)F(D "Em" EG)FD :|2 DE)FD "Em" E(gfg) |: "Em" eB (3BBB (eB)gB | eB (3BBB (ge)dB |
+"D" A2 (FA) dAFB | ADFA Bcdf | "Em" eB (3BBB (eB)gB | edBc def(g |
+"D" af)ge dBA(F |1 DE)FD "Em" E(gfg) :|2 DE)F(D "Em" EG)FD || E4 |]
+N:Tessa Couture
+
+X:5
+T:Cripple Creek
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+"G" [g2d2Gd] [gd]g d2 B2 | "C" c2 e2 "G" d4 | [g2d2G2] [gd]g d2 B2 | "D" A2 G2 "G" G4 :|
+|: "G" [d2B2] BB "D" A2 G2 | "G" B2 d2 [d4B4] | [d2B2] BB "D" A2 G2 | "D" (DE) [e2B2G2] "G" G4 :|
+
+X:6
+T:Drowsy Maggie
+M:4/4
+L:1/8
+K:E dorian
+Q:1/2=58
+"Em" E2 BE dEBE | {E/F/}E2 (BE) "D" AFED | "Em" E2 (BE) dEBA |1 "Em" ({B/d/}BA)(Bc) "D" dBAF :|
+:|2 "Em" ({B/d/}BA)(Bc) "D" d2 "G" (Bc) |: "D" d2 (fd "A" cd)ec | "D" def(g af)ge | d2 (fd "A" cd)ec |
+    "G" ({B/d/}BA)(Bc) dB"A"A(c | "D" d2) f(d "A" c)dec | "D" def(g af)ge |
+afge fded |1 "G" ({B/d/}BA)(Bc) dB"A"Ac :|2 "G" ({B/d/}BA)(Bc) "D" dBAF || "Em" E4 |]
+N:Annette Kowalik
+
+X:7
+T:Fairy Dance
+M:4/4
+K:D
+L:1/8
+Q:1/8=80
+"D" {fg}f2 (fd) {fg}f2 (fd) | {fg}f2 (fd) "A" cece |
+"D" {fg}f2 (fd) "G" gfed |1 "A" cAB(c "D" d2) de :|2 "A" cABc "D" defg ||
+|: "D" a2 (af) "G (B7)" b2 (ba) | "G (Em)" g2 (ge) "A" a2 (ag) |
+"D" {fg}f2 (fd) "G" gfed |1 "A" cABc "D" defg :|2 "A" cABc "D" d4 |]
+N:Emma Rioux,  probably capoed
+
+X:8
+T:Farewell to Whiskey
+M:4/4
+L:1/8
+K:G
+Q:1/4=100
+"G" D2 G2 B2 AB | "Am" A2 E2 E4 | "G" D2 G2 B2 AG | "Em" d2 B2 (B3 d) |
+"C" efge "G" d2 B2 | "Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G3 E :|2 "G" B2 G2 G2 (Bc) ||
+|: "G" d2 B2 g2 B2 | "Am" cBAG "D" A2 (Bc) | "G" d2 B2 g2 d2 | "C" e2 f2 "G" g2 d2 | "C" efge "G" d2 B2 |
+"Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G2 (Bc) :|2 "G" B2 G2 G2 |]
+N:Conor Hogate
+
+X:9
+T:Greenfields of America
+M:4/4
+L:1/8
+K:A
+Q:1/2=56
+cB |: "A" (ABc)d e2 (3(efg | ag)af e(cAc) | "D" vd2 (fd "A" c2) e(c |
+"E" B2) B(c BA) vF2 | "A" (uaga)(e fg)(af) | e(cBA) "D" (BA) F2 | "A" (vABA)(F EF)A(B |
+|1 "C#m" ce)vc(B "A" A2) cB :|2 "C#m" ce)c(B "A" A2) B(c |: "D" d2) f(d "A" c2) e(c | "E" B2) B(c BA)FG |
+"A" (vABA)(F EF)A(B | cA)c(A "E" B2) B(c | "D" d2) f(d "A" c2) e(c | "E" B2) B(c BA)FE |
+"A" (vABA)(F EF)A(B |1 "C#m" ce)c(B "A" A2) B(c :|2 "C#m" ce)cB "A" A2 A2 |: "E" vB2 (Bc BA)FG |
+"A" ABA(F EF)A2 | "E" B2 B(c BA)FG | "A" AGA(F E2) A(c | \
+M:6/4
+L:1/8
+"E" Bc) B2 "A" uA4 cB :|
+
+X:10
+T:Halting March
+M:4/4
+L:1/8
+K:A aeolian
+E2 | "Am" A2 B/c/d e e2 d | e>d ef ec A2 | "G" G2 Bc d d2 e | dBGB d2 cB |
+"Am" A2 B/c/d e e2 d | e>d ef ec A2 | a g2 e "G" d c2 B |1 "Am" A>B "(G)" AG "(Am)" A2 E2 :|
+:|2 "Am" A>B "(G)" AG "(Am)" A4 |: "Am" a a2 g e d2 e | "G" g>a ge dB G2 | "Am" a a2 g e d2 e |
+"G" g>a ge "(Em)" g a/g/e/g/ | "Am" a a2 g e d2 e | "G" gage "(Em)" dB G2 | "Am" A>B cd e2 dB |
+A>B cd e2 e2 | a a2 g e d2 e | "G" g>a ge dB G2 | "Am" A>B cd "G" e2 dB | "Am" A>B "(G)" AG "(Am)" A4 |]
+
+X:11
+T: The Kesh Jig
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+Q:1/4=140
+|: "G" G2 G GAB | "D" A2 A ABd | "G" edd gdd | "C" edB "D" dBA|
+   "G" G2 G GAB | "D" A2 A ABd | "G" edd gdB |1 "D" AGF "G" uG2 uD :|2 "D" AGF "G" uG2 uA |
+|: "G" vB2 d dBd | "C" ege "G" dBA | B2 d dBG | "D" A2 A AGA |
+   "G" B2 d dBd | "C" ege "G" dBd | g2 g "D" a(ga) |1 "G" bgf ug2 ud :|2 "G" bgf g3 |]
+N:Amanda Saucier
+
+X:15
+T:John Ryan's Polka
+C:Irish
+M:4/4
+K:D
+L:1/8
+|: "D" vd2 d2 "G" B>c d>B | "D" A2 F2 A2 F2 | d2 d2 "G" B>c d>B | "D" A2 F2 "A" E2 D2 |
+"D" d2 d2 "G" B>c d>B | "D "A2 F2 A2 ud>ue | f2 d2 "A" e2 c2 |1 "D" d4 d4 :|2 "D" d4 (ud2 d)>ue :|
+|: "D" f2 d2 d2 ue>uf | "G" g2 f2 "Em" e2 ud>ue | "D" f2 d2 A2 d2 | f2 ud>uf "A" a2 ua>ug |
+   "D" f2 d2 d2 ue>uf | "G" g2 f2 "Em" e2 ud>ue | "D" f2 d2 "A" e2 c2 |1 "D" d4 (ud2 d)>ue :|2 "D" d4 d4 |]
+N:Mary McCarty
+
+X:17
+T:Mason's Apron
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:A treble
+(ueg) |: "A" aA (3AAA (cB)A(F | "(E)" EF)AB "A" c(ABc) |
+"D" dB (3BBB (dc)BA | "E" GABc "E7" defg |
+"A" aA (3AAA (cB)A(F | "(E)" EF)A(B "A" cA)B(c |
+"Bm" dc)d(e "D" fg)af |1 "E" e(cBc) "A" A2 (eg) :|2 "E" e(cBc) "A" A2 (AB) ||
+|: "A" c2 ([ec]c) [fc]c[ec]c | (3ccc ([ec]c) [fc]c[ec]c |
+   "D" d2 ([fd]d) [gd]d[fd]d | (3ddd ([fd]d) "E" [gd]d[fd]d |
+   "A" c2 ([ec]c) [fc]c[ec]c | (3ccc ([ec]c) [fc]c[ec](c |
+"Bm" dc)d(e "D" fg)af |1 "E" e(cBc) "A" A2 (ed) :|2 "E" e(cBc) "A" A2 |]
+N:Gabe Payne
+
+X:25
+T:Morrison's Jig
+M:6/8
+K:D
+L:1/8
+|: "Em" E3 BEB | EBE "D" AFD | "Em" E3 uB2 uc | "D" dcB AFD |
+   "Em" E3 BEB | EBE "D" AFD | "G" G2 vG "D" FGA | dAG FED :|
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" va2 vg "D" fed |
+"Em" Bee fee | bee "D" uf2 uf | "G" gfe "D" d2 (A | "G" B)AG "D" FED |
+"Em" Bee fee | bee "D" fed | "Em" Bee fee | "D" (f/g/a)f def |
+"G" vg2 vg gfe | def ug2 ud | "C "edc "G" ud2 uA | "G" BAG "D" FED |] "Em" E6 |]
+N:Andre Quirion
+
+X:27
+T:Salt Creek
+Q:1/4=160
+M:4/4
+K:C
+L:1/8
+E2 |: "G" G2 GG G2 GG | AGAB "C" c4 | "F" AG F2 AG F2 | AG F2 "D" D2 (E2 |
+"G" G2) GG G2 GG | AGAB "C" c3 ue | "F" vfgfe "Dm" dcBc | "D" dc A2 "G" G2 z2 :|
+|: "G" [g2d2G2] [gdG][gd] [g2d2G2] [gdG]e | beae gede | "F" fgfe "Dm" defe | "F" fgfe "Dm" dc B2 |
+"G" [g2d2G2] [gdG][gd] [g2d2G2] [gdG]e | beae gede | "F" fgfe "Dm" dcBc | "D" dc A2 "G" G4 :|
+
+X:29
+T:Roxborough Castle
+M:4/4
+K:A
+L:1/8
+E2 |: "A" A2 (Ac) ecAc | "D" dcdf "A" ecAc | "D" dfdf "A" cecA | "E" BGEG "E" BdcB |
+"A" A2 (Ac) ecAc | "D" dcdf "A" edcB | "D" Aagf "E" edcB |1 "A" A2 a2 A2 E2 :|2
+"A" A2 a2 A2 (eg) || "A" aece fece | aece {fg}fece | "D" d2 fd "A" c2 ec |
+"B" BABc "E" B2 (eg) | "A" aece fece | aece fece | "D" d2 fd "A" c2 ec |
+"E" BABc "A" A2 (eg) || "A" aece fece | aece fece | "D" d2 fd "A" c2 ec |
+"B" BABc "E" BdcB | "A" A2 (Ac) ecAc | "D "dcdf "A" edcB | "D" Aagf "E" edcB | "A" A2 a2 A2 |]
+N:Alex Sasuclark
+
+X:31
+T:Smash The Windows
+M:6/8
+L:1/8
+R:jig
+K:Dmaj
+|: "D" D(ED) F2A | d2f "A" e(cA) | "G" G2B "D" F2A | "A" E2F "A7" G(FE) |
+"D" D(ED) F2A | d2f "A" e(cA) | "G" Bgf "A" edc |1 "D" d3 d3 :|2 "D" d3 ud2 uf |
+|: "D" a2f d2e | f2g a(gf) | "A" g2e c2d | e2f g(fe) |
+|1 "D" a2f d2e | f2g a(gf) | "A" g2e c(de) | "D" d3 ud2 uf :|
+:|2 "D" f2 d "A" g2 e | "D" a2 e "G" b2 g | "D" fed "A" cde | "D" d3 d3 |]
+N:Sarah Finnemore
+
+X:33
+T:Swallow Tail Jig
+M:6/8
+K:E Dorian
+C:Guitar: strum, strum, ...
+L:1/8
+Q:1/4=88
+uF |: "Em" (GE)E (BE)E | (GE)E (BA)G | "D" (FD)D (AD)D | (dcd) (AGF) |
+"Em" (GE)E (BE)E | (GE)E B2 c | "D" (dcd) (AGF) |1 "Em" (GE)E E2 F :|2 "Em" GEE E3 ||
+|: "Em" (Bcd) (e2 f) | (e2 f) (edB) | (Bcd) (e2 f) | (edB) "D" d3 |
+"Em" (Bcd) (e2 f) | (e2 f) (edB) | "D" (dcd) (AGF) |1 "Em" GEE E3 :|2 "Em" GEE E2 |]
+N:Micah Thorpe
+
+X:35
+T:L'Internationale
+M:4/4
+L:1/8
+K:G
+D | "G" G3 F AGDB, | "C" E4 C3 E | "D" A3 G FEDC | "G" B,4 z2 "D7" D2 |
+w:De-bout! les dam-nes de la ter-re! De-bout! les for-cat; de lat faim!  La
+"G" G3 F AGDB, | "C" E4 "Am" C2 AG | "D7" F2 A2 c2 F2 | "G" G4 z2 BA |
+w:rai-son tonne en son cra-te-re: C'est l'e-rup-tion de la fin.  Du pas-
+"D" F4 "A" EFGE | "D" F4 D2 ^CD | "A" E3 A, A3 G | "D" F4 z2 z A |
+w:se fai-sons ta-ble ra-se; Foule es-clave, de-bout! de-bout!  Le
+A3 F DD^CD | "Em" B4 GGFE | "D" F2 A2 "A7" G2 E2 | "D7" D2 z2 z2 BA |
+w:mon-de va chan-ger de ba-se; Nous ne som-mes rien, so-yons tout!  C'est la
+"G" G4 D3 B, | "C" E4 C2 AG | "D" F4 E3 D | "G" B4 z2 B2 |
+w:lut-te fi-na-le: Grou-pons-nous, et de-main,  L'In
+B4 "D" A3 D | "Em" G4 "Bm7" F3 F | "C" E3 ^D "A" E2 A2 | "D" A4 z2 BA |
+w:ter-na-tio-na-le se-ra le genre hu-main.  C'est la
+"G" G4 D3 B, | "C" E4 C2 AG | "D" F4 E3 D | "G" B4 z2 B2 |
+w:lut-te fi-na-le; Grou-pons-nous, et de-main,  L'In
+"E7" d4 c2 B2 | "Am" (A^GAB) c2 z c | "G" B3 G "D7" A3 F | "G" G4 z4 |]
+w:ter-na-tio-na----le se-ra le genre hu-main.
