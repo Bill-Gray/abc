@@ -269,17 +269,6 @@ Ac |: "D" d3 c BA | "D/F#" F4 EF | "G" G3 F ED | "Em" B,2 D3 B, |
 "A7" A4 FE | "D" D2 F2 A2 | "C" =c6 | "G" B3 c d2 |
 "D" A2 F2 D2 | A,2 D2 F2 | "Bm" A2 d2 F2 | "A7" E3 D C2 | "D" D6 |
 
-X:43
-T:Fairy Dance
-M:4/4
-K:D
-L:1/8
-Q:1/8=80
-"D" {fg}f2 (fd) {fg}f2 (fd) | {fg}f2 (fd) "A" cece |
-"D" {fg}f2 (fd) "G" gfed |1 "A" cAB(c "D" d2) de :|2 "A" cABc "D" defg ||
-|: "D" a2 (af) "G (B7)" b2 (ba) | "G (Em)" g2 (ge) "A" a2 (ag) |
-"D" {fg}f2 (fd) "G" gfed |1 "A" cABc "D" defg :|2 "A" cABc "D" d4 |]
-
 X:53
 T:Flowers of Edinburgh
 C:Scottish
