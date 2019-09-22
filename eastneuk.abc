@@ -319,7 +319,7 @@ Q:1/4=100
 "G" D2 G2 B2 AB | "Am" A2 E2 E4 | "G" D2 G2 B2 AG | "Em" d2 B2 (B3 d) |
 "C" efge "G" d2 B2 | "Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G3 E :|2 "G" B2 G2 G2 (Bc) ||
 |: "G" d2 B2 g2 B2 | "Am" cBAG "D" A2 (Bc) | "G" d2 B2 g2 d2 | "C" e2 f2 "G" g2 d2 | "C" efge "G" d2 B2 |
-"Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G2 (Bc) :|2 "G" B2 G2 G2 |]
+"Am" cBAG "D" A2 B2 | "G" D2 G2 "D" BAGA |1 "G" B2 G2 G2 (Bc) :|2 "G" B2 G2 G4 |]
 N:Conor Hogate
 
 X:47
@@ -728,7 +728,7 @@ z D | "G" DG GA | "C" (c/B/)(A/G/) "G" (B/c/)d | "C" eA "A" AG | "D" (G/F/)(E/D/
 "G" d2 "C" e2 | "G" dB "Am" (c/B/)(A/G/) | "D" (A/G/)(F/E/) D(E/F/) | "G" G>G "D" (A/G/)(A/F/) | "G" (G2 G)(d/c/) || "G" Bd "(Bm)" d(e/f/) |
 "G" gG (B/c/)d | gG (B/c/)d | "C" (e/d/)(c/B/) "D" A>c | "G" (B/A/)(B/c/) dB | "C" ec "G" dB |
 "Am" cA "G" dG | "D" FD D(G/F/) | "C" EC C>(D | E)C C>(E | "D" F)D D(A/G/) |
-(F/G/)(E/F/) D(B/c/) | "G" (d/B/G/B/) "C" (e/d/)(c/B/) | "Am" (c/B/)(A/G/) "D" (F/G/)(A/F/) | "G" DG "D" (A/G/)(A/F/) | "G" G2 |]
+(F/G/)(F/E/) D(B/c/) | "G" (d/B/G/B/) "C" (e/d/)(c/B/) | "Am" (c/B/)(A/G/) "D" (F/G/)(A/F/) | "G" DG "D" (A/G/)(A/F/) | "G" G2 |]
 
 X:89
 T:Morrison's Jig
