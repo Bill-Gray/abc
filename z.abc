@@ -95,18 +95,6 @@ L:1/8
 %|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | (ed)cd e2 ee |
 %   "Am" A2 AA c2 cc | "Dm" d2 dd e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
 
-X: 33
-T:The Brown Cow (Miss McCleod's Reel)
-C:Scottish reel
-M:4/4
-K:Gmaj
-L:1/8
-|: "G" vG2 g2 edeg | B2 (BA) B2 (BA) | G2 g2 edeg | "D" A2 (AG) A2 (BA) |
-"G" G2 g2 edeg | B2 (BA) B2 (Bd) | "C" e2 e2 edef | gedB "D" A2 (BA) :|
-"G" G2 BG dGBG | B2 (BA) B2 (BA) | G2 BG dGBG | "D" A2 (AG) A2 (BA) |
-"G" G2 BG dGBG | B2 (BA) B2 (Bd) | "C" e2 e2 edef | gedB "D" A2 (BA) :|
-W:Add 'A' chord at end
-
 X: 35
 T:John Campbell's Trip to Port Townsend
 C:Mike Richardson
@@ -118,4 +106,3 @@ L:1/8
 K:Cmaj
 |: "Dm" D2 FA d3 e | dcAG FDA,D | "C" C2 EG cBcd | cAGF EDCE |
 "Dm" D2 FA d3 e | dcAG FDA,D | "C" CDEG cAGC | EDCE "Dm" D3 C :|
-
