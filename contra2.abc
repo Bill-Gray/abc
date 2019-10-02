@@ -145,16 +145,3 @@ K:D
 L:1/8
 |: "D" ABde fd f2 | "A" uee ce Aece | "D" ABde fd f2 | "A7" ugece "D" d2 d2 :|
 |: "D" vfg vfe fgaf | "A7" gf ec efge | "D" fg fue fgaf | "A7" gece "D" d2 d2 :|
-
-% Copied directly from eastneuk.abc
-X: 59
-T: Spootiskerry
-M:C|
-K:G
-L:1/8
-uDE | "G" vG2 (DE) GDEG | DEGA "D6" B2 (AB) | "G" G2 (DE) "Em" GABd | "Am7" eged "D6" Bd AB |
-"G" G2 (DE) GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 :|
-ef | "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 ef |
-"Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G/D" GABd "D" eged | "G" B2 "C" G2 "G" G2 ef ||
-     "Em" g2 ed ed B2 | "G7" BABG "C" E2 DE | "G" GABd "Em" eged | "Am" B2 A2 "D7" A2 DE |
-"G" G2  DE GDEG | "G/B" DEGA "Em" B2 A2 | "Am7" gg ed "D7" edBA | "G" B2 "C" G2 "G" G2 |]
