@@ -25,20 +25,9 @@ L:1/8
 |: "D" d3 d d2 e2 | d2 c2 B2 A2 | d3 d d2 e2 | d2 e2 f2 e2 |
 d3 d d2 e2 | d2 c2 B2 A2 | "G" B3 B B2 A2 | "A" B2 c2 "D" d4 :|
 
-% White Cockade & Soldier's Joy are from "Mellie" Dunham's Fiddlin' (sic) Dance Tunes
-% chords from Fiddler's Fake Book
-
-X: 67
-T: White Cockade
-K: G
-M: 2/4
-L: 1/16
-(uGA) | "G" vB2B2 B2(AG) | d2B2 B2g2 | .d2(Bd) cBAG | "D" FGAB A2(GA) | "G" B2B2 B2(AG) |
-B2d2 g3a | .b.a.g.f "C" .e.g.f.e | "G" d2B2B2 :][: uBc | vd2B2 g2B2 | d2B2 B2(Bc) |
-d2B2 g2fg | "D" a2A2 A2(GA) | "G" B2B2 B2(AG) | B2d2 g3a | bagf "C" egfe | "G" dBB H :|
-
 % ...and a simplified version for contra dance.  Only change is that
 % there are no repeats;  first endings have been zapped.
+% I think the 'contra3.abc' version (q.v.) is the one that ought to be used.
 X: 15
 T: Bonaparte Crossing The Rhine (Eastwards)
 M: 4/4
