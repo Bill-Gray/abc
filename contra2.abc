@@ -13,32 +13,6 @@ L:1/8
 "G" G2 BG dGBG | B2 (BA) B2 (Bd) | "C" e2 e2 edef | gedB "D" A2 (BA) :|
 W:Add 'A' chord at end
 
-X: 33
-T:The Brown Cow (Miss McCleod's Reel)
-C:Scottish reel
-M:4/4
-K:Gmaj
-L:1/8
-|: "G" vG2 g2 edeg | B2 (BA) B2 (BA) | G2 g2 edeg | "D" A2 (AG) A2 (BA) |
-"G" G2 g2 edeg | B2 (BA) B2 (Bd) | "C" e2 e2 edef | gedB "D" A2 (BA) :|
-"G" G2 BG dGBG | B2 (BA) B2 (BA) | G2 BG dGBG | "D" A2 (AG) A2 (BA) |
-"G" G2 BG dGBG | B2 (BA) B2 (Bd) | "C" e2 e2 edef | gedB "D" A2 (BA) :|
-W:Add 'A' chord at end
-
-% 2013 Jun 13: corrected fourth note to G
-X: 31
-T: Cold Frosty Morning
-M: 4/4
-K: G
-L: 1/8
-|: "Am" (ED)EG A2 AA | (AB)cd e2 AA | "G" B3 A G2 D2 | (GA)Bc d2 DD |
-   "Am" (ED)EG A2 AA | (AB)cd e2 dd | (cB)Ac "G" (BAGB) | "Am" A2 AA A2 AA :|
-|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | "Am" (ed)cd "E7" e2 ee |
-   "Am" A2 AA "F" c2 cc | "Dm" d2 dd "Em" e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
-% Above B-section chords from Seth Berry;  following originals from FFB?:
-%|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | (ed)cd e2 ee |
-%   "Am" A2 AA c2 cc | "Dm" d2 dd e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
-
 % Finnegan's Wake from Jones/Ciembroniewicz.  See 'eastneuk.abc' for Bill
 % and Kate versions.
 X: 23
