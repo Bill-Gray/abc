@@ -181,17 +181,6 @@ uD |: "G" vG > F G B | d3 B | "C" c e g e | "G" d3 B |
 "G" d2 B2 | z d e d | "D7" d2 A2 |1 z d e d |
  "G" d2 B2 | z2 vg uf :|2 z c B A | "G" G4 | z2 z |]
 
-% From Fiddler's Philharmonic; many alterations by Kate
-X: 47
-T: Road to Boston
-M:4/4
-L:1/4
-K: G
-|: uA | "G" vB3 (A/B/) | "C" c B A G | "D" F G A B | "G" G D B, D |
-        "G"  B3 (A/B/) | "C" c B A G | "D" F G A B | "G" G3 :|
-|: (uB/c/) | "G" vd3 (^c/d/) | "C" e d =c B | "Am" c3 (B/c/) | "D" d c B A |
-         "G" B3 (A/B/) | "C" c B A G | "D" F G A B | "G" G3 :|
-
 % Various revisions by Kate
 X: 51
 T: Skye Boat Song
