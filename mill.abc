@@ -81,32 +81,6 @@ ue2 |: "A" ceef a2 (ae) | "D" f2 (fe) "A" a2 (ae) | ceef a2 (ae) | "D" fa "A" ec
 |: "A" c2 (ec) "D" defd | "A" c2 (ec) "E7" BcdB | "A" c2 (ec) "D" defg | af "A" ec "E7" B2 "A" A2 :|
 W: For 2013 Jun 22: don't play pickup note
 
-% 2013 Jun 13: corrected fourth note to G
-X: 31
-T: Cold Frosty Morning
-M: 4/4
-K: G
-L: 1/8
-|: "Am" (ED)EG A2 AA | (AB)cd e2 AA | "G" B3 A G2 D2 | (GA)Bc d2 DD |
-   "Am" (ED)EG A2 AA | (AB)cd e2 dd | (cB)Ac "G" (BAGB) | "Am" A2 AA A2 AA :|
-|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | "Am" (ed)cd "E7" e2 ee |
-   "Am" A2 AA "F" c2 cc | "Dm" d2 dd "Em" e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
-% Above B-section chords from Seth Berry;  following originals from FFB?:
-%|: "Am" (e2 a2) a4 | (ab)ag e2 ee | "G" (ed)ef g2 gg | (ed)cd e2 ee |
-%   "Am" A2 AA c2 cc | "Dm" d2 dd e2 dd | "Am" (cB)Ac "G" (BA)GB | "Am" A2 AA A2 AA :|
-
-X: 33
-T: The Brown Cow (Miss McCleod's Reel)
-C: Scottish reel
-M: C|
-K: A
-L: 1/8
-|: "A" vA2 a2 fefa | c2 u(cB) c2 u(cB) | A2 a2 fefa | "E" B2 u(BA) B2 u(cB) |
-"A" A2 a2 fefa | c2  (cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
-"A" A2 cA eAcA | c2 u(cB) c2 u(cB) | A2 cA eAcA | "E" B2 u(BA) B2 u(cB) |
-"A" A2 cA eAcA | c2 u(cB) c2 u(ce) | "D" f2 f2 fefg | afec "E" B2 u(cB) :|
-W: Add 'A' chord at end
-
 X: 35
 T: John Campbell's Trip to Port Townsend
 C: Mike Richardson
