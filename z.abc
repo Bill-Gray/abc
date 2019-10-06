@@ -67,20 +67,6 @@ L:1/8
 |: "C" c3 c c2 d2 | c2 B2 A2 G2 | c3 c c2 d2 | c2 d2 e2 d2 |
 c3 c c2 d2 | c2 B2 A2 G2 | "F" A3 A A2 G2 | "G" A2 B2 "C" c4 :|
 
-% 2013 Jun 13: corrected pickup note,  added bar on last line
-X: 27
-T:The High Road to Linton
-C:Not from Portland Collection
-M:4/4
-K:Gmaj
-L:1/8
-Q:1/4=160
-ud2 |: "G" Bdde g2 (gd) | "C" e2 (ed) "G" g2 (gd) | Bdde g2 (gd) | "C" eg "G" dB "D7" A2 "G" G2 :|
-|: "G7" Bdd=f "C" ecce | "G" dBBd "D7" eAAc | "G7" Bdd=f "C" ecce | "G" dBgB "D7" A2 "G" G2 :|
-|: "G" g2 g2 de g2 | (de) gd "C" eg "G" de | "G" g2 g2 degd | "C" eg "G" dB "D7" A2 "G" G2 :|
-|: "G" B2 (dB) "C" cdec | "G" B2 (dB) "D7" ABcA | "G" B2 (dB) "C" cdef | ge "G" dB "D7" A2 "G" G2 :|
-W:For 2013 Jun 22: don't play pickup note
-
 % 2013 Jun 13: corrected fourth note to G
 X: 31
 T:Cold Frosty Morning

@@ -1,18 +1,3 @@
-
-% 2013 Jun 13: corrected pickup note,  added bar on last line
-% 2014 Nov 18: xposed to G
-X: 8
-T:The High Road to Linton
-C:Not from Portland Collection
-M:4/4
-K:Gmaj
-L:1/8
-Q:1/4=160
-ud2 |: "G" Bdde g2 (gd) | "C" e2 (ed) "G" g2 (gd) | Bdde g2 (gd) | "C" eg "G" dB "D7" A2 "G" G2 :|
-|: "G7" Bdd=f "C" ecce | "G" dBBd "D7" eAAc | "G7" Bdd=f "C" ecce | "G" dBgB "D7" A2 "G" G2 :|
-|: "G" g2 g2 de g2 | (de) gd "C" eg "G" de | "G" g2 g2 degd | "C" eg "G" dB "D7" A2 "G" G2 :|
-|: "G" B2 (dB) "C" cdec | "G" B2 (dB) "D7" ABcA | "G" B2 (dB) "C" cdef | ge "G" dB "D7" A2 "G" G2 :|
-
 X: 9
 T: Mouth of Tobique
 M: 4/4
