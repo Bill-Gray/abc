@@ -79,7 +79,7 @@ C: Scottish
 M: 4/4
 K: Eb
 V: 1 clef=treble
-%% %% transpose -1
+%% transpose -1
 L: 1/8
 (3(uB,CD |: "Eb" E2) G4 (3(BGE | "Bb" D2) F4 (3(FED | "Ab" A,2) [c4E4] (de) | "Bb" (=ABcB) (_AG)(AF) |
 "Eb" [E2G,2] ([B4E4] c2) | "Ab" [E2A,2] [c4E4] (de) | "Bb" D2 ((3DEF AF)DF |1 "Eb" E2 G2 E2 ((3B,CD :|2 "Eb" E2 G2 E2 u(g/a/g/f/) |]
@@ -1043,3 +1043,19 @@ de |: "D" f3 e d2 | "D7" (d2 e2 d2) | "G" (B4 A2) | "D" (F4 A2) | "G" (BABc d2) 
 "G" (d4 B2) | "D" A4 BA | "A7" (F4 E2) | "D" D4 (a2 | "G" B4) (e2 | "A" A4) f2 | "G" (ba)(gf)(ed) | "A7" e4 dc | "D" d3 (edc)  | d4 de :|
 W: From _Irish Fiddle Tunes for Two Violins_,  compiled &
 W: arranged by Deborah Greenblatt
+
+%% transpose -2
+X: 129
+T: Waltz for David & Melissa
+M: 3/4
+L: 1/8
+C: Don Roy
+K: A
+Q: 1/4=116
+(cd) | "A" e2 (a2 g2) | "D" (3(fgf) (A3 c) | "E7" B2 (g2 f2) | "A" (3(efe) (A3 G) | "D" (F2 A2 d2) | "A" (E2 A2 c2) |
+"Bm7" D3 F BA | "Bm7" A2 "E" (G3 E) | "A" A2 (a2 g2) | "D" (3(fgf) (A3 c) | "E" B2 (g2 f2) | "A" (3(efe) (A3 G) | "D" (F2 A2 d2) |
+"A" (E2 A2 c2) | "E7" B3 A G2 | "F#m" (A4 "A7" AG) | "D" F2 (A3 d) | d2 (3(cdc) B2 | "A" E2 A3 d | c2 (3(BcB) A2 |
+"E7" E2 G2 B2 | E2 B2 G2 | "F#m" F2 A3 c | "A7" c2 d2 e2 | "Bm7" f2 (d3 B) | "E7" d2 (3(cdc) B2 | "A" A2 (E3 d) |
+"F#m" c2 (3(BcB) A2 | "Bm7" B2 (F3 E) | "E7" D3 C B,2 | "A" (A,6 | A,2) z2 z2 |]
+
+%% transpose 0
