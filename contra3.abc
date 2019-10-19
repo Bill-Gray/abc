@@ -485,7 +485,18 @@ K: G
 |: "Em" (e2 f) (g2 a) | .bz(B, !>!C2 .B,) | (e2 f) (g2 a) | "B7" bc'b a!2!gf | "Em" (e2 f) (g2 a) |
 "Em" .bz(B, !>!C2 .B,) | "B7" bc'b a!2!gf |1 "Em" e2 z e3 :|2 "Em" e2 z !>!f3 |]
 
-X: 111
+X: 113
+T: Roundy's Contra Dance I-3
+C: A. F. Roundy
+M: 6/8
+L: 1/8
+K: D
+|: "D" (!2!f!1!^e!1!f)      (!tenuto!d2 !tenuto!d) | "G" (gfg) "Em" (!tenuto!e2 !tenuto!e) | "D" fga def | "Em" eBB "A" cde |
+   "D" (!2!f!1!^e!1!f) "Bm" (!tenuto!d2 !tenuto!d) | "G" (gfg) "Em" (!tenuto!e2 !tenuto!e) | bef "A7" afe | "D" d2 z d2 z :|
+|: "Em" (!tenuto!B2 !tenuto!e) (!tenuto!B2 !tenuto!e) | "G" g6 | "D" (!tenuto!A2 !tenuto!d) (!tenuto!A2 !tenuto!d) | "Bm" f6 |
+"Em" (!tenuto!B2 !tenuto!e) (!tenuto!B2 !tenuto!e) | "G" (!tenuto!g2 !tenuto!a) b2 z | "A" a^ga "A7" =gfe | "D" d2 z d2 z :|
+
+X: 116
 T: Cock O' The North
 R: jig
 M: 6/8
@@ -499,7 +510,7 @@ M: 6/8
 |: "D" d2 A "G?" B2 A | "D" d2 A "G?" B2 A | "D" F2 F FED | "A" E2 E EFA |
 "D" d2 A "G?" B2 A | "D" d2 A "G?" B2 A | "D" F2 F "A" EFE | "D" DFE D3 :|
 
-X: 112
+X: 119
 T: Mairi's Wedding
 N: AKA the Lewis Bridal Song
 C: Trad. Scotland (1908)
@@ -516,7 +527,7 @@ K: G
  "G"d3B d3e | d2c2 B3c/B/ | "C"A2G2 E2C2 | "D" D4 D4 :|
 
 %% transpose 5
-X: 113
+X: 122
 T: A Red, Red Rose
 C: W : Robert Burns
 M: 4/4
