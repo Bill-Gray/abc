@@ -89,9 +89,9 @@ T: Silent Night (melody)
 M:3/4
 K:D
 L:1/4
-!p!(A > B A) | F3 | (A > B A) | F3 | (e2 .e) | c3 | (d2 d) | A3 |
+"G" !p!(A > B A) | F3 | (A > B A) |  F3 | "D7" (e2 .e) | c3 | "G" (d2 d) | A3 |
 w: Si - lent night, Ho - ly night, All is calm,  All is bright,
-!mp!(B2 B) | (d > c B) | (A > B A) | F3 | !mf!(B2 B) | (d > c B) |(A > B A) | F3 |
+"C" !mp!(B2 B) | (d > c B) | "G" (A > B A) | F3 | "C" !mf!(B2 B) | (d > c B) | "G" (A > B A) | F3 |
 w: Round yon vir - gin mo-ther and child, Ho-ly in-fant so ten-der and mild;
-(e2 e) | (g > e c) | d3 | f3 | (d A F) | (!mp!A > G E) | D3 | D3 |]
+"D7" (e2 e) | (g > e c) | "Em" d3 | "C#m7-5" f3 | "G" (d A F) | "D7" (!mp!A > G E) | "G" D3 | D3 |]
 w: Sleep in hea-ven-ly peace, - Sle-ep in hea-ven-ly peace. -
