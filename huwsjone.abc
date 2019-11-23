@@ -10,7 +10,7 @@ D3 | D3 | D3 | D3 | A3 | A3 | D3 | D3 |
 G,3 | G,3 | D3 | D3 | G,3 | G,3 | D3 | D3 |
 A3 | A3 | D3 | D3 | A3 | A3 | D3 | D3 |]
 
-X: 2
+X: 4
 T: Away In A Manger
 C: For violin, flute, and other C instruments
 M:3/4
@@ -20,9 +20,27 @@ z | "_pizzicato" D D A | D D A | D D D | E z2 |
 E E E | D D D | E E E | A z2 | D D A | D D A |
 D D D | E z2 | E E E | D D D | E E A | D z |]
 
+X: 7
+T: I saw three ships
+C: Arr. Edward Huws-Jones
+M: 3/4
+K: D
+L: 1/4
+Q: 1/4=200
+z | D3 | E3 | F3 | G3 | A3 | B3 |
+w: I saw three ships come sail-
+c3 | A3 | D3 | E3 | F3 | G3 |
+w: ing in, On Christ- mas day,
+A3 | B3 | c3 | d2 z | D3 | E3 |
+w: On Christ- mas day; I saw
+F3 | G3 | A3 | B3 | c3 | A3 | D3 |
+w: three ships come sail- ing in, On
+E3 | F3 | G3 | A3 | B3 | c3  | c2|]
+w: Christ- mas day in the morn- ing.
+
 %% transpose 2
 %% header
-X: 3
+X: 10
 T: Silent Night (for Bb)
 C: For clarinet, trumpet, and other Bb instruments
 M:3/4
@@ -32,7 +50,7 @@ D3 | D3 | D3 | D3 | A3 | A3 | D3 | D3 |
 G3 | G3 | D3 | D3 | G3 | G3 | D3 | D3 |
 A3 | A3 | D3 | D3 | A3 | A3 | D3 | D3 |]
 
-X: 4
+X: 13
 T: Away In A Manger (for Bb)
 C: For clarinet, trumpet, and other Bb instruments
 M:3/4
@@ -44,7 +62,7 @@ D D D | E z2 | E E E | D D D | E E A | D z |]
 
 %% transpose 9
 %% header
-X: 5
+X: 16
 T: Silent Night
 C: For alto sax & other Eb instruments
 M:3/4
@@ -54,7 +72,7 @@ D3 | D3 | D3 | D3 | A,3 | A,3 | D3 | D3 |
 G3 | G3 | D3 | D3 | G3 | G3 | D3 | D3 |
 A,3 | A,3 | D3 | D3 | A,3 | A,3 | D3 | D3 |]
 
-X: 6
+X: 19
 T: Away In A Manger
 C: For alto sax & other Eb instruments
 M:3/4
@@ -66,11 +84,14 @@ D D D | E z2 | E E E | D D D | E E A, | D z |]
 
 %% transpose 0
 %% header
-X: 7
+X: 22
 T: Silent Night (melody)
 M:3/4
 K:D
 L:1/4
 !p!(A > B A) | F3 | (A > B A) | F3 | (e2 .e) | c3 | (d2 d) | A3 |
+w: Si - lent night, Ho - ly night, All is calm,  All is bright,
 !mp!(B2 B) | (d > c B) | (A > B A) | F3 | !mf!(B2 B) | (d > c B) |(A > B A) | F3 |
+w: Round yon vir - gin mo-ther and child, Ho-ly in-fant so ten-der and mild;
 (e2 e) | (g > e c) | d3 | f3 | (d A F) | (!mp!A > G E) | D3 | D3 |]
+w: Sleep in hea-ven-ly peace, - Sle-ep in hea-ven-ly peace. -
