@@ -82,7 +82,58 @@ z | D D A, | D D A, | D D D | E z2 |
 E E E | D D D | E E E | A, z2 | D D A, | D D A, |
 D D D | E z2 | E E E | D D D | E E A, | D z |]
 
-%% transpose 5
+%% transpose 0
+
+X: 25
+T: Lo, How a Rose E'er Blooming
+C: Traditional; Arr. by Dan Fox
+K: G
+M: C|
+L: 1/4
+"G" [d2G2] "D7" [dF] "G" [dG] | "C" [eG] "G" [dG] "D" [d2(G] F) | "Em" [B2E] "C" [c2E2] | "G" [BF] "Am" [A2E2C2] "G" ([D(B,(G] | \
+w: Lo, how a rose e'er bloom - ing From ten-der stem
+M: 6/4
+[G)B,)D)] "D7" [FDC] "G" [D2B,2(G2] "G" G2) |
+w: - hath sprung. -
+M: C|
+"G" [d2G2] "D7" [dF] "G" [dG] | "C" [eG] "G" [dG] "D" [d2(G] F) | "Em" [B2E2] "C" [c2E2] | "G" [BD] "Am" [A2EC] [FC] "G" [EB,(G] |
+w: Of Jes-se's lin-eage com - ing, As men of - old-
+M: 6/4
+"D" [CG)] [FDC] "G" [B,2D2(G2] "G" G2) | \
+w: - have sung, -
+M: C|
+"Em" G "Bm" [BF] "Am" [AG] "D7" [FD] | "Em" ([G/E/]D/) "A" [E^C] "D" D2 | "G" G2 d "D7" [dF] "G" [dG] |
+w: - It came a flow-er-et bright - A-mid the
+"C" [eG] "D7" [dF] "G" [d2(G] D) | "E" [B2E2] "C" [c2C2] | "G" [BD] "Am" [A2E(C] "D7" [C)F] "Em" [B,E(G] | "NC" [G)AC] "D7" [FDB,] "G" [G2D2C2]
+w: cold of win - ter, when half spent - was - the night.
+W: Intro starts at 'when half spent...' Kate notes: 'better in C'.
+
+% Simplified chords for use with violin/guitar combo
+X: 26
+T: Lo, How a Rose E'er Blooming
+C: Traditional; Arr. by Dan Fox
+K: G
+M: C|
+L: 1/4
+"G" [d2G2] "G" [dF] [dG] | "C" [eG] [dG] "G" [d2(G] F) | "Em" [B2E] "C" [c2E2] | "G" [BF] [A2E2C2] "Am" ([D(B,(G] | \
+w: Lo, how a rose e'er bloom - ing From ten-der stem
+M: 6/4
+"D" [G)B,)D)] [FDC] "G" [D2B,2(G2] "G" G2) |
+w: - hath sprung. -
+M: C|
+"G" [d2G2] "G" [dF] [dG] | "C" [eG] [dG] "G" [d2(G] F) | "Em" [B2E2] "C" [c2E2] | "G" [BD] [A2EC] "Am" [FC] [EB,(G] |
+w: Of Jes-se's lin-eage com - ing, As men of - old-
+M: 6/4
+"D" [CG)] [FDC] "G" [B,2D2(G2] "G" G2) | \
+w: - have sung, -
+M: C|
+"NC" G "NC" [BF] "Am" [AG] "Em" [FD] | "D" ([G/E/]D/) [E^C] "D" D2 | "G" G2 d "C" [dF] [dG] |
+w: - It came a flow-er-et bright - A-mid the
+"C" [eG] [dF] "G" [d2(G] D) | "E" [B2E2] "C" [c2C2] | "G" [BD] [A2E(C] "Am" [C)F] [B,E(G] | "D" [G)AC] "G" [FDB,] "G" [G2D2C2]
+w: cold of win - ter, when half spent - was - the night.
+W: Intro starts at 'when half spent...' Kate notes: 'better in C'.
+
+%% transpose 0
 %% header
 X: 22
 T: Silent Night (melody)
