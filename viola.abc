@@ -55,15 +55,15 @@ K: G
 V: 1 name="Vln I" snm="" clef=treble
 %%MIDI channel 1
 %%MIDI program 40
-|: !f!ue | e b b a | g f e d | e f g a |
+|: !f!ue | "Em" e b b a | g f e d | "C" e f g a |
 w: God rest ye mer-ry, gent-le-men, let noth-ing you dis-
-b3 !mf!e | d b b a | g f e d | e f g a |
+"B7" b3 !mf!e | "Em" d b b a | g f e d | "C" e f g a |
 w: may; Re-mem-ber Christ our Sav - ior was born on Christ-mas
-b3 b | c' a b c' | d' e' b a | g e f g |
+"B7" b3 b | "Dm" c' a b c' | "G" d' e' "E7" b a | "Am" g e f g |
 w: Day,  to save us all from Sat-an's power when we had gone a-
-a2 g a | b2 c b | (b a) g f | e2 g/f/ e |
+"G" a2 g a | "C" b2 "F" c "C" b | "B7" (b a) g f | "Am" e2 "C" g/f/ e |
 w: stray, oh - ti- dings of com - fort and joy; com-fort and
-a2 g a | b c' d' e' | b a g f | e3 :|
+"D" a2 g a | "G" b c' d' "C" e' | "B7" b a g f | "Em" e3 :|
 w: joy,  oh - ti - dings of com - fort and joy.
 V: 2 name="Vln II" snm="" clef=treble
 %%MIDI channel 2
