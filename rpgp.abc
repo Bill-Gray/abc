@@ -1,0 +1,79 @@
+%%deco alcoda 3 dacs 20 0 0 Al Cod
+%%deco dcalfine 3 dacs 20 0 0 D.C.Al Fine
+
+X: 4
+T: Giant Footsteps
+C: Edward Huws Jones
+M: 4/4
+K: D
+L: 1/4
+Q: 1/4 = 72 Heavily
+D D E E | D2 D2 | D D E E | D2 D2 |
+w: Hear the gi-ant foot-steps, hear the gi-ant foot-steps,
+D D A A | D D A A | !ff!D D E E | D2 D2 |
+w: shake the doors and shake the win-dows, HEAR THE GI-ANT FOOT-STEPS!
+
+X: 5
+T: Goblin Cobbler
+C: Edward Huws Jones
+M: 4/4
+K: G
+L: 1/4
+Q: 1/4 = 88 Resolutely
+!mf!E E E F | E E E F | E D E F | E2 E2 |
+w: Tap tap tap, and tap tap tap, and make these shoes by mor-ning.
+    E E E F | E E E F | E D E F | E2 E2 |
+w: Tap tap tap, and tap tap tap, and make these shoes by mor-ning.
+
+X:6
+T: Red Parrot, Green Parrot
+C: Edward Huws Jones
+M: 4/4
+K: D
+L: 1/4
+Q:  1/4=116 Lively
+!mf! D2 D D | E2 E E | F2 E D | E2 z2 | D2 D D |
+w: Red par-rot, green par-rot, perch on a tree, red par-rot,
+E2 E E | F2 E2 | D2 z2 !fine! |] !f!vA2 A A | A z z2 |
+w: green par-rot, fly-ing free. Red par-rot squawk,
+!p!vA2 A A | A z z2 | !f!e2 e e | A2 A2 | !diminuendo(! D D D D |
+w: green par-rot squawk, some par-rots talk but these ones on-ly
+!diminuendo)! G,2 z2 | !mf!D2 D D | E2 E E | F2 E D |
+w: squawk. Red par-rot green par-rot, perched in a
+E2 z2 | D2 D D |E2 E E | F2 E2
+w: tree, Red par-rot, green par-rot, fly-ing
+D2 z2 || z4 | z2 (f{a'}) | z4 | z2 | (f{a'}) |
+!f!ve2 e e | A2 A2 | !diminuendo(! D D D D  | G,2 !diminuendo)! z2 !dcalfine! |
+
+X: 7
+T: Gideon was a Soldier
+C: Edward Huws Jones
+M: 4/4
+K: D
+L: 1/4
+Q: 1/4=108 Bluesy
+!mf!D2 D2 | D F G F | D2 D2 | D F G F |
+w: Gi-deon was a sol-dier, brave man, no one bol-der,
+D2 D2 D E F G A2 z2 | z2 |
+w: Lord said "Beat that Mi-dian-ite!
+A D D D | A2 z2 | G D D D | G2 z2
+w: Choose your men with care: see that ri-ver there?
+F D D D | E D F E | D2 z2 | z4 |]
+w: Those who drop their swords to drink don't fight."
+
+X: 8
+T: Skating
+C: Edward Huws Jones
+M: 6/8
+K: A
+L: 1/8
+Q: 3/8=50 Waltz
+!mf! A3 A3 | B3 B3 | c3 c3 | B3 B3 | A3 A3 | B3 B3 |
+w: Ska-ting, ska-ting, so e-la-ting, ska-ting, ska-ting,
+c3 B3 | A3 z3 !fine! |] z3 z3 | !f!vc3 c3 | B3 B3 | c3 c3 | !diminuendo(! B3 B3 !diminuendo)! |
+w: here we go. Flash-ing past we glide so fast we're
+e3 e3 | e3 e3 | !crescendo(!eee eee !crescendo)! | !f!e z z \
+w: near-ly fly-ing. if we're not care-ful we'll fall:
+% percussion
+[K:none] B z z | z4 |]
+w: WHOOPS!
