@@ -540,3 +540,27 @@ uA |: "D" vD<uD "A" (vE>F) "Bm" (ud>c) ({B/c/}"G"vB)uA | "Em" (vB>A "G" B)ud "Em
 W: From p. 40, _Fiddlers Philharmonic Encore!_
 
 %% transpose 0
+
+X: 125
+T: Over the Waterfall
+C: From Harry Reed
+M: 4/4
+L: 1/8
+K: D
+Q:1/4=160
+vde |: "D" vf2 a2 gf e2 | d2 B2 A2 de | f2 a2 gf e2 | d3d d2 de |
+f2 a2 gf e2 | d2 B2 A2 AB | "C" =c2 cc B2 A2 |1 "G" G3 G G2 de :|2 "G" G3 G G2 (FG) ||
+"D" A2 A2 "G" B2 B2 | "D" ABAG F3 G | A2 d2 "A" cd e2 | "D" d3 d d2 FG | A2 A2 "G" B2 B2 |
+"D" ABAG F3 G | A2 F2 "A" GF E2 |1 "D" D3 D D2 FG :|2 "D" D3 D D2 de :|
+
+X: 128
+T: La Moquine
+C: Claude M\'eth\'e
+M: C|
+L: 1/8
+K: D
+Q:1/4=160
+|: "D" fef(a a)afe | dcd(f f)fdA | "G" BAB(f f)fBf | fedf "A" e4 |
+   "D" fef(a a)afe | dcd(f f)fdA | "G" BAB(f f)fBf | fedf "A" ec "D" d2 :|
+|: "G" GFG(B B)BGA | BABd "A" c2 A2 | "D" FEF(A A)AFA | dAFA BAFD |
+   "G" GFG(B B)BGA | BABd "A" c2 A2 | "D" dcd(f f)fde | fa"A"ge "D" d4 :|
