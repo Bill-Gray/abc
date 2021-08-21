@@ -79,7 +79,7 @@ C: Scottish
 M: 4/4
 K: Eb
 V: 1 clef=treble
-%% transpose -1
+% transpose -1   (make that two percent signs for a key of D version)
 L: 1/8
 (3(uB,CD |: "Eb" E2) G4 (3(BGE | "Bb" D2) F4 (3(FED | "Ab" A,2) [c4E4] (de) | "Bb" (=ABcB) (_AG)(AF) |
 "Eb" [E2G,2] ([B4E4] c2) | "Ab" [E2A,2] [c4E4] (de) | "Bb" D2 ((3DEF AF)DF |1 "Eb" E2 G2 E2 ((3B,CD :|2 "Eb" E2 G2 E2 u(g/a/g/f/) |]
@@ -1057,5 +1057,17 @@ Q: 1/4=116
 "A" (E2 A2 c2) | "E7" B3 A G2 | "F#m" (A4 "A7" AG) | "D" F2 (A3 d) | d2 (3(cdc) B2 | "A" E2 A3 d | c2 (3(BcB) A2 |
 "E7" E2 G2 B2 | E2 B2 G2 | "F#m" F2 A3 c | "A7" c2 d2 e2 | "Bm7" f2 (d3 B) | "E7" d2 (3(cdc) B2 | "A" A2 (E3 d) |
 "F#m" c2 (3(BcB) A2 | "Bm7" B2 (F3 E) | "E7" D3 C B,2 | "A" (A,6 | A,2) z2 z2 |]
+
+X: 131
+T: Hundred Pipers
+M: 6/8
+K: A
+L: 1/8
+Q: 1/4=136
+N: Portland Collection
+|: A2 B | "A" c2 E EFE | "D" F2 A A2 f | "A" e2 c "F#m" cBA | "Bm" BcB "E" BAB |
+"A" c2 E EFE | "D" F2 A A2 f | "A" e2 c "E" BcB | "A" A3 :|
+|: c2 d | "A" e2 e ece | "D" f2 a agf | "A" e2 c "F#m" cBA | "Bm" BcB "E" Bcd |
+"A" e2 e ece | "D" f2 a agf | "A" e2 c "E" BcB | "A" A3 :|
 
 %% transpose 0
