@@ -11,3 +11,33 @@ Q: 1/8=120
 "D" A2A2"D"d2d2 "G"G2A2"G"B2c2 | "D"d2d2"D"D2D2 "G"d2(dB) "G" d2(dB) | "G" (d2e2) "C" (e2g2) "Am" c2(cA) "Am" c2(cA) | "D" (f2g2) "G?" (g2a2) "G" z2 (b/c'/d') "G/D" (bg)(df) | "G" g2(dB) "G" d2(dB) "G" (d2e2) "C" (e2g2) |
 "Am" c2(cA) "Am" c2(cA) "D" (c2f2) "D" (f2a2) | "G" ((g2g/)a/b) "G/D" (gb)(ad) "G" ((g2g/)a/b) "G/D" (gb)(ad) | "G" g2(b/c'/d') "G/D" (bg)(af) "G" g2(b/c'/d') "G/D" (bg)(af) | !fermata! "G"g4 z4 z8 |]
 
+X: 3
+T: O World,  I Now Must Leave Thee
+C: J. S. Bach
+N: Moderately
+K: A
+L: 1/4
+Q: 1/4=120
+M: 4/4
+"A" c | "D" A "E7" B "A" (c/d/) "A" e | "D" d2 "A" !fermata! c "A" c | "A" e e "E" B "A" d/c/ |
+"A" A2 "E" !fermata! G "E7" E | "A" A "E7" B "A" (c/d/4e/4) "A" (d/c/) | "E" B3 "A" c |
+"F#m" A "E" B "A" (c/d/) "A" e | "D" d2 "A" !fermata! c "F#m" (c/d/) | "A" e e "E" B "C#m" c |
+"A" A2 "E" !fermata! G "E" E | "A" A "E7" B "A" (c/d/) "A" (e/d/) | "E" c "E7" B "A" !fermata! A |]
+W: From p 32,  _Baroque & Folk Tunes For the Recorder_
+
+X: 5
+T: Allegro from _Heroic Muse_
+C: Georg Philipp Telemann
+M: C
+K: F
+L:1/4
+Q: 1/4=120
+|: "C" c | "F" A/B/ c F f | "C" e/f/ g c b | "F" a g/f/ "Gm" g "C" e | "F" f3 "C" g |
+"F" a A "A7" g G | "Dm" (f/e/) f (f/e/) f | "C" g G "G7" f F | "C" (e/d/) e (e/d/) e | "G7" f F "C" e E |
+"G" d c/=B/ "C" c d | "C" G2 "G7" =B2 ({A/B/} | "C" c/)d/e/f/ "G" g z | "C" c/d/e/f/ "G" g =B |
+"C" c>d "G" d>c | "C" c G/G/ "C" G G | "C" c3 :| "G" g | "C" e/f/ "Gm" g "A" ^c/d/ e |
+"A" A ^c "A" e a | "Dm" f>e "A" e>d | "Dm" d3 "D" ^f |
+"Gm" g/a/ b d "G" g | "C" e/f/ g c e | "F" f2 "C7" B2 | "F" A G/F/ "C" G e |
+"F" f2 "C7" B2 | "F" A G/F/ "C" G "Bb" d | "F" c "Bb" B/A/ "Gm" B "C" G | "F" F/G/A/B/ "C" c z |
+"F" F/G/A/B/ "C" c E | "F" F > "Bb" G "C7" G>F | "F" F c/c/ A c | "F" f3 :|
+W: From p 34, _Baroque & Folk Tunes for the Recorder_
