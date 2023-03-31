@@ -1,0 +1,91 @@
+% 2020 Nov 23 : from _Christmas Duets for Violins & Other C Instruments_,
+% by Will Schmid.  Melody only.
+
+X:2
+T:We Wish You A Merry Christmas
+C:Christmas
+M:3/4
+K:D
+L: 1/8
+uA2 | "D" d2 (de)dc | "G" B2 uB2 uB2 | "E" e2 (ef)ed | "A" c2 uA2 uA2 |
+w: We wish you a mer-ry Christ-mas, We wish you a mer-ry Christ-mas, We
+"D" vf2 (fg)fe | "G" d2 B2 "D" BB | "G" A2 "A" ud2 uc2 | "D" d4 |]
+w: wish you a mer-ry Christ-mas and a hap-py new Year.
+uA2 | d2 d2 d2 | "A" uc4 uc2 | "E7" (d2 c2) B2 | "A" A4 ue2 |
+w: Good tid-ings we bring to you and your friends,  Good
+"D" (f2 e2) d2 | a2 A2 AA | "G" (B2 e2) "A" uc2 | "D" d4 ||
+w: tid-ings for Christ-mas and a Hap-py new year.
+
+X: 4
+T: Joy To The World
+C: Christmas
+M: 4/4
+K: A
+L: 1/4
+"A" va2 "E" (g>f) | "A" e3 "Bm" d | "A" c2 "E7" B2 |
+w: Joy to the world! The lord is
+"A" A3 ue | "D" f3 vf | "E7" ug3 ug |
+w: come; Let earth re-ceive her
+"A" va3 ua | (ag) (fe) | (e>d c) ua |
+w: King; Let ev - 'ry - heart -  - pre-
+(ag) (fe) | (e>d c) uc | c c c (c/d/) |
+w: pare - him - room, - - And heav'n and na-ture -
+!4!e3 (ud/c/) | "E" B B B (B/c/) | "E7" d3 (uc/B/) |
+w: sing. And - heav'n and na-ture - sing, And -
+"A" A a2 "D" uf | "A" (e>d c) "Bm" ud | "A" c2 "E7" B2 | "A" A3 z |]
+w: heav-en and heav--en and na-ture sing.
+
+X: 6
+T: Jingle Bells
+C: Christmas
+M: 4/4
+K: A
+L: 1/4
+"A"(vE c) (B A) | E3 (uE/vE/) | (E c) (B A) | "D" F3 z |
+w: Dash-ing through the snow in a one-horse op-en sleigh
+(vF d) (c B) | "E7" G4 | !4!e e (d B) | "A" vc3 z |
+w: O'er the fields we go, Laugh-ing all the way.
+(vE c) (B A) | E3 z | (uE c) "A7" (B A) | "D" uF3 uF |
+w: Bells on bob-tail ring, mak-ing spir-its bright.  What
+(F d) (c B) | "E7" e e e e | (f e) (d B) | "A" vA2 ue2 |
+w: fun it is to ride and sing a sleigh-ing song to-night. Oh,
+"A" vc c c2 | uc c c2 | c e (vA > B) | "A7" c4 |
+w: Jin-gle bells, jin-gle bells, jin-gle all the way,
+"D" vd d (vd > vd) | "A" d c c c/c/ | "B7" c B B c | "E7" B2 e2 |
+w: Oh, what fun it is to ride in a one-horse op-en sleigh! -
+"A" vc c c2 | uc c c2 | c e (A > B) | "A7" c4 |
+w: Jin-gle bells, jin-gle bells, jin-gle all the way,
+"D" vd d (vd > vd) | "A" d c c c/c/ | "E7" e e d B | "A" A3 z |
+w: Oh, what fun it is to ride in a one-horse op-en sleigh!
+
+X: 8
+T: God rest ye merry, gentlemen
+C: Christmas
+M: 4/4
+K: D
+L: 1/4
+uB | "Bm" B f "F#" (f e) | "Bm" (dc) B A | (B c) d e | "F#" uf3
+w: God rest ye mer-ry, gen-tle-men, Let noth-ing you dis-may;
+uB | "Bm" B f "F#" (f e) | "Bm" (dc) B A | (B c) d e | "F#" uf3
+w: Re-mem-ber, Christ, our sav - iour, was born on Christ-mas day;
+vf | "Em" g e (f g) | "D" (a b) f e | "Bm" ud B (c d) | "A" !4!ve2 (ud e) |
+w: To save us all from Sa-tan's pow'r, When we were gone a-stray. O -
+"D" f2 (g f) | "F#" (f e) ud c | "Bm" uB2 vd/uc/ B | "A" ue2 (vd e) |
+w: ti-dings of com - fort and joy, com-fort and joy, O -
+"D" (uf g) (a b) | "F#" (f e d) uc | "Bm" (vB4 | B3) |]
+w: ti - dings of com - fort and joy. -
+
+X: 10
+T: The Holly and the Ivy
+C: Christmas
+M: 3/4
+K: D
+L: 1/4
+ud | "D" d/d/ d "G" b | "D" (a f) d | vd/d/ d "G" b | "D" a2 (ua/g/) |
+w: The hol-ly and the i-vy, when they are both full grown, of -
+(vf/e/) d (vf/uf/) | "G" vB/uB/ "D" A (ud/e/) | vf/ug/ f "A" e | "D" vd2 ud |
+w: all the trees that are in the wood, The - hol-ly bears the crown;  the
+"D" d/d/ d "G" b | "D" (a f) d | vd/d/ d "G" b | "D" a2 (ua/g/) |
+w: ris-ing of the sun, And the run-ning of the deer;  The -
+(vf/e/) d f | "G" uB/vB/ "D" uA (d/e/) | (f/g/) vd "A" ue | "D" vd2 |]
+w: play-ing of the mer-ry or-gan, Sweet sing-ing in the choir.
