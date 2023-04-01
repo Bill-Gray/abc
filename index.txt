@@ -1,5 +1,4 @@
-80,88,98,132,133 (blanks)
-91               (can replace)
+199,162  (blank)
 150      All the Way to Galway
 136,83   Amazing Grace
 84,148   Angeline the Baker
@@ -8,8 +7,9 @@
 13,81    The Ash Grove
  1,84    Ashokan Farewell
 130      Back Again (FDR)
-         Bank's Hornpipe
+213      Bank's Hornpipe
  2,15,81 Barlow Knife
+         La Bastringue
 24,46,82 Battle of Aughrim
  2,15,85 Bee's Wing Hornpipe
 87       Bee's Wing Hornpipe (2 keys)
@@ -32,15 +32,19 @@
 101      Boy's Lament for His Dragon
 140,170  The Brown Cow (Ms McCleod's Reel)
 101      Bus Stop Reel
-173,179  Carolan's Concerto
+173,179  Carolan's Concerto (in D)
+88       Carolan's Concerto (in C)
  7,103   Cattle in the Corn
 35,104   Chicken Reel
+9        Cock of the North
 10,104   Coilsfield House
 134,140  Cold Frosty Morning
 170      Cold Frosty Morning
  4,105   Colored Aristocracy
 105      Cooley's Reel
 39,47    Cooley's Reel
+144,145  Country Gardens
+214      Cowboy's Jig
 49,106   Cripple Creek
 34,49    Cripple Creek
 125      Da Mirrie Boys o Greenland
@@ -49,6 +53,7 @@
 12       Devil's Dream
 121      Don Gato
 112      Dover Pier (in G & Bb)
+215      Do You Hear/People Sing
 109      Drowsy Maggie
 24,49    Drowsy Maggie
  9,109   East Neuk of Fife
@@ -73,24 +78,28 @@
 131      Hapavaasti
 127,129  Hapavaasti
 22       Haste to the Wedding
-162      The Headlands
+161,229  The Headlands
+223      Heroic Muse allegro (Telemann)
 134,169  High Road to Linton
+232      Hughie Shorty's Reel
 178      Hundred Pipers
+222      I Will (chords)
 135      In the Garden
 208      It Was a Lover & His Lass
 11,137   Jerusalem Ridge
 206      Jesu, Joy of Man's Desiring
 120      John Bowes
  5,37    John Ryan's Polka
-187      Joys of Quebec
+185,187  Joys of Quebec
  7       June Apple
 37,55    Kesh Jig
 33       L'Internationale
-185      La Bastringue
+(redo)   La Bastringue
 186      Largo, Dvorak's _New World_
 13,74    Leaving Lismore
 183      Leaving Lismore
 14       Liberty
+230      Lovely Stornoway
 80       Mairi's Wedding
 38,58    Mason's Apron
 36,56,63 Minstrel Boy
@@ -105,15 +114,17 @@
 118,139  The Old Mill
 47,103   Oh, the Britches
 93       Old Joe Clark
-98       Over the Waterfall
+98,231   Over the Waterfall
+225      O World, I Now Must Leave Thee
 177      La Paloma
+211      Peg O'Brien
 152      pi (3.14159...)
 152      pi=4(1-1/3+1/5-1/7...)
 154      pi^2/6=1/1^2++1/2^2+1/3^2+...
 17       Planxty Fanny Power
 145      Planxty Irwin
 147      Rakes of Mallow
-191      A Red, Red Rose
+191,221  A Red, Red Rose
 20,72    Red-Haired Boy (in G)
 168      Red-Haired Boy (in G & A)
 149      Redwing
@@ -138,15 +149,18 @@
 71,153   Spootiskerry
 18       St Anne's Reel
 175      Star of the County Down
+212      Stool of Repentance
 48,156   Swallowtail Jig
 160      Swinging on a Gate
 68,159   Teetotaller's Reel
 20,167   Temperance Reel
-161,172  Wachet Auf
+210      Under the Greenwood Tree
+227,228  Valse des Jouets
+172      Wachet Auf
 196,203  Waltz for David & Melissa
 200      What a Wonderful World
  6,163   Whiskey Before Breakfast
 171      Whiskey Before Breakfast
 59       Whistling Thief
 156,158  White Cockade
- 6,16    Why Does the Sun Shine?
+6,16     Why Does the Sun Shine?
