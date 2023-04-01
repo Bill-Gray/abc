@@ -1,0 +1,52 @@
+%!PS-Adobe-2.0
+%%BoundingBox: 48 73 596 735
+%%Pages: 2
+%%Title: Binder Index
+%%Version: none
+%%DocumentData: Clean7Bit
+%%Creator: BJG
+%%Copyright: none
+%%PageOrder: Ascend
+%%Orientation: Portrait
+%%EndComments
+%%BeginDefaults
+%%PageResources: font Times-Roman
+%%PageResources: font Times-Italic
+%%PageResources: font Times-Bold
+%%EndDefaults
+
+/setup {
+/x0 50 def
+/y0 720 def
+/spacing 12 def
+/fontsize spacing def
+/Times-Roman findfont spacing scalefont setfont
+} def
+
+/max_string_size 220 def
+
+/fit_to_label        % takes text on the stack
+{ dup stringwidth pop
+/strsize exch def               % strsize = length of text in points
+/font_size_to_use fontsize def  % if it would be,  resize the font
+strsize max_string_size gt      % if our string really _is_ more than 2.4"
+   {                            % long, shrink the font size to be used
+   /resize max_string_size strsize div def
+   /font_size_to_use fontsize resize mul def
+   gsave
+   currentpoint translate
+   resize resize scale
+   0 0 moveto
+   show
+   grestore
+   }
+   { show } ifelse
+} def
+
+/z {
+x0 50 add y0 moveto fit_to_label
+x0 y0 moveto show
+/y0 y0 spacing sub def
+y0 126 lt { /y0 720 def /x0 348 x0 sub def x0 51 lt { stroke  } if } if
+} def
+
