@@ -55,3 +55,88 @@ K: G
 "G" dBB/B/B (dBGB) | "D" cAFA "G" G2 (Bd) | g2 (dg) bgag | "C" ecc/c/c (ef)ge | "G" dBB/B/B (dB)GB | "C" cAAB "D" AFDB, |
 "C" CDEC "G" B,DGB | "C" cd"D"ef "G" g2 (fg) | "C" ecA(c "G" dB)GB | "D" cAFA "G" G4 |]
 W: From 'Fiddler's Workshop' 2023
+
+X: 7
+T: Finn Schottiche
+C: Traditional
+L: 1/8
+M: C
+K: C
+|: "Am" A2 A>c e2 e2 | "Dm" d>^c d>e f2 z2 | "E" ve>f e>d c>d c>B |1 "Am" A>E A>c "E" e2 z2 :|2 "Am" A2 [A2E2] A2 z2 ||
+|: "Am" e2 ue>c A2 A2 | "E" B>c B>^G E2 z2 | "Am" e>f e>d c>d c>B |1 "Am" A>E A>c "E" e2 z2 :|2 "Am" A2 [A2E2] A2 z2 |]
+
+X: 9
+T: Steamboat Quickstep
+C: Trad.
+L: 1/8
+M: 6/8
+K: A
+|: "A" a2 e c2 A | Ace a3 | "D" agf edc | "E" Bcd efg |
+   "A" a2 e c2 A | Ace a3 | "D" agf edc | "E" BcB "A" A3 :|
+|: "A" c2 e e2 e | efe cBA | "D" d2 f f2 f | fga (f2 e) |
+   "A" c2 e e2 e | efe cBA | "D" agf edc | "E" BcB "A" A3 :|
+
+X: 11
+T: Gather Round
+C: Julian Fleisher
+L: 1/4
+M: 3/4
+K: C
+G |: "C" c G c | "G" B2 G | "F" A2 F | "G" G2 G |
+w: A cir-cle's a line that nev er ends, and
+"F" A F A | "C" G F E | "Dm7" D2 E | "G7" G2 G |]
+w: life is a cir-cle that's made of friends,  and
+"C" c d e | "G" B2 G | "F" A2 c | "G" G2 E |
+w: friends are the folks who gath-er round to
+"F" F2 G | "C" E2 F | "Dm7" D2 G | "G7" G2 G |]
+w: help you make a joy-ful sound,  The
+"C" c d e | "G" f3 | "F" f2 e | "G" d2 B |
+w: sound when we all sing a-long,  So
+"F" c G c | "C" c G E | "Dm7" D2 E | "G7" G2 A :|
+w: gath-er to-geth-er and sing this cir-cle
+
+X: 13
+T: Hommage \`a la belle Gasp\'esie
+C: Marcel Messervier
+L: 1/8
+M: C|
+K: A
+EA |: "A" c2 (cd) cBAc | feef e2 (EA) | c2 cd cBAc | "E" edde d3 c |
+"Bm" dcde dcBA | "E" BABc B3 e | e^def e=dcB |1 "A" cBcd cAEA :|2 "A" Ac"E"(3BcB "A" A2 AA |
+|: "D" aA=gA ((3fgf)(ec) | "A" Acef e(cBF) | "E" EEBE cEBE | "A" ABcd e(cBA) |
+   "D" aA=gA ((3fgf)(ec) | "A" Acef e(cBF) | "E" EEBE cEBE | "A" Ac"E"((3BcB) "A" A2 AA :|
+
+X: 15
+T: Start a Song
+C: Music Kate Gray / Lyrics David Covell
+L: 1/4
+M: C
+K: C
+"C" C "G" D "C" E2 | "C" E "G" F "C" G2 | "F" A G F E | "G" D E F G |
+w: Start a song, won't take long, Sing a-long, we all be-long, A
+"C" E/E/ "G" D "C" C2 | "C" G "G" F "C" E2 | "F" F E D C | "G" B, C D/z/ z
+w: cir-cle of friends has no end, Sing it round and round a-gain, a-gain
+
+X: 17
+T: Start a Song
+C: Music Kate Gray / Lyrics David Covell
+L: 1/4
+M: C
+K: C
+"C" C "G" D "C" E2 | "C" E "G" F "C" G2 | "F" A G F E | "G" D E F G |
+w: Start a song, won't take long, Sing a-long, we all be-long, A
+"C" [CE] "G" D "C" [E2C2] | "C" [EG] "G" F "C" [E2G2] | "F" [FA] [EG] [DF] [CE] | "G" [DB,][EC][FD] G |
+"C" E/E/ "G" D "C" C2 | "C" G "G" F "C" E2 | "F" F E D C | "G" B, C D/z/ z
+w: cir-cle of friends has no end, Sing it round and round a-gain, a-gain
+
+X: 19
+T: Start a Song (no piano)
+C: Music Kate Gray / Lyrics David Covell
+L: 1/4
+M: C
+K: C
+C D E2 | E F G2 | A G F E | D E F G |
+[CE] D [E2C2] | [EG] F [E2G2] | [FA] [EG] [DF] [CE] | [DB,][EC][FD] G |
+[CE] D [E2C2] | [EG] F [E2G2] | [FA] [EG] [DF] [CE] | [DB,][EC][FD] G |
+[CE] D [E2C2] | [EG] F [E2G2] | [FA] [EG] [DF] [CE] | [DB,][EC][FD] G |
+E/E/ D C2 | G F E2 | F E D C | B, C D/z/ z
