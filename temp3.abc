@@ -140,3 +140,40 @@ C D E2 | E F G2 | A G F E | D E F G |
 [CE] D [E2C2] | [EG] F [E2G2] | [FA] [EG] [DF] [CE] | [DB,][EC][FD] G |
 [CE] D [E2C2] | [EG] F [E2G2] | [FA] [EG] [DF] [CE] | [DB,][EC][FD] G |
 E/E/ D C2 | G F E2 | F E D C | B, C D/z/ z
+
+% Run this file through 'ungrace' to remove the grace notes,  if so desired
+
+X: 21
+T: Eleanor Plunkett
+C: O'Carolan
+L: 1/8
+M: 3/4
+K: G
+|: vGuA | {c} "G" vB2 B2 A2 | G2 G2 {e}(ugf) | "C" e2 e2 {ef}(ved) | "Em" B2 {B}(dB) AG |
+"C" E2 A2 (AB) | {AB} "D" !fermata! vA4 :||: (uga) | {a} "G" vb2 {ab}(ag) (ed) | {d} "C" e2 e2 (vef) |
+{ga} "Em" ug2 g2 b2 | {b} "D" va2 (uba) {ga}(gf) | "C" vg2 (uag) {fg}(fe) | "G" vd2 B2 {B}d2 |
+"C" e2 g2 (GA) | {A} "Em" B2 (dB) {AB}AG | "C" E2 A2 vAuB | {AB} "D" !fermata! A4 :|
+W: Fiddler's Philharmonic, p. 18
+
+X: 23
+T: Finlandia (Song of Peace)
+C: Jean Sibelius; w. Lloyd Stone
+L: 1/4
+M: 4/4
+K: F
+Q: 1/4=140
+"F" [AF] [GE] [AF] |: "Bb" [B3E3] [AF] | "C" [GE] [AF] "Bb" [FD] > [GE] | "F" [GE] ([A3F3] | [AF]) [AF] [GE] [AF] | "Bb" [B3E3] [AF] |
+w: This is my song, O spi-rit of all na-tions; - A song of peace for
+w:  - - - skies are blu-er than the o-cean, - And sun-light streams on
+"C" [GE] [AF] "Bb" [FD] > [GE] | "F" ([A4F4] | [AF]) [cA] [cA] [cA] | "Dm" [d3A3] [AF] | [AF] [cF] [cF] > [GE] | "Gm" [GE] ([B3G3] |
+w: lands a-far and mine. - This is my home, the coun-try where my heart is;
+w: clo-ver, leaf and pine; - But o-ther lands have sun-light too and clo-ver,
+[BG]) [BG] [AF] [GD] | "F" [A3F3] [FC] | [FD] [GE] "C" [GE] > [AE] | "F" ([A4E4] | [AE]) [cA] [cA] [cA] | "Dm" [d3A3] [AF] |
+w: -Here are my hopes, my dreams, my ho-ly shrine; -But o-ther hearts in
+w: -and skies are ev-'ry where as blue as mine; -O hear my song, thou
+[AF] [cF] [cF] > [GE] | "Gm" [GE] ([B3D3] | [BD]) [BG] [A^F] [GD] | "F" [A3F3] [FC] |
+w: o-ther lands are beat-ing, -with hopes and dreams as
+w: spi-rit of all na-tions, -a song of peace for
+"Dm" [FC] [GF] "C" [GE] > [FC] |1 "F" [F4C4] | z [AF] [GE] [AF] :|2 "F" ([F4C4] | [FC]) ||
+w: true and high as mine. My count-try's
+w: their land and for - - - - mine.
