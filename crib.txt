@@ -1,5 +1,11 @@
-abcm2ps eastneuk.abc --topmargin 300 -e 126 -s 1 --transpose 2
+abcm2ps eastneuk.abc --topmargin 300pt -e 126 -s 1 --transpose 2
 
    Above sets the top margin at 300 points = 4.something inches,  so
-that it could be printed as the second tune on a page.  --transpose 2
-went up two semitones from G to A.
+that it could be printed as the second tune on a page.
+
+  --transpose 2 went up two semitones from G to A.
+
+   'man abcm2ps' is very helpful for this,  as are
+
+http://moinejf.free.fr/abcm2ps-doc/
+https://manpages.ubuntu.com/manpages/trusty/man1/abcm2ps.1.html
