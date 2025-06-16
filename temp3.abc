@@ -175,8 +175,8 @@ w: -and skies are ev-'ry where as blue as mine; -O hear my song, thou
 w: o-ther lands are beat-ing, -with hopes and dreams as
 w: spi-rit of all na-tions, -a song of peace for
 "Dm" [FC] [GF] "C" [GE] > [FC] |1 "F" [F4C4] | z [AF] [GE] [AF] :|2 "F" ([F4C4] | [FC]) ||
-w: true and high as mine. My coun-try's
-w: their land and for - - - - mine.
+w: true and high as mine. My coun-try's - -
+w: their land and for - - - - mine. -
 
 X: 25
 T: Road to Lisdoonvarna
@@ -241,3 +241,48 @@ w: sheep The val-ley will bloom a-gain And Jim-my will go to sleep In his
 w: own lit-tle room a-gain. There'll be blue-birds ov-er the white cliffs of Do-ver,  to-
 "Fm7" A2 A2 | "Bb7" G F E F |1 "Eb" (E4 | "Fm7" E) z "Bb7" G B :|2 "Eb" (E4 | E3) z |]
 w: mor-row, Just you wait and see. - There'll be see. -
+
+X: 35
+M: C
+T: Bonnie Tammie (harmony)
+L: 1/4
+K: A
+A A A A | A A A A | e e e e | e e e e |
+A A A A | A A A A | e e e e | A A A A |
+D D D D | A A A A | e e e e | e e e e |
+D D D D | A A A A | e e e e | A A A A |
+
+
+%% transpose -3
+X: 37
+M: 3/4
+T: The Rainbow Connection
+L: 1/4
+K: Bb
+Q: 1/4=140
+| "Bb" D F B | "Gm" c/d/ d>D | "Cm" E F B | "F" B c>C |
+w: Why are there so man-y - songs a-bout rain-bows, And
+"Bb" D F A | "Gm" (B B) F | "Eb" (G3 | G2) z | "Bb" D F B |
+w: what's on the oth - er side? - Rain-bows are
+"Gm" c d>D | "Cm" E F B | "F7" B c>C | "Bb" D F A | "Gm" B B F |
+w: vi-sions but on-ly il-lu-sions, and rain-bows have noth-ing to
+"Eb" (G3 | G2) z | "Eb" G d G | d G d | G d G |
+w: hide. - So we've been told and some choose to be-
+d G2 | "Am" A A A | c A F | (A3 | A2) z |
+w: lieve it; I know they're wrong, wait and see. -
+"Cm" E G B | "F7" A B>F | "Dm" F A c | "G7" A =B>D | "Cm" E F _B | "F7" d d c |
+w: Some-day we'll find it,  the rain- bow con-nect-ion, the lov-ers, the dream-ers and
+
+%% transpose 0
+X: 39
+M: 3/4
+T: Country Waltz
+L: 1/4
+K: D
+Q: 1/4=150
+vF/uE/ |: "D" vD F A | A2 F/E/ | D F A | f d (ue/f/) | "G" g/f/ e a |
+"D" f d c/d/ |1 "E7" e/f/ e/d/ c/B/ | "A" A/B/ A/G/ F/E/ :|2 "A7" e (uB c) | "D" vd2 uA ||
+|: "D" vf/g/ f/e/ d/B/ | A/B/ A/G/ F/E/ | D F A | "G" ((3uB/=c/B/) vA uf | "Em" g3/2 f/ e/d/ |
+"A7" c3/2 d/ c/B/ |1 A c e | "G" b a uA :|2 A (uB c) | "D" ([d2F2] [dF]) |]
+W: from _The American Fiddle Method_,  Mel Bay,  vol 1
+W: (Chords modified)
