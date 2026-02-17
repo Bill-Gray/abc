@@ -21,11 +21,12 @@ T: Minuet
 C: Johann Philipp Krieger
 L: 1/4
 M: 3/4
-K: C
 Q: "Andante"
+N: Note here
+K: C
 |: "Am" e c A | "Dm" f3 | "G" d B G | "C" e3 |
-"F" A3/2 c/"Dm"B/A/ | "E" ^G E "Am" e | "Dm" d/c/ "E" B>A | "Am" A3 :|
+"F" A > c"Dm"B/A/ | "E" ^G E "Am" e | "Dm" d/c/ "E" B>A | "Am" A3 :|
 |: "Am" c d "A7" e | "Dm" A3 | "G" B c "G7" d | "C" G3 | "F" A B c |
-"G7" B G "C" g | "F" f/e/ "G7" d>c | "C" !diminuendo(! c3 | !diminuendo)! "Am" e c A |
-"Dm" f3 | "G" d B G | "C" e3 | "F" A3/2 c/"Dm"B/A/ | "E" ^G E "Am" e | "Dm" d/c/ "E" B>A | "Am" A3 :|
+"G7" B G "C" g | "F" f/e/ "G7" d>c | "C" !diminuendo(! c3 | !diminuendo)! "Am" e c A | "Dm" f3 |
+"G" d B G | "C" e3 | "F" A > c/"Dm"B/A/ | "E" ^G E "Am" e | "Dm" d/c/ "E" B>A | "Am" A3 :|
 W: From _Baroque & Folk Tunes for Recorder_
