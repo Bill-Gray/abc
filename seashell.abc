@@ -30,3 +30,40 @@ K: C
 "G7" B G "C" g | "F" f/e/ "G7" d>c | "C" !diminuendo(! c3 | !diminuendo)! "Am" e c A | "Dm" f3 |
 "G" d B G | "C" e3 | "F" A > c/"Dm"B/A/ | "E" ^G E "Am" e | "Dm" d/c/ "E" B>A | "Am" A3 :|
 W: From _Baroque & Folk Tunes for Recorder_
+
+X: 3
+T: Minuet
+C: M. Clementi, arr. Forest R. Etling
+L: 1/4
+M: 3/4
+Q: 1/4=130
+K: C
+|: "C" (e/d/) (.uc .uc) | "C" g2 (f/e/) | "G" (vd .f) B | "C" (c .G) G |
+"C" (ve/d/) (.c .c) | "C" g2 (f/e/) | "G" (d/e/)(uf/ve/)(f/d/) | "C" vc z z :|
+"C" (vg/f/) (.e .e) | "F" (a/g/) (.f .f) | "G7" (d/f/)b/vf/(b/f/) | "C" (e.g) c' |
+"C" (vg/f/) (.e .e) | "Am" (e/d/) (.c .c) | "D" (^f/g/)ua/vb/(c'/a/) | "G" g z (ub/c'/) |
+"G" (d'/c'/)ub/a/(g/^f/) | "C" (e/d/)uc/vB/(A/G/) | "D" (^f/g/)ua/vb/(c'/a/) | "G" g z (ub/c'/) |
+"G" (d'/c'/)ub/va/(g/^f/) | "G7" =f f (d'/b/) | "G7" f f (d'/b/) | "G" f z z |
+"G" vd z z | "G" (vB/G/)uA/vB/(c/d/) | "C" (ve/d/) (.c .c) | "C" g2 (f/e/) |
+"G" (d .f) B | "C" (c .G) .G | "C" (ve/d/) (.c .c) | "C" g2 (f/e/) |
+"G" (d/e/)(f/e/)(f/d/) | "C" uc z z | "C" (ve/d/)(.c .c) | "C" g2 (f/e/) |
+"G" (d .f) B | "C" (.c G) G | "C" (ve/d/)(.c .c) | "C" g2 (f/e/) |
+"G" (d/e/)(f/e/)(f/d/) | "C" uc z z | "C" (vg/f/)(.e .e) | "F" (a/g/)(.f .f) |
+"G" (d/f/)(ub/f/)(b/f/) | "C" e z (ue/f/) | "C" (g/f/)ue/vd/(c/B/) | "F" (a/g/)f/ue/(d/c/) |
+"G" (B/c/)ud/ve/(f/d/) | "C"c2 z | "C" (ug/f/)(.e .e) |
+"F" (a/g/)(.f .f) | "G" (d/f/)ub/vf/(b/f/) | "C" e z (ve/f/) |
+"C" (g/f/)ue/vd/(c/B/) | "F" (a/g/)uf/ve/(d/c/) | "G" (B/c/)ud/ve/(f/d/) | "C" vc z "G" z |
+"C" vG z "G" z | "C" vc z "G" z | "C" vg z "G" z | "C" vc'3 |]
+W: From _Solo Time for Strings Book 5_, p. 4-7. Originally in C.
+
+X: 4
+T: The Mist Covered Mountain
+L: 1/8
+M: 6/8
+K: G
+G | "Am" EAA ABd | edB AGE | "G" G3 GAB | dBA "Em" GED |
+    "Am" EAA ABd | edB AGE | efg "G" dBG | "Em" (BA)G "Am" A2 e |
+    "Am" age (a2 b) | "Am" age "D" edB | "G" AGE (G2 A) | "G/B" BAB "Em" AGE | "Am" age (a2 b) |
+"Am" age "Bm/D" edB | "G" AGE (G2 A) | "Em" (BA)G "Am" (A2 e) | "Am" age (a2 b) | "Am" age "D" edB |
+"G" AGE (G2 A) | BAB GED | "Em" EDE (G2 A) | "G" (BAG) "Bm" Bcd | "C" (e/f/g)e "G" dBG |
+"Em" (BA)G "Am" A2 :||  G | "Am" EAA ABd | edB AGE | "G" G3 GAB |
