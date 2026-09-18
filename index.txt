@@ -1,4 +1,5 @@
 199,162  (blank)
+236,238  (blank)
 150      All the Way to Galway
 136,83   Amazing Grace
 84,148   Angeline the Baker
@@ -44,6 +45,7 @@
 105      Cooley's Reel
 39,47    Cooley's Reel
 144,145  Country Gardens
+197      Country Waltz
 214      Cowboy's Jig
 49,106   Cripple Creek
 34,49    Cripple Creek
@@ -51,6 +53,7 @@
 181      Daleigh
 167      Dashing White Sergeant
 12       Devil's Dream
+122      Ding Dong Merrily On High
 121      Don Gato
 112      Dover Pier (in G & Bb)
 215      Do You Hear/People Sing
@@ -58,10 +61,14 @@
 24,49    Drowsy Maggie
  9,109   East Neuk of Fife
  9,110   Eighth of January
+244      Eleanor Plunkett
+345      Evit Gabriel
 110      Fairy Dance
 26,51    Fairy Dance
 23,51    Farewell to Whiskey
+234      Finlandia
 19,60    Finn Jenta (in F, G)
+214      Finn Schottiche
 113,114  Finnegan's Wake (K,B)
 35       Fisher's Hornpipe
 10       Flowers of Edinburgh
@@ -81,6 +88,7 @@
 161,229  The Headlands
 223      Heroic Muse allegro (Telemann)
 134,169  High Road to Linton
+243      Hommage a la Belle Gaspesie
 232      Hughie Shorty's Reel
 178      Hundred Pipers
 222      I Will (chords)
@@ -91,8 +99,10 @@
 120      John Bowes
  5,37    John Ryan's Polka
 185,187  Joys of Quebec
+245      Julia Delaney
  7       June Apple
 37,55    Kesh Jig
+250      (Krieger) Minuet
 33       L'Internationale
 (redo)   La Bastringue
 186      Largo, Dvorak's _New World_
@@ -123,6 +133,7 @@
 154      pi^2/6=1/1^2++1/2^2+1/3^2+...
 17       Planxty Fanny Power
 145      Planxty Irwin
+249      Rainbow Connection
 147      Rakes of Mallow
 191,221  A Red, Red Rose
 20,72    Red-Haired Boy (in G)
@@ -132,7 +143,9 @@
 165      Reel des Accordeonistes (in C)
 194      Reel de Joie
 93       Road to Boston
+162      Road to Lisdoonvarna
 61,66    Round the Horn
+241      Roundy's I-1
 195,204  Roundy's Contra Dance I-3
 30,50    Roxborough Castle
 59,151   Sally's Waltz
@@ -141,7 +154,7 @@
 164      Shove That Pig's Foot...
 132,151  Si Beagh, Si Mohr (in C & D)
 69       Silver Spear
-64       Skye Boat Song
+64,240   Skye Boat Song
 31,50    Smash the Windows ("normal")
 28       Smash the Windows (simplified)
 8,18,150 Soldier's Joy
@@ -149,18 +162,21 @@
 71,153   Spootiskerry
 18       St Anne's Reel
 175      Star of the County Down
+233      Steamboat Quickstep
 212      Stool of Repentance
 48,156   Swallowtail Jig
 160      Swinging on a Gate
 68,159   Teetotaller's Reel
 20,167   Temperance Reel
+247      Tommy's Tarbukas
 210      Under the Greenwood Tree
 227,228  Valse des Jouets
 172      Wachet Auf
 196,203  Waltz for David & Melissa
-200      What a Wonderful World
+199      What a Wonderful World
  6,163   Whiskey Before Breakfast
 171      Whiskey Before Breakfast
 59       Whistling Thief
 156,158  White Cockade
+236      White Cliffs of Dover
 6,16     Why Does the Sun Shine?
